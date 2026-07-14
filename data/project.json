@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "marissabjones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/305021373?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "marissabjones",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-07-14T20:41:13.275Z",
-    "updated_at": "2026-07-14T20:41:13.275Z"
-  }
+    "updated_at": "2026-07-14T20:41:13.275Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "48d8cee4-b960-41b4-bea0-57cf19531704": {
+      "content": [],
+      "created_at": "2026-07-14T20:41:13.293Z",
+      "created_by": "marissabjones",
+      "title": "Influencer Rhetorical Analysis",
+      "updated_at": "2026-07-14T20:41:13.293Z",
+      "updated_by": "marissabjones",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "48d8cee4-b960-41b4-bea0-57cf19531704"
+  ]
 }
