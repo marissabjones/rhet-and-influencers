@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "96d719c8-d96f-42a0-bd0e-81970bbc9c36",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-07-14T20:47:36.177Z",
   "created_by": "marissabjones",
   "title": "Pierson Helmer",
   "slug": "pierson-helmer",
-  "updated_at": "2026-07-14T20:47:36.177Z",
+  "updated_at": "2026-09-05T18:51:31.607Z",
   "updated_by": "marissabjones",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "96d719c8-d96f-42a0-bd0e-81970bbc9c36"
   }
