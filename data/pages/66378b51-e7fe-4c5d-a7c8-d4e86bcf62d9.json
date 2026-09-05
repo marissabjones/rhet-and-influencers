@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[Whatever post you rhetorically analyze, you need to insert the proper MLA-citation of said audio/video file] "
+        }
+      ]
+    }
+  ],
+  "title": "Works Cited",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "works-cited",
+  "created_at": "2026-09-05T18:48:29.090Z",
+  "created_by": "marissabjones",
+  "updated_at": "2026-09-05T18:48:29.090Z",
+  "updated_by": "marissabjones"
+}
