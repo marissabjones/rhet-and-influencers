@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "4fc0a465-64b3-41c9-b1c1-5b2c91dcfee1",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-07-14T20:45:17.876Z",
   "created_by": "marissabjones",
   "title": "Kaden Faktor",
   "slug": "kaden-faktor",
-  "updated_at": "2026-07-14T20:45:17.876Z",
+  "updated_at": "2026-09-05T18:50:08.474Z",
   "updated_by": "marissabjones",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "4fc0a465-64b3-41c9-b1c1-5b2c91dcfee1"
   }
