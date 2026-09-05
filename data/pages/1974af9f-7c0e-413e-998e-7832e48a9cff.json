@@ -66,10 +66,15 @@
       ]
     },
     {
-      "type": "paragraph",
+      "uuid": "cf3e511f-4470-4c85-94f4-5e43b4809a0d",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
       "children": [
         {
-          "text": "[hyperlinked Event page: MBJ]"
+          "text": ""
         }
       ]
     },
@@ -93,6 +98,44 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Video Title",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "5cfc7d70-2a2d-4696-9f28-436c74bda3d8",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -106,6 +149,6 @@
   "slug": "medical-influencers",
   "created_at": "2026-09-05T18:58:39.721Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-05T18:58:39.721Z",
+  "updated_at": "2026-09-05T19:01:11.934Z",
   "updated_by": "marissabjones"
 }
