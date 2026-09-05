@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "9229f0e3-7ba4-4b3f-bdde-df6cb1b673bd",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-07-14T20:44:17.394Z",
   "created_by": "marissabjones",
   "title": "Talon Boudreaux",
   "slug": "talon-boudreaux",
-  "updated_at": "2026-07-14T20:44:17.394Z",
+  "updated_at": "2026-09-05T18:51:01.136Z",
   "updated_by": "marissabjones",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "9229f0e3-7ba4-4b3f-bdde-df6cb1b673bd"
   }
