@@ -1,0 +1,149 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "..."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "c9fac2e0-3f2d-4853-93e7-8d05c0009f5b",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "52e2d7f7-8416-47f6-ab18-8fbc0f34c14b",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "89d7b77a-a06f-4c00-8b2c-428be3160af0",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Luxury Lifestyle",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "luxury-lifestyle",
+  "created_at": "2026-09-07T20:51:24.398Z",
+  "created_by": "marissabjones",
+  "updated_at": "2026-09-07T20:51:24.398Z",
+  "updated_by": "marissabjones"
+}
