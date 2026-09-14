@@ -24,8 +24,43 @@
     "auto_populate_home_page": true,
     "additional_users": [
       {
-        "login_name": "KaleyChhor",
-        "avatar_url": "https://avatars.githubusercontent.com/u/324144013?v=4",
+        "login_name": "agrawalmehal",
+        "avatar_url": "https://avatars.githubusercontent.com/u/324144039?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "caseyboettcher",
+        "avatar_url": "https://avatars.githubusercontent.com/u/324144092?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "teediggity06",
+        "avatar_url": "https://avatars.githubusercontent.com/u/324144552?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "aderasari",
+        "avatar_url": "https://avatars.githubusercontent.com/u/324143931?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "Kfak05",
+        "avatar_url": "https://avatars.githubusercontent.com/u/324143921?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "jmg9826",
+        "avatar_url": "https://avatars.githubusercontent.com/u/324144110?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "pieaterepic",
+        "avatar_url": "https://avatars.githubusercontent.com/u/324143731?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "camiehuynh",
+        "avatar_url": "https://avatars.githubusercontent.com/u/324144002?v=4",
         "admin": false
       }
     ],
@@ -120,7 +155,7 @@
       ]
     },
     "created_at": "2026-07-14T20:41:13.275Z",
-    "updated_at": "2026-09-14T17:00:01.283Z",
+    "updated_at": "2026-09-14T17:11:25.050Z",
     "generate_pages_site": true
   },
   "annotations": {},
