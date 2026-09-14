@@ -1,5 +1,15 @@
 {
-  "audiovisual_files": {},
+  "audiovisual_files": {
+    "305b8c18-a9b9-485d-b5f5-b523f1c7d277": {
+      "label": "Pastor Paul Drees",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/v12025gd0000da2uu4nog65kbmcf5cv0/v12025gd0000da2uu4nog65kbmcf5cv0.mp4",
+      "duration": 76,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video"
+    }
+  },
   "auto_generate_web_page": true,
   "description": [
     {
@@ -15,6 +25,9 @@
   "label": "Jordis Magness",
   "created_at": "2026-07-14T20:48:36.273Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-07-14T20:48:36.273Z",
-  "updated_by": "marissabjones"
+  "updated_at": "2026-09-14T19:18:44.027Z",
+  "updated_by": "Jordis404",
+  "av_file_order": [
+    "305b8c18-a9b9-485d-b5f5-b523f1c7d277"
+  ]
 }
