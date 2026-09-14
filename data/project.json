@@ -24,18 +24,13 @@
     "auto_populate_home_page": true,
     "additional_users": [
       {
-        "login_name": "Jordis404",
-        "avatar_url": "https://avatars.githubusercontent.com/u/324144249?v=4",
+        "login_name": "audreymc12",
+        "avatar_url": "https://avatars.githubusercontent.com/u/324143934?v=4",
         "admin": false
       },
       {
-        "login_name": "CarolinaM06",
-        "avatar_url": "https://avatars.githubusercontent.com/u/324144188?v=4",
-        "admin": false
-      },
-      {
-        "login_name": "lddigg500",
-        "avatar_url": "https://avatars.githubusercontent.com/u/329214745?v=4",
+        "login_name": "MadelineOhman",
+        "avatar_url": "https://avatars.githubusercontent.com/u/324144099?v=4",
         "admin": false
       }
     ],
@@ -130,7 +125,7 @@
       ]
     },
     "created_at": "2026-07-14T20:41:13.275Z",
-    "updated_at": "2026-09-14T17:27:47.968Z",
+    "updated_at": "2026-09-14T17:44:03.798Z",
     "generate_pages_site": true
   },
   "annotations": {},
