@@ -22,18 +22,7 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "audreymc12",
-        "avatar_url": "https://avatars.githubusercontent.com/u/324143934?v=4",
-        "admin": false
-      },
-      {
-        "login_name": "MadelineOhman",
-        "avatar_url": "https://avatars.githubusercontent.com/u/324144099?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
       "tagGroups": [
         {
@@ -125,7 +114,7 @@
       ]
     },
     "created_at": "2026-07-14T20:41:13.275Z",
-    "updated_at": "2026-09-14T17:44:03.798Z",
+    "updated_at": "2026-09-14T17:53:44.848Z",
     "generate_pages_site": true
   },
   "annotations": {},
