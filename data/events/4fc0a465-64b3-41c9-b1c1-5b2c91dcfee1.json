@@ -4,10 +4,11 @@
       "label": "CBUM Video",
       "is_offline": false,
       "file_url": "https://archive.org/download/cbum_20260914/CBUM.MP4",
-      "duration": 0,
+      "duration": 15180,
       "caption_set": [],
       "set_sort": [],
-      "file_type": "Video"
+      "file_type": "Video",
+      "duration_overridden": true
     }
   },
   "auto_generate_web_page": true,
@@ -25,7 +26,7 @@
   "label": "Kaden Faktor",
   "created_at": "2026-07-14T20:45:17.711Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-14T20:57:38.638Z",
+  "updated_at": "2026-09-14T20:58:42.376Z",
   "updated_by": "Kfak05",
   "av_file_order": [
     "60ce4abe-88e7-42b1-afe1-6a2e22dbdff7"
