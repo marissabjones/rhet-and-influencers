@@ -1,5 +1,15 @@
 {
-  "audiovisual_files": {},
+  "audiovisual_files": {
+    "201031ee-d44f-4ef2-98dd-a966308affc3": {
+      "label": "Vanillamace",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/Vanillamace/Vanillamace%20.mp4",
+      "duration": 69,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video"
+    }
+  },
   "auto_generate_web_page": true,
   "description": [
     {
@@ -15,6 +25,9 @@
   "label": "Kaley Chhor",
   "created_at": "2026-09-02T03:16:29.301Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-02T03:16:29.301Z",
-  "updated_by": "marissabjones"
+  "updated_at": "2026-09-14T17:10:01.816Z",
+  "updated_by": "KaleyChhor",
+  "av_file_order": [
+    "201031ee-d44f-4ef2-98dd-a966308affc3"
+  ]
 }
