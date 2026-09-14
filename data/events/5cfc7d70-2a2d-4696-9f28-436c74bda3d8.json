@@ -1,5 +1,15 @@
 {
-  "audiovisual_files": {},
+  "audiovisual_files": {
+    "83cf0ad6-cc41-4272-9021-1a02e7259a09": {
+      "label": "DrMike",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/im-not-used-to-getting-this-passionate-on-camera-but-sometimes-its-warranted-ive/I%E2%80%99m%20not%20used%20to%20getting%20this%20passionate%20on%20camera%20but%20sometimes%20it%E2%80%99s%20warranted%20%F0%9F%98%A1%20%20%20I%E2%80%99ve%20seen%20patients%20hurt%20by%20our%20shitty%20healthcare%20system%20and%20instead%20of%20addressing%20these%20real%20%28and%20fixable%29%20issues%2C%20we%E2%80%99%E2%80%A6.mp4",
+      "duration": 123,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video"
+    }
+  },
   "auto_generate_web_page": true,
   "description": [
     {
@@ -15,6 +25,9 @@
   "label": "Steven Alexander",
   "created_at": "2026-09-02T03:15:50.473Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-02T03:15:50.473Z",
-  "updated_by": "marissabjones"
+  "updated_at": "2026-09-14T17:15:11.077Z",
+  "updated_by": "StevenRAlexander",
+  "av_file_order": [
+    "83cf0ad6-cc41-4272-9021-1a02e7259a09"
+  ]
 }
