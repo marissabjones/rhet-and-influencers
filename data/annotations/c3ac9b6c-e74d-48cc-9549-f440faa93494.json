@@ -86,6 +86,31 @@
         }
       ],
       "uuid": "f9869e97-af29-48a5-ae33-74165b97f97f"
+    },
+    {
+      "start_time": 346,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nikole deliberately balances two personas: expert and ordinary. Her scientific material, such as the explanation of mantle length and six distinct life stages of squids, reinforces her ethos as a credible scientific influencer. In the same portion, however, she struggles to pronounce the name “Vecchione,” laughs at HMS Pickle, complains about “gonads”, or casually mentions she is close to finishing Poppy Playtime. These additions make her seem authentic, but in a meta sense, the video is a constructed artifact that has gone through research, scriptwriting, editing, and likely several reshoots. By deliberately including these moments, she reinforces the perceived image of her authentic personality, creating an almost oxymoronic trait of constructed authenticity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "69cf2f02-d1bf-4442-b73a-a24a6b06a8fa"
     }
   ],
   "set": "Default",
