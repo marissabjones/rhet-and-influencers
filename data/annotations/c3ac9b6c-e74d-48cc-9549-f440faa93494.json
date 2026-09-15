@@ -24,6 +24,39 @@
         }
       ],
       "uuid": "201ae754-cf75-47b7-973b-d06abfb6872a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the first 30 seconds, a familiar flurry of memes (Terrified Mr. Incredible face and Bloop meme) serve as a humorous hook for the audience. However, after this, similar online images appear only a few times. Seeing this pattern, the first thirty seconds have the clear purpose of attracting the audience using pathos, then are sprinkled in the following twenty minutes to make way for more relevant imagery. Her diverse audience is likely to be more familiar with the memes than the Magnapinna, thus serving as a bridge between entertainment and education. Her introduction leans into edutainment, remaining amusing while introducing a scientific concept, thus not “scaring” away potential viewers that may feel intimidated by reliance on jargon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Edutainment"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "4256a2d6-a941-4e11-a9eb-80c6081a3748"
     }
   ],
   "set": "Default",
