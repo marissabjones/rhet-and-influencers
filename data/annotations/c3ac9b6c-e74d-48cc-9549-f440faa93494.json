@@ -57,6 +57,35 @@
         }
       ],
       "uuid": "4256a2d6-a941-4e11-a9eb-80c6081a3748"
+    },
+    {
+      "start_time": 122,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nikole advertises Zocdoc, an online tool for patients booking medical appointments. The purpose shifts from edutainment about the Magnapinna to selling a product, with the former used briefly to bridge into the advertisement. Nikole’s ethos as a scientific influencer lends credibility to Zocdoc, but her zoological expertise does not extend to medicine. This distance may help the sponsor, as an unrelated product could create a jarring tonal shift that fails to resonate with her audience. A sponsor too closely related to her field could make her content appear \"compromised\" by commercial influence. Finally, Zocdoc, a USA-only service, gives indirect evidence that the advertiser believes her audience to consist mostly of Americans."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "f9869e97-af29-48a5-ae33-74165b97f97f"
     }
   ],
   "set": "Default",
