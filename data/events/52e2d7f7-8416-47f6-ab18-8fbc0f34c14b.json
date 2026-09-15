@@ -1,5 +1,15 @@
 {
-  "audiovisual_files": {},
+  "audiovisual_files": {
+    "94c857c8-6190-46c9-9cfd-40b4f3e306c3": {
+      "label": "Lux Influencer",
+      "is_offline": false,
+      "file_url": "https://ia803100.us.archive.org/12/items/lsf-video/LSF%20Video.MP4",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video"
+    }
+  },
   "auto_generate_web_page": true,
   "description": [
     {
@@ -15,6 +25,9 @@
   "label": "Bianca Facundo",
   "created_at": "2026-07-14T20:45:04.010Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-07-14T20:45:04.010Z",
-  "updated_by": "marissabjones"
+  "updated_at": "2026-09-15T23:40:36.536Z",
+  "updated_by": "marissabjones",
+  "av_file_order": [
+    "94c857c8-6190-46c9-9cfd-40b4f3e306c3"
+  ]
 }
