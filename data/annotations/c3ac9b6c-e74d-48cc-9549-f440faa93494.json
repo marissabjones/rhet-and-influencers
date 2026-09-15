@@ -140,6 +140,35 @@
         }
       ],
       "uuid": "519ad8d9-978d-40d1-841c-55965ce27c13"
+    },
+    {
+      "start_time": 1057,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nikole seemingly places the brunt of scientific content here, gradually tearing away at the mysterious image of the Magnapinna. She includes footage narrated by Michael Vecchione where he mentions there are roughly four species currently known. She then discusses two different sightings from distinct expeditions. The first took place in the Philippine Trench’s hadal zone, and Nikole translates the jargon by saying it is “Deep as f*ck, that is like six miles,” and how this expedition revealed the hadal zone is not squid-free, as it was previously believed. She then shows footage from a Nautilus expedition, almost abandoning the video’s eerie framing and calling it “cute” and “filled with whimsy,” like a feel-good ending to a story. She closes by summarizing what is and is not currently known about the Magnapinna, reinforcing the video’s educational purpose without abandoning the casual personality and entertainment that define its genre. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Edutainment"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        }
+      ],
+      "uuid": "f3db667d-6151-4a0b-9362-27c765bf49f9"
     }
   ],
   "set": "Default",
