@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[See thumbnail] A platform affordance that Lindsay Nikole uses is the thumbnail and title system. Before viewers click on her video, there must be a draw that leads them. In this video, Nikole’s thumbnail includes her doing a “surrender cobra” as if in total disbelief, next to an image of the video’s subject, the Magnapinna Squid. “DEEP SEA MONSTER” is in big, bold letters, and an arrow pointing to the squid likens it to Cthulhu. This draws potential viewers, who may be curious about this strange creature. This also plays into the algorithm, as the video is portrayed almost like a horror or mystery video, making it more appealing to people who are not actively searching for zoology."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Platform",
+          "tag": "Algorithm"
+        }
+      ],
+      "uuid": "201ae754-cf75-47b7-973b-d06abfb6872a"
+    }
+  ],
   "set": "Default",
   "event_id": "d0231cfd-afdf-47b4-b119-6b02f320a96a",
   "source_id": "0313649f-1c50-4cb8-b28b-f21b7ba09566"
