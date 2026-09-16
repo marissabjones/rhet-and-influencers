@@ -4,7 +4,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "..."
+          "text": "Theme",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -12,7 +13,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "by: [student names]"
         }
       ]
     },
@@ -20,7 +21,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[group description of theme, 250-300 words]"
         }
       ]
     },
@@ -36,7 +45,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Video Title",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
         }
       ]
     },
@@ -81,7 +99,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Video Title",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
         }
       ]
     },
@@ -115,6 +142,31 @@
       ]
     },
     {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video Title",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
+        }
+      ]
+    },
+    {
       "uuid": "89d7b77a-a06f-4c00-8b2c-428be3160af0",
       "includes": [
         "media",
@@ -144,6 +196,6 @@
   "slug": "luxury-lifestyle",
   "created_at": "2026-09-07T20:51:24.398Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-07T20:51:24.398Z",
+  "updated_at": "2026-09-16T03:22:23.464Z",
   "updated_by": "marissabjones"
 }
