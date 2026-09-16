@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Science and Education",
+          "text": "Edutainment",
           "textSize": "heading-one"
         }
       ]
@@ -29,7 +29,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[group description of theme, 250-300 words]"
+          "text": "Our influencers are Mark Rober, a former NASA engineer, and Lindsay Nikole, a graduate in Zoology. Despite the difference in their informational content, they are both educational influencers. Their videos rely on “edutainment”, where they keep entertainment fun and exciting. Edutainment influencers attempt to educate the audience in a way that does not feel like a chore or resemble a school lecture. They have to be aware of the affordances and constraints of the platform, utilizing the algorithm, remaining attentive to viewer’s attention spans, while also ensuring their content is relevant, but inside the platform rules. Edutainment influencers subtly use the rhetorical appeal ethos to build credibility in the background of their content, ensuring they are viewed as a reliable source, despite their use of pathos. Pathos is used to entertain the audience, such as Rober and Nikole’s zany personalities and content, keeping the audience’s attention so they are not pushed away by the underlying logos. Edutainment is critical now since as the digital age progresses, the attention span of both children and adults has begun to decline. Edutainment fixes this issue by allowing for media that can hold attention by adding a fun component while still educating the viewer. Additionally, with the rise of short form media such as TikTok and Instagram Reels, younger audiences have grown accustomed to learning in quick bursts rather than traditional lectures. This change in how media is consumed means that if content is not immediately engaging, viewers will likely simply scroll past it. Edutainment fixes this by putting complex ideas into short and entertaining formats, making learning feel more like something to actively seek out.\n"
         }
       ]
     },
@@ -45,7 +45,10 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Video Title",
+          "text": "\n"
+        },
+        {
+          "text": "This Ball is Impossible to Hit",
           "bold": true
         }
       ]
@@ -54,7 +57,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
+          "text": "\nMark Rober is an American engineer and youtuber who formerly worked at NASA in their Jet Propulsion laboratory for nine years. He spent seven of those years working on the Curiosity Mars Rover, and then worked in Apple’s Special Projects Group until 2020 to become a full time youtuber. He is known for his hilarious videos where he makes do it yourself gadgets and other projects that bring in aspects of both engineering and science in a fun way for all ages. His channel, started in 2011, features insane experiments such as glitter bombs for package thieves and obstacle courses for squirrels. He has amassed over 80 million subscribers throughout the course of his channel. In 2022, he launched CrunchLabs, a STEM subscription box company. Alongside Mr. Beast, he led the #TeamWater campaign which generated over 40 million dollars for clean water access. In 2026, Rober was named to TIME’s list of top creators.\n"
         }
       ]
     },
@@ -99,8 +102,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Video Title",
+          "text": "\n"
+        },
+        {
+          "text": "The Most Mysterious Squid (That We Know Of) | Lindsay Nikole",
           "bold": true
+        },
+        {
+          "text": "\n"
         }
       ]
     },
@@ -150,6 +159,6 @@
   "slug": "science-and-education",
   "created_at": "2026-09-07T20:49:12.578Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-16T16:06:10.946Z",
+  "updated_at": "2026-09-16T16:47:37.498Z",
   "updated_by": "pieaterepic"
 }
