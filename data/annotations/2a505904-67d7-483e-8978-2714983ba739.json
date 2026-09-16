@@ -105,6 +105,31 @@
         }
       ],
       "uuid": "1bae1570-fe0c-42dd-8ca5-e8765a12265e"
+    },
+    {
+      "start_time": 6,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this part of the TikTok, Alix explains her personal experience with acne and what has been happening with her skin. By sharing this context, she helps viewers understand why she is discussing the topic in the first place. Her purpose is not simply to show her acne, but to use her own experience to connect with viewers who may be dealing with similar struggles. Sharing her personal experience makes the message more relatable because she presents herself as someone who has lived through the issue rather than someone speaking about it from a distance. This also helps establish a connection between Alix and her audience, allowing viewers to see themselves in her experience. Her personal story therefore becomes an important part of her purpose: using her platform to openly discuss an issue that many of her followers may also experience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "8736f4e7-e3ba-439d-bf15-dbedf5916373"
     }
   ],
   "set": "Default",
