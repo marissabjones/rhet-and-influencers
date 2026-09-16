@@ -13,7 +13,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "by: Keilani DeSilva, Jordis Magness, Madeline Ohman"
+          "text": "by: [student names]"
         }
       ]
     },
@@ -153,7 +153,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Video Title",
+          "text": "Acne and Authenticity",
           "bold": true
         }
       ]
@@ -196,6 +196,6 @@
   "slug": "building-community",
   "created_at": "2026-09-07T20:54:12.232Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-16T16:20:20.499Z",
-  "updated_by": "keilanidesilva"
+  "updated_at": "2026-09-16T16:20:25.666Z",
+  "updated_by": "MadelineOhman"
 }
