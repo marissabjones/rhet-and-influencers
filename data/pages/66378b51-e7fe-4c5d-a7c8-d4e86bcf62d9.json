@@ -88,7 +88,27 @@
           ]
         },
         {
-          "text": "\n\n\n\n"
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hessel Cohen, Rebecca. @becknyc. “Little tour of our vintage atelier above our Sag Harbor store.” Instagram, 30 July 2026, "
+        },
+        {
+          "type": "link",
+          "url": "https://www.instagram.com/reel/Dbb0zS0vzyR/?stkn=MWp3bzEzM2g5djBwOQ==",
+          "children": [
+            {
+              "text": "https://www.instagram.com/reel/Dbb0zS0vzyR/?stkn=MWp3bzEzM2g5djBwOQ=="
+            }
+          ]
+        },
+        {
+          "text": "\n\n\n"
         }
       ]
     },
@@ -109,6 +129,6 @@
   "slug": "works-cited",
   "created_at": "2026-09-05T18:48:29.090Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-16T20:01:32.048Z",
-  "updated_by": "Jordis404"
+  "updated_at": "2026-09-16T20:51:10.382Z",
+  "updated_by": "biancafacundo"
 }
