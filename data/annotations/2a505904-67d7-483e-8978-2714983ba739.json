@@ -1,5 +1,35 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By immediately showing her acne without makeup or trying to hide her skin, Alix establishes herself as someone willing to be vulnerable with her audience. This is important because beauty influencers are often associated with perfect images, makeup, and carefully edited photos. Instead of beginning the TikTok by presenting an idealized version of herself, Alix shows viewers a more imperfect and realistic version. The fact that she is recording the video while sitting in her bed also contributes to this sense of authenticity. The casual bedroom setting feels personal and less staged than a professional studio, making her appear more relatable and trustworthy. These aesthetics reinforce her ethos because viewers can see her in a more natural environment while also seeing her acne for themselves. The visual and setting together suggest that social media does not always show what someone's skin actually looks like."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        },
+        {
+          "category": "Misc.",
+          "tag": "Aesthetic"
+        }
+      ],
+      "uuid": "836006cb-27ce-4abc-89d6-e453ab73cd1a"
+    }
+  ],
   "set": "Default",
   "event_id": "9007b1a4-0e25-4484-921f-4dbf74eac5fa",
   "source_id": "b6df09e2-6307-4312-b29b-1fcdf1c8ae1f"
