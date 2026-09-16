@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Theme",
+          "text": "Science and Education",
           "textSize": "heading-one"
         }
       ]
@@ -13,7 +13,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "by: [student names]"
+          "text": "by: Pierson and Luke"
         }
       ]
     },
@@ -150,6 +150,6 @@
   "slug": "science-and-education",
   "created_at": "2026-09-07T20:49:12.578Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-16T03:19:29.760Z",
-  "updated_by": "marissabjones"
+  "updated_at": "2026-09-16T16:06:10.946Z",
+  "updated_by": "pieaterepic"
 }
