@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "5acab4b0-1e76-4c68-b1a0-de3ae4a88b63": {
-      "label": "Chamberlain vlog",
+      "label": "Emma Chamberlain",
       "is_offline": false,
       "file_url": "https://ia800403.us.archive.org/2/items/emma-chamberlain-paris-fashion-week-influencer-rhetoric/EmmaChamberlain_ParisFashionWeek_InfluencerRhetoric.mp4",
       "duration": 1175,
@@ -25,8 +25,8 @@
   "label": "Casey Boettcher",
   "created_at": "2026-07-14T20:43:51.257Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-16T00:10:26.670Z",
-  "updated_by": "marissabjones",
+  "updated_at": "2026-09-16T16:05:44.100Z",
+  "updated_by": "caseyboettcher",
   "av_file_order": [
     "5acab4b0-1e76-4c68-b1a0-de3ae4a88b63"
   ]
