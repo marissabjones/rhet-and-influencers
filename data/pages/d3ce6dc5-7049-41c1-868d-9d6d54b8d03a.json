@@ -4,7 +4,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "..."
+          "text": "Theme",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -12,7 +13,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "by: [student names]"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[group description of theme, 250-300 words]"
         }
       ]
     },
@@ -36,7 +53,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Video Title",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
         }
       ]
     },
@@ -70,6 +96,31 @@
       ]
     },
     {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video Title",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
+        }
+      ]
+    },
+    {
       "uuid": "fcad3a17-1492-4a06-b50a-4822b3a1f0e3",
       "includes": [
         "media",
@@ -99,6 +150,6 @@
   "slug": "ragebait",
   "created_at": "2026-09-07T20:54:52.157Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-07T20:54:52.157Z",
+  "updated_at": "2026-09-16T03:25:38.752Z",
   "updated_by": "marissabjones"
 }
