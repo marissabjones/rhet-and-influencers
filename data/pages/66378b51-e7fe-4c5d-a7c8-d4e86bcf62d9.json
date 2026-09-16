@@ -24,6 +24,26 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\nQin, Melissa. @melissaqin. “Rising M2?! Crazy.” TikTok, 20 August 2026, "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tiktok.com/@melissaqin/video/7652835290897255694",
+          "children": [
+            {
+              "text": "https://www.tiktok.com/@melissaqin/video/7652835290897255694"
+            }
+          ]
+        },
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -37,6 +57,6 @@
   "slug": "works-cited",
   "created_at": "2026-09-05T18:48:29.090Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-16T17:12:04.677Z",
-  "updated_by": "Kfak05"
+  "updated_at": "2026-09-16T17:42:39.736Z",
+  "updated_by": "chloewesterman"
 }
