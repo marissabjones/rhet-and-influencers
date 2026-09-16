@@ -28,6 +28,83 @@
         }
       ],
       "uuid": "836006cb-27ce-4abc-89d6-e453ab73cd1a"
+    },
+    {
+      "start_time": 6,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As Alix explains what has been happening with her skin, she uses her own personal"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "experience to create an emotional connection with her audience. Rather than simply giving"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "skincare advice, she talks about something that has affected her personally, which allows viewers"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "who experience acne to identify with her. This creates pathos because acne can be connected to"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "feelings of insecurity, embarrassment, and frustration, especially when appearance is an important"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "part of someone's social life. By discussing her own experience, Alix shows that even though she"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "is a successful beauty and lifestyle influencer, she experiences many of the same insecurities as"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "her audience. This helps break down the distance between influencer and viewer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "1bae1570-fe0c-42dd-8ca5-e8765a12265e"
     }
   ],
   "set": "Default",
