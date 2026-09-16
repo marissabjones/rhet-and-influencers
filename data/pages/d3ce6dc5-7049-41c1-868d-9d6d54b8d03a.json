@@ -13,7 +13,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "by: Micah Hoopes and Preston Rumney"
+          "text": "by: Micah Hoopes, "
         }
       ]
     },
@@ -29,7 +29,47 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[group description of theme, 250-300 words]"
+          "text": "- how is it represented across them"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Both Nara Smith and Joey Swoll use social norms in their content to generate engagement in different ways. Nara Smith challenges social norms in her content, while Joey Swoll capitalizes on them."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "- how do you define social norms"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Social norms can be described as silently agreed-upon behaviors among the general public. This involves etiquette, manners, "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "-argument we want to make"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Each influencer garners attraction for their content with social norms in mind. Nara's tendency to go against social norms and Joey's commentary that "
         }
       ]
     },
@@ -150,6 +190,6 @@
   "slug": "ragebait",
   "created_at": "2026-09-07T20:54:52.157Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-16T16:24:04.598Z",
-  "updated_by": "Preston-Rumney"
+  "updated_at": "2026-09-16T16:32:39.866Z",
+  "updated_by": "mmhoopes"
 }
