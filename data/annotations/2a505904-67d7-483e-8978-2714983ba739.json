@@ -130,6 +130,31 @@
         }
       ],
       "uuid": "8736f4e7-e3ba-439d-bf15-dbedf5916373"
+    },
+    {
+      "start_time": 26,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During this section, the camera becomes part of Alix's argument because viewers can actually see the skin she is discussing. This is an example of modality because the visual presentation makes her message feel more immediate and believable. Instead of only talking about struggling with acne, Alix allows viewers to see her skin for themselves. If she only discussed her acne while showing a heavily edited or perfectly made-up version of herself, her message might feel less authentic. The video format gives her the ability to visually demonstrate what she is saying rather than relying only on words. This use of modality reinforces her relatable persona and challenges the expectation that an influencer's appearance should always be polished or perfect. The visual presentation therefore strengthens her argument by making her personal experience visible to the audience. By combining her spoken explanation with the visual evidence of her skin, Alix makes her message easier for viewers to understand and believe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Modality"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        }
+      ],
+      "uuid": "a493f343-1639-4d0f-9293-c4fbdd7f3a8f"
     }
   ],
   "set": "Default",
