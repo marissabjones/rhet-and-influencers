@@ -4,6 +4,15 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Theme",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "by: [student names]"
         }
       ]
@@ -149,6 +158,6 @@
   "slug": "medical-influencers",
   "created_at": "2026-09-05T18:58:39.721Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-05T19:01:11.934Z",
+  "updated_at": "2026-09-16T03:27:36.131Z",
   "updated_by": "marissabjones"
 }
