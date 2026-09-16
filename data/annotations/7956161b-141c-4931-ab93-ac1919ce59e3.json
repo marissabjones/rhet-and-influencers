@@ -1,5 +1,35 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rebecca says “I don’t think anyone’s ever done this before” as she’s stepping through the door, before anything has barely even been shown to us. That timing is what makes the line interesting, she’s grabbing the audience before there's anything to actually judge yet, which is exactly what an exordium is supposed to do. It doesn't give us information, it gives us trust to carry into everything that follows, the assumption that what we're about to see is rare, maybe even unprecedented, before we've seen a shred of proof that it is. We just have to take her word for it, and once that idea is sitting in our heads, it changes how we watch the rest of the video, even the ordinary parts start to feel special because we were told upfront that they would be. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structural Moves",
+          "tag": "Exordium"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "7f6ff09c-1112-42aa-850a-33b5a34cf65d"
+    }
+  ],
   "set": "Default",
   "event_id": "52e2d7f7-8416-47f6-ab18-8fbc0f34c14b",
   "source_id": "94c857c8-6190-46c9-9cfd-40b4f3e306c3"
