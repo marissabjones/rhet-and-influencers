@@ -28,6 +28,39 @@
         }
       ],
       "uuid": "7f6ff09c-1112-42aa-850a-33b5a34cf65d"
+    },
+    {
+      "start_time": 14,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The word “archives\" carries a lot more weight than it first seems like since it normally shows up in places like museums, fashion houses, places where objects are kept because they matter historically, not just stored because there's nowhere else to put them. Most people would look at a room full of hanging dresses and just call it a closet; by calling it an archive instead, she's quietly changing what the room means. The label only works if what's behind it justifies it, which means the word itself is functioning as proof- she doesn't have to convince us her closet is significant, saying “archive” does that automatically. Naming it an archive is how that credibility gets built right in front of the camera, without her ever having to argue for it directly."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Techniques",
+          "tag": "Reframing"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "d6a912ca-4083-4a88-bd3e-c1d97e53635b"
     }
   ],
   "set": "Default",
