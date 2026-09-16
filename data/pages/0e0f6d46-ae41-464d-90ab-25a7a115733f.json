@@ -4,7 +4,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "..."
+          "text": "Theme",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -12,7 +13,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "by: [student names]"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[group description of theme, 250-300 words]"
         }
       ]
     },
@@ -36,7 +53,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Video Title",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
         }
       ]
     },
@@ -70,6 +96,31 @@
       ]
     },
     {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video Title",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
+        }
+      ]
+    },
+    {
       "uuid": "9cb51a72-b3b8-43ca-8d65-2e3db0b5c02e",
       "includes": [
         "media",
@@ -87,6 +138,31 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video Title",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
         }
       ]
     },
@@ -120,6 +196,6 @@
   "slug": "building-community",
   "created_at": "2026-09-07T20:54:12.232Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-07T20:54:12.232Z",
+  "updated_at": "2026-09-16T03:24:40.708Z",
   "updated_by": "marissabjones"
 }
