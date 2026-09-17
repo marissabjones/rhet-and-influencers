@@ -103,6 +103,35 @@
         }
       ],
       "uuid": "8faba50e-941f-444d-893e-7a6eaa731935"
+    },
+    {
+      "start_time": 26,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here Pastor Paul argues that our modern society is different from the society that wrote these scriptures and that taking a general idea from what the bible teaches and applying it to our modern conflicts. In this instance he is using a scripture that says supporting our sisters and brothers in the light will stop them from stumbling (which seems to be saying that loving our fellow christians will stop them from falling into sin), and using it to support queer people. This is using a mix of judicial and epideictic rhetoric, the beliefs that Jesus thought in the past are not aligning with the church’s current teachings, and that using the bible as a strict set of rules isn’t the only way to apply the bible to our current society."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "judicial rhetoric"
+        },
+        {
+          "category": "Misc.",
+          "tag": "epideictic rhetoric"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Scripture"
+        }
+      ],
+      "uuid": "a4060e50-3a8d-4695-9b96-0a78cef18401"
     }
   ],
   "set": "Default",
