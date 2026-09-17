@@ -82,6 +82,27 @@
         }
       ],
       "uuid": "ec970765-7962-4bb9-aa45-12f22165e669"
+    },
+    {
+      "start_time": 33,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His defense of the LGBT+ community also hints at his audience, while his audience is not just queer people, his defense and support of them show that they are welcome on his page. The set up of the debate also alludes to the audience he is aiming towards, people who might have the same views as his opponent. In fact I would say he is trying to reach the people who believe in these more conservative christians because of how focused he is on deconstructing their ideas and the unintended audience is queer people and those that hold more progressive views of Christianity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "8faba50e-941f-444d-893e-7a6eaa731935"
     }
   ],
   "set": "Default",
