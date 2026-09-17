@@ -57,6 +57,31 @@
         }
       ],
       "uuid": "fec196d8-e874-492d-9339-bc3da9b7c36b"
+    },
+    {
+      "start_time": 26,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here he is actively using scripture to defend the LGBTQIA community (and anyone else the opposition believes is impure) which appeals to the viewers compassion and sense of justice, from the opposite perspective who calls them sinners and implying that they aren't welcome at church. The fact he has the opposing argument to call those he disapproves of sinners and harmful to the purity of the church is an argument in pathos, but instead of pushing his argument it's pushing for the viewer to see the opposition in a negative light. This pushing between two arguments is allowed by the style of content he posts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Scripture"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "ec970765-7962-4bb9-aa45-12f22165e669"
     }
   ],
   "set": "Default",
