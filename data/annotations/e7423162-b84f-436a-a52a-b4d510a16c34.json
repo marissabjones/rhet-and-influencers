@@ -182,6 +182,35 @@
         }
       ],
       "uuid": "88909288-3621-4644-9eb5-9fa73d766b08"
+    },
+    {
+      "start_time": 72,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "* In the caption of the video, he talks about how there are caveats for casting out members of a church, like those that threaten to harm others. However, he also mentions that often those he sees being cast out are just ‘theologically inconvenient’, which is sinful. He quotes another scripture, this one about bearing one another's burdens. The addition of a cation is an affordance given by the platform, and it allows him to expand his argument. This expansion includes more quoting of scripture, showing once again that he knows the Bible. He also admits that there are cases where churches should cast people out. The citing of those who threaten others as the example of when to cast someone out is pathos. He also plays into the algorithm in the caption as he tags his posts with ‘progressive pastor’ which pushes his content to a more religious and progressive audience who would enjoy his arguments."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Scripture"
+        }
+      ],
+      "uuid": "8124a199-f086-4058-90a3-90370ea9e03d"
     }
   ],
   "set": "Default",
