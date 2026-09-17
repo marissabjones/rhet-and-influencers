@@ -185,6 +185,27 @@
         }
       ],
       "uuid": "fc92a617-2b26-45e8-855e-4879ca0794e6"
+    },
+    {
+      "start_time": 148,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Digging through another rack, Rebecca says “this is like my bread and butter, DNA, so the archives are massive”. The word choice of “bread and butter” and “DNA” both frame this as identity, not just inventory- something she was born with rather than something she curated. That’s doing ethos work because the whole brand sells a version of taste that's supposed to feel natural rather than assembled, and lines like this reinforce that without ever arguing for it directly. Calling her closet her “DNA” quietly answers another question the video never asks outright- why trust her taste specifically- by making it sound hereditary instead of learned."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "3ae415b2-d82c-458c-b7e7-6abe1812d1a4"
     }
   ],
   "set": "Default",
