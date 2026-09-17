@@ -220,7 +220,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Structural Moves",
+          "tag": "Ring Composition"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
       "uuid": "e3fea6d1-970e-4f1a-b5d2-3c6cc395298a"
     }
   ],
