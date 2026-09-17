@@ -107,16 +107,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Video Title",
+          "text": "Shunning others is a sign of weakness",
           "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+        },
         {
-          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
+          "text": "\nPastor Paul Drees is a Lutheran pastor who runs accounts on Youtube, Instagram, and Tik-Tok. His more progressive views are more alternative compared to the loudest christians, who are often pushing views that harm minorities. His style of content consists of skits where he positions himself against an opposing view that some christians hold, and then has a civil debate between the two sides. While he has a big following he remains unverified by tiktok, despite this his videos are constantly getting over 50k views and with high interactions. Paul Drees has built a brand around being a rather forward thinking Pastor, one who does not immediately condemn people with opposing views. When he acts out these skits he is even sympathetic to the opposing view, teaching them what the bible says instead of calling them bad or unchristian. His acceptance of outsiders like the LBGTQIA community has allowed him to create a community where people can come to terms with religion, and see that the bible isn't just used to spread hate. "
         }
       ]
     },
@@ -137,7 +132,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Caption:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"A bunch of caveats: there are times where someone is threatening tangible harm to others, and that is certainly a time where they can be cast out (Matthew 18:15-20). However, I often see that being invoked to cast out people who are theologically inconvenient, which is profoundly sinful. We are called to bear one another's burdens (Galatians 6:2), and lift one another up. It's a messy boundary, certainly, but one that Christians are called to walk with love\""
         }
       ]
     },
@@ -196,6 +199,6 @@
   "slug": "building-community",
   "created_at": "2026-09-07T20:54:12.232Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-17T16:29:16.938Z",
-  "updated_by": "MadelineOhman"
+  "updated_at": "2026-09-17T16:42:57.488Z",
+  "updated_by": "Jordis404"
 }
