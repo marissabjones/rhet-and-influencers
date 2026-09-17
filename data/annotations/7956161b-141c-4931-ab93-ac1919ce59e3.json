@@ -206,6 +206,22 @@
         }
       ],
       "uuid": "3ae415b2-d82c-458c-b7e7-6abe1812d1a4"
+    },
+    {
+      "start_time": 205,
+      "end_time": 213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This line mirrors the opening almost the same, and the two of them wrap up the whole video in like bookends. “Thanks for coming” is a weird thing to say to someone on their phone- that's a line for someone who is actually in your house and is now walking out the door. By ending with this, she turns everything we just sat through (pop-up announcement included) into something that feels more like a hangout than a video. The small line does a lot of the closing work, it's making sure the whole thing lands as personal right up until the last second, even the parts we already know weren't."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e3fea6d1-970e-4f1a-b5d2-3c6cc395298a"
     }
   ],
   "set": "Default",
