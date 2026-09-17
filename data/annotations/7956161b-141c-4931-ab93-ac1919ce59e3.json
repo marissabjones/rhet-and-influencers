@@ -135,6 +135,31 @@
         }
       ],
       "uuid": "f1d4314b-947a-4c6f-8812-5feff7e89fd5"
+    },
+    {
+      "start_time": 126,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesturing at a decorative mirror in what she calls “our little changing room”, she adds, “it’s a great selfie mirror”. That line does more to name the audience than anything else in the video- it reveals who the space was actually built for. The audience isn’t just people watching after the fact; it's also the people she imagines standing in that exact spot filming themselves- customers, other creators, anyone who walks through wanting content of their own. Calling it a \"selfie mirror” instead of a mirror is also an affordance built right into the room itself, since the space isn't just designed to sell clothes, it's designed to be photographed while you’re in them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        }
+      ],
+      "uuid": "6a203248-0025-4354-a000-b3570402a17e"
     }
   ],
   "set": "Default",
