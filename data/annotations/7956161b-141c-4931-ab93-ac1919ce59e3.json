@@ -1,1 +1,110 @@
-{"annotations":[{"start_time":0,"end_time":8,"annotation":[{"type":"paragraph","children":[{"text":"Rebecca says “I don’t think anyone’s ever done this before” as she’s stepping through the door, before anything has barely even been shown to us. That timing is what makes the line interesting, she’s grabbing the audience before there's anything to actually judge yet, which is exactly what an exordium is supposed to do. It doesn't give us information, it gives us trust to carry into everything that follows, the assumption that what we're about to see is rare, maybe even unprecedented, before we've seen a shred of proof that it is. We just have to take her word for it, and once that idea is sitting in our heads, it changes how we watch the rest of the video, even the ordinary parts start to feel special because we were told upfront that they would be. "}]}],"tags":[{"category":"Structural Moves","tag":"Exordium"},{"category":"Rhetorical Situation","tag":"Purpose"},{"category":"Rhetorical Appeals","tag":"Ethos"}],"uuid":"7f6ff09c-1112-42aa-850a-33b5a34cf65d"},{"start_time":14,"end_time":20,"annotation":[{"type":"paragraph","children":[{"text":"The word “archives\" carries a lot more weight than it first seems like since it normally shows up in places like museums, fashion houses, places where objects are kept because they matter historically, not just stored because there's nowhere else to put them. Most people would look at a room full of hanging dresses and just call it a closet; by calling it an archive instead, she's quietly changing what the room means. The label only works if what's behind it justifies it, which means the word itself is functioning as proof- she doesn't have to convince us her closet is significant, saying “archive” does that automatically. Naming it an archive is how that credibility gets built right in front of the camera, without her ever having to argue for it directly."}]},{"type":"paragraph","children":[{"text":""}]}],"tags":[{"category":"Rhetorical Techniques","tag":"Reframing"},{"category":"Rhetorical Appeals","tag":"Ethos"}],"uuid":"d6a912ca-4083-4a88-bd3e-c1d97e53635b"}],"set":"Default","event_id":"52e2d7f7-8416-47f6-ab18-8fbc0f34c14b","source_id":"94c857c8-6190-46c9-9cfd-40b4f3e306c3"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rebecca says “I don’t think anyone’s ever done this before” as she’s stepping through the door, before anything has barely even been shown to us. That timing is what makes the line interesting, she’s grabbing the audience before there's anything to actually judge yet, which is exactly what an exordium is supposed to do. It doesn't give us information, it gives us trust to carry into everything that follows, the assumption that what we're about to see is rare, maybe even unprecedented, before we've seen a shred of proof that it is. We just have to take her word for it, and once that idea is sitting in our heads, it changes how we watch the rest of the video, even the ordinary parts start to feel special because we were told upfront that they would be. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structural Moves",
+          "tag": "Exordium"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "7f6ff09c-1112-42aa-850a-33b5a34cf65d"
+    },
+    {
+      "start_time": 14,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The word “archives\" carries a lot more weight than it first seems like since it normally shows up in places like museums, fashion houses, places where objects are kept because they matter historically, not just stored because there's nowhere else to put them. Most people would look at a room full of hanging dresses and just call it a closet; by calling it an archive instead, she's quietly changing what the room means. The label only works if what's behind it justifies it, which means the word itself is functioning as proof- she doesn't have to convince us her closet is significant, saying “archive” does that automatically. Naming it an archive is how that credibility gets built right in front of the camera, without her ever having to argue for it directly."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Techniques",
+          "tag": "Reframing"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "d6a912ca-4083-4a88-bd3e-c1d97e53635b"
+    },
+    {
+      "start_time": 44,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " “these aren’t my grandparents but they could be”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The small fan of antique-toned photographs, held up near the mantel next to a brass candlestick and a single pink candle, actually matters a lot. She's careful with her wording; she doesn't say these are her family, she says they could be, and that tiny difference does all the work. She's able to pull from the warm, nostalgic feeling that comes with “these are my ancestors” without ever having to prove that connection is real. The word “could” gives her all the emotional benefit of family history while keeping the photos completely anonymous, and honestly probably something just something bought for the aesthetic. It’s a subtle line, but it fits the pattern running through the whole video: the space doesn't need to actually be full of real inherited history, it just needs to feel that way, and that feeling alone is enough to make the tour come across as personal instead of staged."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Techniques",
+          "tag": "Identification"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "04b9f430-4ef9-46b1-a849-38236d5fe1d9"
+    }
+  ],
+  "set": "Default",
+  "event_id": "52e2d7f7-8416-47f6-ab18-8fbc0f34c14b",
+  "source_id": "94c857c8-6190-46c9-9cfd-40b4f3e306c3"
+}
