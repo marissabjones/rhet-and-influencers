@@ -132,6 +132,35 @@
         }
       ],
       "uuid": "a4060e50-3a8d-4695-9b96-0a78cef18401"
+    },
+    {
+      "start_time": 46,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For a little bit of context, the opposing perspective argues against the loving sinners asking if he should love a murderer, as they are also sinners. This is countered by Pastor Paul when he argues that Jesus didn't condemn the people that murdered him while he is actively being crucified, when he could have called down the armies of angels. He argues that churches who preach that they should shun sinners are teaching an anti-christian theology. The delivery of this statement stands out as he breaks his calm demeanor, he speaks passionately about Jesus and his love. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Delivery"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Theology"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "b8dc964d-6baa-474c-afc2-73a93ecc3b3f"
     }
   ],
   "set": "Default",
