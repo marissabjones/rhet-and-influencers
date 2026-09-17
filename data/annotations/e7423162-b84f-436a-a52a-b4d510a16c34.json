@@ -28,6 +28,35 @@
         }
       ],
       "uuid": "a3cd3842-7752-4570-a9c5-02dbc340a4e1"
+    },
+    {
+      "start_time": 13,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "‘Jesus tells us to love our enemies’ he supports this statement with logos showing the scriptures he's pulling from on the screen (Matthew 5:44, and Luke 6:35), and the use of cited sources shows his reliability, and genuine knowledge of the bible. The fact he pulls two different scriptures, written by different people adds credence to his argument, that shunning those deemed impure by some churches is a teaching directly against the bible. It also invites the viewer to look up the scriptures for themselves to come to their own conclusions, and see the context in which the scripture is pulled from."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Scripture"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Logos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "fec196d8-e874-492d-9339-bc3da9b7c36b"
     }
   ],
   "set": "Default",
