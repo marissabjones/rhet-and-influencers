@@ -160,6 +160,31 @@
         }
       ],
       "uuid": "6a203248-0025-4354-a000-b3570402a17e"
+    },
+    {
+      "start_time": 130,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Private” and “August” together do all the work in this sentence: you can’t just show up, and there's a clock on it. What’s actually making this work here is how boring she sounds saying it, zero pressure, no salesy push, mentioning the appointments the same way she’d mention what candle she’s burning. That casualness is the whole trick; it doesn't feel like a pitch because nothing about how she says it feels like one. The underlying message, never stated directly, is exclusivity- access to her is limited- and that’s what turns a passing comment into something closer to an ad while it keeps sounding like a passing thought instead of a sales tactic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "fc92a617-2b26-45e8-855e-4879ca0794e6"
     }
   ],
   "set": "Default",
