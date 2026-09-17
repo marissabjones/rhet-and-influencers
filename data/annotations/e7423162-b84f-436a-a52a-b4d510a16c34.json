@@ -161,6 +161,27 @@
         }
       ],
       "uuid": "b8dc964d-6baa-474c-afc2-73a93ecc3b3f"
+    },
+    {
+      "start_time": 59,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He finishes his argument in agreement with the opposing argument that being a christian is hard, because you have to love sinners to help guide them to salvation which can be a messy situation. The opposing perspective has also come to a reluctant agreement that his church shouldn't demonize queer people. This contributes to the persona he has built up, a loving pastor who welcomes all, as he not only supports those that have been wronged by christians, but also supports those who are recovering from the extremes of christianity and trying to deradicalize their harmful views."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Persona"
+        }
+      ],
+      "uuid": "88909288-3621-4644-9eb5-9fa73d766b08"
     }
   ],
   "set": "Default",
