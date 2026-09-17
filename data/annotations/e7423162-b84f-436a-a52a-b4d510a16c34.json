@@ -1,1 +1,36 @@
-{"annotations":[],"set":"Default","event_id":"9cb51a72-b3b8-43ca-8d65-2e3db0b5c02e","source_id":"305b8c18-a9b9-485d-b5f5-b523f1c7d277"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We’re introduced to Pastor Paul’s main argument, that churches who shun queer members are theologically insecure, and the counter argument, no churches have to stay pure. Pastor Paul’s ethos is established by his clerical clothing, along with what looks like some sort of pride pin; this clothing choice also separates the two characters he is playing, the progressive pastor and the conservative christian. He’s positioned in front of a bookshelf that, while in the frame of the video, is completely filled with books which lets the viewer know he is well read, or at least pushing the image of someone who reads a lot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Persona"
+        }
+      ],
+      "uuid": "a3cd3842-7752-4570-a9c5-02dbc340a4e1"
+    }
+  ],
+  "set": "Default",
+  "event_id": "9cb51a72-b3b8-43ca-8d65-2e3db0b5c02e",
+  "source_id": "305b8c18-a9b9-485d-b5f5-b523f1c7d277"
+}
