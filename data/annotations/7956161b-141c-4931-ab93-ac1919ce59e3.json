@@ -102,6 +102,39 @@
         }
       ],
       "uuid": "04b9f430-4ef9-46b1-a849-38236d5fe1d9"
+    },
+    {
+      "start_time": 55,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“our vintage, we’re doing a vintage pop up at the Hamptons” "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everything before this felt like she was just wandering her own house, grabbing stuff off racks because it caught her eye, no real plan to it. Then she drops this line, and the context shifts- this “casual” tour was actually leading up to a real event the whole time, and that supplies the exigence, the actual occasion prompting the video, retroactively. What caught my eye is that her voice doesn't change one bit, there's no pause, no shift into seriousness, nothing that tells you a pitch is coming. She just says it the same breathless way she says everything else, so the personal and the promotional never have to compete for attention because they never sound different from each other. That flatness is probably deliberate- if she’d shifted tone, it would’ve exposed the moment as an ad, breaking the illusion that this was just her sharing her life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Exigence"
+        }
+      ],
+      "uuid": "f1d4314b-947a-4c6f-8812-5feff7e89fd5"
     }
   ],
   "set": "Default",
