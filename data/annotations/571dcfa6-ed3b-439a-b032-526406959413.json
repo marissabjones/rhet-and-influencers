@@ -1,1 +1,44 @@
-{"annotations":[],"set":"Default","event_id":"cf3e511f-4470-4c85-94f4-5e43b4809a0d","source_id":"60066baf-cdc7-48d7-83a7-d8e9f170aaf5"}
+{
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the opening sequence of this video, the rhetor establishes credibility by stating her credentials “a soon to be second-year medical student at Harvard.” Since Harvard is considered the number one medical school in America and a regarded Ivy League school, the prestige of the institution may grab the attention of viewers who are aware of this. She speaks in a very calm voice, immediately revealing the content of the video, which displays her “Day in my Life,” a popular type of trend video on TikTok. Because the “Day in my Life” videos are generally favored by viewers, the algorithm may promote this video to a wider audience outside of her regular follower count. Along with this voiceover, she includes video content that follows the traditional style of the “Day in my Life” trend, including making her bed and beginning a morning skincare routine. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        },
+        {
+          "category": "Platform",
+          "tag": "Algorithm"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Aesthetic"
+        }
+      ],
+      "uuid": "21edab3b-fec5-4252-8c10-f176b6fcdc79"
+    }
+  ],
+  "set": "Default",
+  "event_id": "cf3e511f-4470-4c85-94f4-5e43b4809a0d",
+  "source_id": "60066baf-cdc7-48d7-83a7-d8e9f170aaf5"
+}
