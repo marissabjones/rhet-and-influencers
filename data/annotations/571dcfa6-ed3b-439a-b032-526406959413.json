@@ -73,6 +73,27 @@
         }
       ],
       "uuid": "ca2f1005-c8fa-4a62-8979-f20b9bc600bd"
+    },
+    {
+      "start_time": 40,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Towards the end of the video Melissa alludes to the future, referring to “some exciting upcoming projects.” This direct reference to the future while being covert about the subject encourages followers to stay engaged with her content, or non-followers to follow her in order to see what these future projects entail. With this voiceover, she displays video content of her working on a computer in fast motion with a listed time frame of about two hours. This marketing strategy targets human curiosity by leaving an information gap to trigger followers to wonder what it will be, causing them to feel a greater, more exclusive connection to her by knowing that she is working on an upcoming project that will be revealed to all viewers in the future. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "49a0f5d9-6ac3-4e17-8fe3-5f5f1a2a3705"
     }
   ],
   "set": "Default",
