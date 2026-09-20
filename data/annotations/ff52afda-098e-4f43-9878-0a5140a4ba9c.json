@@ -1,1 +1,36 @@
-{"annotations":[],"set":"Default","event_id":"c750f4be-2ebd-46b4-ae63-d887372c6765","source_id":"bed3d808-06a8-4838-86bf-a5773402e6af"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The advertisement begins with Sydney Sweeney introducing the main idea behind the brand Novig. She states the slogan, “Novig is just sports” to emphasize that the platform is specifically focused on sports trading and gambling. This establishes the purpose of the advertisement almost immediately, so the audience can understand what Novig is at the start of the video. Sweeney also serves as a significant part of the advertisement’s ethos, since she is a well-known celebrity and influencer whose presence is capable of attracting attention and engagement to a relatively unfamiliar brand. Instead of introducing Novig through a traditional spokesperson or commercial, the company uses Sweeney’s recognizable personality to make the message more memorable and entertaining for viewers. This is particularly effective for an Instagram audience because she is very well-known on that platform, and the advertisement is immediately reaching her 25.9 million followers by being posted on her account."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "6313cdbb-2fae-4907-90b3-6d6a1ede546e"
+    }
+  ],
+  "set": "Default",
+  "event_id": "c750f4be-2ebd-46b4-ae63-d887372c6765",
+  "source_id": "bed3d808-06a8-4838-86bf-a5773402e6af"
+}
