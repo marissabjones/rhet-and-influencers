@@ -28,6 +28,27 @@
         }
       ],
       "uuid": "6313cdbb-2fae-4907-90b3-6d6a1ede546e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another important rhetorical choice occurs when the advertisement begins with Sydney Sweeney surrounded by, wearing, and holding recognizable sporting equipment and gear while appearing practically naked. The setting immediately connects her to the subject Novig wants its audience to associate with the company, and the fact that she seems to have nothing on her body besides two footballs covering her chest adds a shock value to the advertisement. This is an example of visual rhetoric because the advertisement does not rely only on Sweeney explaining what the company does but makes the advertisement unusual and stand out. Rather than showing a traditional athlete playing a game and wearing a uniform, Novig places a celebrity “it girl” in exaggerated, sexy sports related situations while her being almost completely nude. This choice is designed to grab the audience’s attention and ragebait them for more engagement. The intended audience is people interested in sports betting and trading. This is a predominately male demographic, which is why the advertisement is targeted towards men. Combining recognizable sports imagery with Sydney Sweeney’s celebrity status and sex appeal allows Novig to attract men to using their platform. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Visual Affordance"
+        }
+      ],
+      "uuid": "d90433a8-9bac-419b-a7e8-40e49dd54250"
     }
   ],
   "set": "Default",
