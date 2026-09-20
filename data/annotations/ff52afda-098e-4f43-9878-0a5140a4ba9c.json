@@ -78,6 +78,35 @@
         }
       ],
       "uuid": "28412465-d65f-42cc-bc5a-b6c3a7de9a0b"
+    },
+    {
+      "start_time": 37,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Later in the advertisement, Sydney Sweeney uses humor to make the commercial’s message more about herself. She is shown lying across a pool table while flipping her hair and wearing nothing but underwear that says “Novig” on it. She states, “You can’t trade this, I just look good here”. This is an example of pathos, because the advertisement is trying to make the audience laugh or be entertained rather than simply giving them information about the platform. Humor also fits the rhetorical situation because this advertisement is reaching viewers through social media, where content like this is more likely to generate reactions and discussion. The joke makes Sweeney appear playful and confident, which matches her personal brand and strengthens her role in the advertisement. Novig connects its brand to entertainment and celebrity culture. This is important because the company is competing for attention in an environment where audiences are constantly scrolling past ads. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "20b6f492-7ad6-4294-9b1f-ef214668b7fe"
     }
   ],
   "set": "Default",
