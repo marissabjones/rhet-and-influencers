@@ -94,6 +94,43 @@
         }
       ],
       "uuid": "49a0f5d9-6ac3-4e17-8fe3-5f5f1a2a3705"
+    },
+    {
+      "start_time": 56,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the very end of the video, Melissa displays her wind-down nighttime routine, stating “by now I was exhausted.” She gives specific products features via short video clips, including Amika haircare and Tatcha moisturizer. In an earlier video clip, you can see her unboxed PR packages, some including these products. The companies are also tagged in the caption of her TikTok. By giving these products screentime, Melissa is advertising PR that has been sent to her without directly stating this. By including them in her nighttime routine, she implies that these products help her unwind and go to sleep, encouraging the audience to purchase these products if they want the same wind-down experience. While not being explicitly an advertising video, it includes elements of advertising certain products. She utilizes platform affordances by listing these Amika shampoo and conditioner on her shop my in a folder called “hair care,” linked in her TikTok bio. These products are also included in her Amazon Storefront in a folder called “Hair Essentials,” also linked in her TikTok bio. Ethical implications may be considered here for the same reasons as listed above. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        },
+        {
+          "category": "Misc.",
+          "tag": "Aesthetic"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Ethics"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "9933cba7-63fa-4f35-ad6e-a3a52fffbea6"
     }
   ],
   "set": "Default",
