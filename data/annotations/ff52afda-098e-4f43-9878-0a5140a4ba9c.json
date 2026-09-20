@@ -128,6 +128,39 @@
         }
       ],
       "uuid": "2b440190-81f4-47eb-926d-effe738bcf71"
+    },
+    {
+      "start_time": 6,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This first look of what the advertisement will showcase was created to attract attention, and it ultimately generated a large amount of discussion beyond the original post. The provocative creative choices sparked online debate among viewers and athletes. As stated, the targeted audience is men interested in sports gambling and trading. However, many women have seen this advertisement and were unhappy with how much Sweeney is sexualizing herself for the male gaze. Also, many female athletes felt this was undoing what women have fought for to be taken seriously in competitive sports. This take although seems a little exaggerated since the advertisement is for a gambling platform and has nothing to do with female athletes. However, people criticizing or discussing the video are significantly increasing its visibility, which can introduce Novig to people who may not have encountered the original advertisement on their own. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Platform",
+          "tag": "Algorithm"
+        }
+      ],
+      "uuid": "751a06b3-3100-4973-b277-22f83c28792a"
     }
   ],
   "set": "Default",
