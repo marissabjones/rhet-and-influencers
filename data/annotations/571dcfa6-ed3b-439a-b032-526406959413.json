@@ -131,6 +131,35 @@
         }
       ],
       "uuid": "9933cba7-63fa-4f35-ad6e-a3a52fffbea6"
+    },
+    {
+      "start_time": 14,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Qin communicates a sense of authenticity by incorporating humor and sarcasm into her voiceover. She makes the statement “I literally landed less than 24 hours ago, so this is me trying to get my life together.” This use of verbiage makes her appear more relatable to young viewers, most likely students within the healthcare field with packed schedules. Anyone who has just returned from vacation, especially an audience that may fit this description, has felt the sense of urgency to get back to their daily life and attend to what they have missed while being away. The use of the phrase “getting my life together” also alludes to a popular aesthetic throughout internet culture, which idolizes organization, routines, and productivity. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        },
+        {
+          "category": "Misc.",
+          "tag": "Aesthetic"
+        }
+      ],
+      "uuid": "fdeb9683-380b-40a0-8e77-51561d0e5fc0"
     }
   ],
   "set": "Default",
