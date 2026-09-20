@@ -36,6 +36,43 @@
         }
       ],
       "uuid": "21edab3b-fec5-4252-8c10-f176b6fcdc79"
+    },
+    {
+      "start_time": 14,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The rhetor displays clips of herself putting makeup on, which is a common video clip to include in “Day in my Life” or “Get Ready with Me” videos. Users who are interested in achieving the beauty standard and a similar look to the influencer may be interested in her makeup routine and the products that she generally uses. She employs platform affordances by linking these products on her shop my in a folder called “makeup routine:),” linked in her TikTok bio. Ethical implications come into play here, because although she is promoting non-medical products her position as a medical student may imply scientific validation that does not exist. In addition, the medical field is a largely general profession that encompasses much of modern life, so it is difficult to define a hard line between medical and non-medical products. For example, skincare and cosmetics may be implicated under the umbrella of dermatology. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Algorithm"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Ethics"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "ca2f1005-c8fa-4a62-8979-f20b9bc600bd"
     }
   ],
   "set": "Default",
