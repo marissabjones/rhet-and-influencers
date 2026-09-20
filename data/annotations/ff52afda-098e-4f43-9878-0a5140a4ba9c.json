@@ -49,6 +49,35 @@
         }
       ],
       "uuid": "d90433a8-9bac-419b-a7e8-40e49dd54250"
+    },
+    {
+      "start_time": 16,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During the middle of the advertisement Sydney Sweeney moves through several different sports related settings including football, basketball, hockey, soccer, and tennis. This repetition reinforces Novig’s central message that its focus is solely sports. From a rhetorical perspective, the repetition makes the company’s message difficult to miss. Each new sport gives the audience another visual example of what the platform is associated with, while the quick changes in settings and uniforms keep the advertisement engaging rather than it just being a traditional explanation of what the company is. The use of multiple sports also broadens the advertisement’s potential audience because viewers who enjoy different sports can recognize something familiar."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Repitition"
+        }
+      ],
+      "uuid": "28412465-d65f-42cc-bc5a-b6c3a7de9a0b"
     }
   ],
   "set": "Default",
