@@ -107,6 +107,27 @@
         }
       ],
       "uuid": "20b6f492-7ad6-4294-9b1f-ef214668b7fe"
+    },
+    {
+      "start_time": 0,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The controversy became part of the advertisement's circulation. However, this creates rhetorical complications for the company. Increased attention and engagement does not necessarily mean the intended audience is receiving or remembering the intended message. Much of the conversation shifted towards the video’s portrayal of women and women in sports. This makes the campaign an interesting example of how an advertiser can successfully gain attention while having less control over what gets discussed by the audience. Even if this negative discussion spreads their company’s name around more to the public, it is done so in a way that may drive users away."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        }
+      ],
+      "uuid": "2b440190-81f4-47eb-926d-effe738bcf71"
     }
   ],
   "set": "Default",
