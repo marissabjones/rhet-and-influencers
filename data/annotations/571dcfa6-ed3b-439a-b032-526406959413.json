@@ -160,6 +160,31 @@
         }
       ],
       "uuid": "fdeb9683-380b-40a0-8e77-51561d0e5fc0"
+    },
+    {
+      "start_time": 18,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The creator continues to build her authenticity of this video by showcasing herself to be a normal person, without extravagant routines or luxuries all of the time. She shows her meal for breakfast, noting “Oats were all I had so that was my breakfast.” This messaging contradicts a lifestyle that many influencers showcase, with elaborate meals aimed at promoting health and wellness. While this meal is still healthy, it is simple and plain, portraying Melissa as a “normal” individual who does not always have time to go grocery shopping and make breakfast. Her audience of busy students within the healthcare field may find this meal more relatable and practical than other meals including fruits and vegetables and large sources of proteins, which can be expensive and time-consuming to cook. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "d8b35714-dd5b-4098-84d1-4ed5b1a3bf1b"
     }
   ],
   "set": "Default",
