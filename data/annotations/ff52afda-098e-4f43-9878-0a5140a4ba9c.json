@@ -190,6 +190,39 @@
         }
       ],
       "uuid": "89ae5967-52ae-4efc-b628-acf53eb4bd98"
+    },
+    {
+      "start_time": 48,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the very end of the advertisement, the visual presentation changes as Sweeney walks away and the lighting becomes noticeably darker. At the same time, the music continues creating a dramatic and almost cinematic ending. The combination of lighting, music, and unexpected visual of Sweeney being fully naked in the distant dark draws the audience's attention and it almost suggests that the viewer “follows” her. By “following”, I would interpret that as looking into Novig and creating an account. From a rhetorical perspective, these choices are important  because social media advertising depends on capturing attention and generating discussion beyond the video. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Medium"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Modality"
+        }
+      ],
+      "uuid": "08309816-1b7a-4414-8720-65785eb8648c"
     }
   ],
   "set": "Default",
