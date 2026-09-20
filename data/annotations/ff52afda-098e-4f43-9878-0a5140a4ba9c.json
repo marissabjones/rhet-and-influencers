@@ -161,6 +161,35 @@
         }
       ],
       "uuid": "751a06b3-3100-4973-b277-22f83c28792a"
+    },
+    {
+      "start_time": 41,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Sydney Sweeney states that on Novig there is “no betting on wars or ducks and no politics”, the advertisement connects the brand’s message to Sweeney’s own public image. Sydney Sweeney is a celebrity who has generally kept her political views private, which makes her specifically delivering the phrase “no politics” rhetorically significant. Novig uses a celebrity whose personal reputation already exists. This can make the statement feel more intentional because they may already associate Sweeney with avoiding political discussion. Her celebrity status therefore becomes part of the advertisements’s ethos. The line also helps define Novig by presenting it as focused specifically on sports rather than broader controversial topics. By having Sweeney deliver this message, the advertisement uses both the brand’s purpose and the celebrity’s existing public persona to attract attention. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Persona"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        }
+      ],
+      "uuid": "89ae5967-52ae-4efc-b628-acf53eb4bd98"
     }
   ],
   "set": "Default",
