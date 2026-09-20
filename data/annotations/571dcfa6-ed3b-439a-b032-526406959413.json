@@ -185,6 +185,35 @@
         }
       ],
       "uuid": "d8b35714-dd5b-4098-84d1-4ed5b1a3bf1b"
+    },
+    {
+      "start_time": 22,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this portion of the video, Melissa creates a sense of connection and familiarity with her audience. She mentions working in research related to public health, “which many of you know that I minored in in college.” This statement indicates that she is aware her audience knows her life experiences well, and that she doesn’t need to repeatedly communicate this information with them. This casual comment reinforces the transparasocial relationship between Melissa and her audience. By not only acknowledging them but indicating that they should know personal details about her, she creates a feeling of mutual camaraderie. While her audience may know her well, she likely does not know them, but attempts to diminish any feelings of parasociality with this comment. During this audio, she displays herself putting on designer items in an outfit for a day in the lab, reinforcing the idea that she is an organized and put together individual.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Aesthetic"
+        }
+      ],
+      "uuid": "f32897e7-1f7f-4969-8b8a-d2acb10d39c7"
     }
   ],
   "set": "Default",
