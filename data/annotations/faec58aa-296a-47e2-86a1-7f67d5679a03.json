@@ -148,6 +148,31 @@
         }
       ],
       "uuid": "9df1cffa-d5a4-46ec-bc83-2f591f2042d9"
+    },
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The exigence for Alix’s GRWM TikTok video is for her upcoming night out for a Sip Margs event while showcasing her Reale Actives skincare. Rather than having fully planned-out content, she uses what is currently happening in her life as the main topic while simultaneously promoting her products. Since her audience follows her primarily for lifestyle content, they would most likely perceive the TikTok as a casual life update, but her videos create exposure for both of her brands. Alix makes marketing feel more natural as she embeds promotion within a GRWM video rather than making it a separate planned out advertisement altogether. This integration makes it harder for viewers to distinguish between her personal and promotional content, allowing both to feel authentic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Exigence"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "4a662960-7108-4ac0-a7cd-d2dd2a70a3dd"
     }
   ],
   "set": "Default",
