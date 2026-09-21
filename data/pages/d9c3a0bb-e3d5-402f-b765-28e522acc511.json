@@ -37,7 +37,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Vanillamace Tries Her Hardest to Install a Wig"
+          "text": "Vanillamace Tries Her Hardest to Install a Wig",
+          "bold": true
         }
       ]
     },
@@ -45,7 +46,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
+          "text": "Vanillamace is a social media influencer and content creator whose personal brand revolves around her authentic personality, humour, relatability, and how she presents herself as an “unfiltered internet bestie”. Her content can be found across multiple platforms such as TikTok, Youtube, Instagram, and Twitch, with posts ranging from different niches such as beauty, fashion, gaming, shopping, and day in the life vlogs. Because she doesn’t stick to just one specific niche, her personality and interactions with her audience is what helps to connect her varying content. She stays active in live stream chats, which creates a sense of community and makes her videos feel as if being on facetime with a family member/friend. Beyond just entertainment, Vanillmace also uses her large platform to highlight political and social issues, including ICE and immigration policies, which reveals to her audience more of her personal values and character. Her unfiltered humour, self expression, and audience engagement all contribute to the relatable and authentic persona that she presents, contributing to her brand overall. "
         }
       ]
     },
@@ -217,6 +218,6 @@
   "slug": "rising-to-fame",
   "created_at": "2026-09-07T20:52:56.507Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-21T02:35:24.358Z",
+  "updated_at": "2026-09-21T02:36:47.313Z",
   "updated_by": "KaleyChhor"
 }
