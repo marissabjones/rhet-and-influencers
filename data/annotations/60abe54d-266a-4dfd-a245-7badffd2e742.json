@@ -124,6 +124,27 @@
       ],
       "tags": [],
       "uuid": "cb972077-92e6-4811-acd8-98598c2c82c4"
+    },
+    {
+      "start_time": 535,
+      "end_time": 584,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rober sets up the physics behind the curvature of the ball by framing it as a riddle: an astronaut drifting away from the space station cannot swim back by flailing his arms. He backs this up by using actual footage of an astronaut demonstrating that simply arm movement does not shift your center of mass. He then supplies the solution, throwing something in the opposite direction, and he then reinforces this with a skateboard analogy. Three modes are stacked here: the narrated riddle, the documentary demonstration, and the analogy, and none of them alone would be able to land the concept. The riddle creates curiosity, while the footage proves the physics is real rather than a trick, and then the analogy makes an abstract momentum principle intuitive without the viewer having to actually know the name of the Magnus Effect.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Modality"
+        }
+      ],
+      "uuid": "e380539a-68bb-4bcb-b1c3-f9ed93587419"
     }
   ],
   "set": "Default",
