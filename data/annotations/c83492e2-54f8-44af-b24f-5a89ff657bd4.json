@@ -136,6 +136,39 @@
         }
       ],
       "uuid": "d9b2991f-8683-41cf-b4ae-bc3957e42f1f"
+    },
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lilly Singh’s ability to set the video in a more casual setting helps her relate the audience more and fit the aesthetic expectations of Instagram Reels where content creators present themselves in everyday environments. Her use of casual aesthetics and casual tone help make the video seem like a more informal conversation helping enhance the delivery of a serious subject- mental health. In the video she is wearing a casual black shirt and jeans and speaking directly into the camera like she is having a conversation with her audience. The casual setting makes Singh appear more relatable and approachable, helping enhance the casual aesthetic of her brand and reinforce a personal connection with the audience. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Delivery"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "15b6f87c-64f9-4c24-b34b-c4ed37b99720"
     }
   ],
   "set": "Default",
