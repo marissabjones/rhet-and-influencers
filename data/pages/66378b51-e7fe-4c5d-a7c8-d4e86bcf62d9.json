@@ -384,7 +384,49 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": "Alix Earle. “TikTok video about acne.” TikTok, 11 March 2026 https://www.tiktok.com/t/ZTUyfqU8v/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nRotten Tomatoes. “"
+        },
+        {
+          "text": "Earle Meets World",
+          "italic": true
+        },
+        {
+          "text": " Trailer.” "
+        },
+        {
+          "text": "TikTok",
+          "italic": true
+        },
+        {
+          "text": ", 19 Aug. 2026, "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tiktok.com/t/ZTy1TPArN/?utm_source=chatgpt.com",
+          "children": [
+            {
+              "text": "https://www.tiktok.com/t/ZTy1TPArN/"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -405,6 +447,6 @@
   "slug": "works-cited",
   "created_at": "2026-09-05T18:48:29.090Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-21T19:13:36.784Z",
-  "updated_by": "agrawalmehal"
+  "updated_at": "2026-09-21T21:32:40.765Z",
+  "updated_by": "MadelineOhman"
 }
