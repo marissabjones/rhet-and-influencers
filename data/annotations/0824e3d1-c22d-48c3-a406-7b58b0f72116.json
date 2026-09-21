@@ -1,1 +1,40 @@
-{"annotations":[],"set":"Default","event_id":"9007b1a4-0e25-4484-921f-4dbf74eac5fa","source_id":"97939d9c-5753-45a3-825c-93fc9dfecc35"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video format allows Alix's facial expressions and body language to communicate emotion without her needing to explain everything directly. Seeing Alix visibly crying creates a stronger pathos appeal because the audience can visually experience her vulnerability instead of simply being told that she is going through something difficult. This is an"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "important affordance of video because she can communicate emotion through facial expressions, camera shots, music, and editing at the same time. It also creates a contrast with the glamorous image of Alix that viewers may be familiar with from TikTok and Instagram. Instead of seeing her as someone who is always happy and living an exciting lifestyle, viewers see her experiencing a difficult emotional moment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        }
+      ],
+      "uuid": "87c9617d-0a4d-467b-84a0-ed9d4bf08ae4"
+    }
+  ],
+  "set": "Default",
+  "event_id": "9007b1a4-0e25-4484-921f-4dbf74eac5fa",
+  "source_id": "97939d9c-5753-45a3-825c-93fc9dfecc35"
+}
