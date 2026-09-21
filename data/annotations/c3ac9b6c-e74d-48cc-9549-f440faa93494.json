@@ -177,6 +177,35 @@
         }
       ],
       "uuid": "f3db667d-6151-4a0b-9362-27c765bf49f9"
+    },
+    {
+      "start_time": 38,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nikole provides a general recap of the Magnapinna Squid. She clarifies this information is very general, highlighting its big fins (hence the name Magnapinna, Latin for \"big fin\"), eight arms and two tentacles, and hard squid beak. To contrast the little we know about the Magnapinna, she broadens her focus to explain the taxonomic identification of cephalopods and the general anatomy of squids. Her use of logos does more than provide facts; it establishes a distinction between what is known and considered \"normal\" among squids and what is unknown or peculiar about the Magnapinna. The subject of the video is therefore not portrayed as mysterious solely because of its strange appearance, but because it represents a gap in scientific study. When Nikole later remarks on the Magnapinna’s “f*cking creepy” appearance, her reaction reads as an expression of her personality rather than a scientific assessment. By first establishing the context of what we know about the Magnapinna and more importantly, what we do not know, she creates room to speculate and react emotionally without presenting those reactions as scientific certainty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Logos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "a083dd0f-127d-44a2-a3d2-c91869ffa9ae"
     }
   ],
   "set": "Default",
