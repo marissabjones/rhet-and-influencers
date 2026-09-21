@@ -139,6 +139,41 @@
         }
       ],
       "uuid": "3fc8d7d2-ce60-4bf7-a595-a5d75423aa4f"
+    },
+    {
+      "start_time": 36,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Right after his entrance, Joey repeatedly says the word “bro.” He is mimicking the same way that the original creator speaks. By starting with this intonation and repeated mocking, Joey makes it clear that he has a negative view point on the video he is stitching. This also primes the audience for the somewhat condescending tone that he speaks with. He uses a negative view because he is responding to the original ragebait video. He knows that the audience is probably already upset at the creator so he plays into it. By opening with distinct ridicule rather than a measured argument, he plays into the same ragebait genre."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Ragebait"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "bfc0c006-ac9c-4a5c-8097-95b69e663207"
     }
   ],
   "set": "Default",
