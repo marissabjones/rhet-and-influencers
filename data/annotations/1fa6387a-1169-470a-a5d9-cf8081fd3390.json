@@ -57,6 +57,31 @@
         }
       ],
       "uuid": "d35dcc25-89cb-4de9-8733-b493ea53780e"
+    },
+    {
+      "start_time": 11,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instead of keeping the focus on the simplicity or accessibility of recipes, Nara consistently finds recipes that are technical and reduce the amount of processed foods used. This causes a distinct shift in the specific genre of cooking videos she produces. Her content loses some relatability with the largest demographic of cooking video consumers, but a certain niche of viewers that are heavily interested in holistic health become increasingly inclined to watch. Even though her stated goal is not to villainize the processed foods widely available to Americans, there is an underlying tone of superiority that comes with the “health” food genre which fits well with the luxury housewife aesthetic. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        }
+      ],
+      "uuid": "559aa898-1b6c-4e0f-95fd-f6968696e95c"
     }
   ],
   "set": "Default",
