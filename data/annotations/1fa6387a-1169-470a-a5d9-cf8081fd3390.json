@@ -124,6 +124,39 @@
         }
       ],
       "uuid": "9c173c60-9c2d-48db-a45b-37bf713b9be9"
+    },
+    {
+      "start_time": 73,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this point, Nara re-emphasizes the amount of time and effort the skittles are taking, but her tone and visuals make it appear almost effortless. Unlike other video series where people attempt to recreate processed food products, she describes no frustration. In fact, she goes so far as to say that her children truly enjoyed the treat without complaining which most people would heavily doubt. The lack of authenticity, though clearly intentional, begins to move more of the audience away from enjoyment. While many content creators would view this negatively, the purpose of the video is to drive engagement. It does not matter if the ratio of hate comments to compliments is 100:1 if Nara can use it in the future to show her brand reach. This goes hand in hand with the use of rage-bait that is seen throughout most of her content. It is clearer to general audiences that taking ten hours to make fourteen total skittles is unserious, yet it still activates enough of a discussion to benefit her.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Ragebait"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Tone"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Modality"
+        }
+      ],
+      "uuid": "285ecfb1-3b63-4e6b-a707-bf0438dc2d46"
     }
   ],
   "set": "Default",
