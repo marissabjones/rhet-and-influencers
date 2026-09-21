@@ -32,6 +32,31 @@
         }
       ],
       "uuid": "87c9617d-0a4d-467b-84a0-ed9d4bf08ae4"
+    },
+    {
+      "start_time": 0,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The purpose of this trailer is to introduce Alix's reality show while creating enough interest and emotion to make viewers want to watch all of the episodes. The trailer uses short clips of emotional, dramatic, and personal moments from Alix's life without giving viewers the complete story. This creates curiosity and encourages the audience to watch the full episodes. The trailer is also intended for circulation, meaning it is designed to move across social media platforms and reach audiences beyond Alix's existing followers. Its short format, dramatic moments, and quick editing make it easy for viewers to watch, repost, or share with others. Because Alix already has a large social media presence, the trailer can circulate through her audience and attract more attention to the show. Its purpose is therefore both to promote the series and encourage its content to spread through digital spaces."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        }
+      ],
+      "uuid": "892a6671-f4ea-42b5-a951-18d0d2d91777"
     }
   ],
   "set": "Default",
