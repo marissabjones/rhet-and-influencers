@@ -78,6 +78,39 @@
         }
       ],
       "uuid": "59116a9e-0b4f-4828-807d-294659ed68de"
+    },
+    {
+      "start_time": 17,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While the wedding guests chase the keg down the hill, Whitney Houston's “I Will Always Love You” begins playing while people are falling and crashing into each other. The emotional song does not match the goofy situation. This creates a large part of the humor. The visual modality of guests chasing the keg down the hill combined with the audio modality of the song creates a light hearted humorous tone. The affordances are seen in the visual and audio modalities in this clip as well as the ad uses popular music and creative scenes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Modality"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Casual Aesthetics"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "fd265d1f-e790-421d-8fe6-f4f111a1e033"
     }
   ],
   "set": "Default",
