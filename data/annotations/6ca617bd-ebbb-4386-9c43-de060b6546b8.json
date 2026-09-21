@@ -28,6 +28,31 @@
         }
       ],
       "uuid": "bd9da4b3-c51a-477e-92b7-0998b73a14e1"
+    },
+    {
+      "start_time": 9,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pathos is used through humor in the commercial when the keg begins rolling down the hill and everyone reacts as if something has gone terribly wrong. The situation is exaggerated because nobody is actually in danger. However, the characters treat saving the Bud Light like an emergency. This creates a playful tone. The keg of Bud Light is seen as an important ingredient for the wedding to continue. Bud Light is not just trying to tell the viewer how great their beer is, but rather trying to connect their product to feelings of fun and excitement. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "c3693e7e-36c0-4f98-b637-34113cc67b78"
     }
   ],
   "set": "Default",
