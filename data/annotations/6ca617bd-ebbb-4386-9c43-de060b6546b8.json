@@ -1,1 +1,36 @@
-{"annotations":[],"set":"Default","event_id":"6b806ac7-16cd-43b2-9f5c-fbd6fcb8e794","source_id":"c4878970-5949-4f0d-9602-6a5531a4b057"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bud Light uses ethos by placing well known public figures Shane Gillis, Post Malone, and Peyton Manning together in the commercial. Each celebrity brings a recognizable persona and connects with a different audience. Peyton Manning appeals to football and NFL fans, Post Malone appeals to music and pop-culture audiences, and Shane Gillis connects with comedy fans and his online following. Their familiarity gives Bud Light credibility. It also is helping the brand reach several overlapping groups at once. Bud Light does not choose to rely on a traditional spokesperson, they use personalities that viewers already recognize and trust."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Persona"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "bd9da4b3-c51a-477e-92b7-0998b73a14e1"
+    }
+  ],
+  "set": "Default",
+  "event_id": "6b806ac7-16cd-43b2-9f5c-fbd6fcb8e794",
+  "source_id": "c4878970-5949-4f0d-9602-6a5531a4b057"
+}
