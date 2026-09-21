@@ -29,7 +29,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Our influencers are Mark Rober, a former NASA engineer, and Lindsay Nikole, a graduate in Zoology. Despite the difference in their informational content, they are both educational influencers. Their videos rely on “edutainment”, where they keep entertainment fun and exciting. Edutainment influencers attempt to educate the audience in a way that does not feel like a chore or resemble a school lecture. They have to be aware of the affordances and constraints of the platform, utilizing the algorithm, remaining attentive to viewer’s attention spans, while also ensuring their content is relevant, but inside the platform rules. Edutainment influencers subtly use the rhetorical appeal ethos to build credibility in the background of their content, ensuring they are viewed as a reliable source, despite their use of pathos. Pathos is used to entertain the audience, such as Rober and Nikole’s zany personalities and content, keeping the audience’s attention so they are not pushed away by the underlying logos. Edutainment is critical now since as the digital age progresses, the attention span of both children and adults has begun to decline. Edutainment fixes this issue by allowing for media that can hold attention by adding a fun component while still educating the viewer. Additionally, with the rise of short form media such as TikTok and Instagram Reels, younger audiences have grown accustomed to learning in quick bursts rather than traditional lectures. This change in how media is consumed means that if content is not immediately engaging, viewers will likely simply scroll past it. Edutainment fixes this by putting complex ideas into short and entertaining formats, making learning feel more like something to actively seek out.\n"
+          "text": "Our influencers are Mark Rober, a former NASA engineer, and Lindsay Nikole, a zoology graduate. Both are education influencers whose videos rely on “edutainment,” making educational material fun and exciting, rather than resembling a school lecture. They must account for the affordances and constraints of the platform, working within algorithms, ensuring their content is relevant and within platform rules, all while remaining attentive to viewers’ attention spans. Edutainment influencers subtly use the rhetorical appeal ethos to build credibility in the background of their content. Rober does not need to constantly remind his audience of his experience as a NASA engineer, just as Nikole does not need to repeatedly emphasize her background in wildlife conservation. Their expertise is demonstrated throughout their content, with their credentials remaining available to curious viewers. Edutainment influencers balance pathos carefully with their ethos. Although both Rober and Nikole have zany personalities and content, neither becomes so “clownish” that their credibility is undermined. These appeals support the logos at the educational core of the video. As influencers compete for their viewers’ attention, educators on entertainment platforms must communicate differently. If content is not immediately engaging, viewers may scroll past it. Edutainment addresses this by putting complex ideas into engaging formats, making learning feel more like something to actively seek out."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     },
@@ -117,7 +125,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Lindsay Nikole is a Zoologist who has experience in working with several wildlife and animal sanctuaries, as well as a B.S. in Zoology from Oregon State University. Her content focuses on zoology, paleontology, and evolution. Nikole produces content on several platforms, including YouTube, Instagram, TikTok, and Patreon. Across all of these platforms, Nikole balances a conversational and humorous tone with well-studied and at-times dense science. In this, she creates “edutainment.” Her teaching method is bolstered by her comedy and irreverence, making potentially intimidating natural science accessible. The description of an influencer fits Nikole, but many may characterize her as a science communicator. Her content has a distinct internet style, seen in her profanity, memes, slang, and often-exaggerated reactions, while still being informative. The (oft-erroneously attributed to Aristotle) quote describes Nikole’s brand, “Educating the mind without educating the heart is no education at all”. Her intended audience is a diverse crowd, from PhD zoologists to people with little formal science education, and Nikole attempts to make them laugh so hard they do not realize they are learning until it is too late."
+          "text": "Lindsay Nikole is a zoologist who has experience working with several wildlife and animal sanctuaries, as well as a B.S. in Zoology from Oregon State University. Her content focuses on zoology, paleontology, and evolution. Nikole produces content on several platforms, including YouTube, Instagram, TikTok, and Patreon. Across all of these platforms, Nikole balances a conversational and humorous tone with well-researched and, at-times, dense scientific material. In this, she creates “edutainment.” Her teaching method is bolstered by her comedy and irreverence, making potentially intimidating natural science accessible. The description of an influencer fits Nikole, but many may characterize her as a science communicator. Her content has a distinct internet style, seen in her profanity, memes, slang, and often-exaggerated reactions, while still being informative. Her intended audience is a diverse crowd, from PhD zoologists to people with little formal science education, and Nikole attempts to make them laugh so hard they do not realize they are learning until it is too late. Nikole persuades this broad audience by combining scientific credibility with humor and internet imagery, making specialized knowledge feel accessible."
         }
       ]
     },
@@ -177,6 +185,6 @@
   "slug": "science-and-education",
   "created_at": "2026-09-07T20:49:12.578Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-21T18:03:12.362Z",
+  "updated_at": "2026-09-21T22:37:51.091Z",
   "updated_by": "lddigg500"
 }
