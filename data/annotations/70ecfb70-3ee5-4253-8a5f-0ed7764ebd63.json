@@ -65,6 +65,39 @@
         }
       ],
       "uuid": "5963ccd4-52b3-4ed5-b418-a4ac81203ce9"
+    },
+    {
+      "start_time": 9,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Vanillamace puts on her durag, she prefaces that it is “only done in my own home,” which shows that she is aware of how wearing it could be interpreted as cultural appropriation. Someone in the livestream chat even comments “CANCELLED,” to emphasize her joke. This demonstrates a constraint of having a large online platform, where actions could be easily taken out of context or interpreted differently by people outside of her intended audience. Because TikTok can circulate her content beyond her regular followers, she prepares for possible criticism and addresses it before the viewers do. Her humour helps guide her awareness of the cultural sensitivity, while maintaining her unfiltered personality that is associated with her brand. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Platform",
+          "tag": "Constraint"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "72e6a9f1-a9b2-460f-8932-9acbdb2fd6d3"
     }
   ],
   "set": "Default",
