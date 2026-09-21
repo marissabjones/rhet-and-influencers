@@ -40,6 +40,35 @@
         }
       ],
       "uuid": "f02cf5b1-6c26-4697-a86b-58a7feb6f182"
+    },
+    {
+      "start_time": 110,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alix casually mentions dancing with Mick Jagger, creating a contradiction in the relatable persona she has built on her platform. This experience she has is inaccessible to the majority of her audience, which distances her from the audience and demonstrates how being an influencer has affected her life. In the context of her rise to fame, she is no longer as relatable as the typical college girl she first built her content around. However, her tone and the delivery of how she presents her life have stayed the same. The tension between her real life and online persona shows how her relatability with her following is more dependent on how she is sharing her life rather than the exact experiences she has."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Persona"
+        }
+      ],
+      "uuid": "89af5d0b-f7e0-40b6-a42c-aef4711d520e"
     }
   ],
   "set": "Default",
