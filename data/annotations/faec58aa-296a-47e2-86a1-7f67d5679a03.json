@@ -24,6 +24,47 @@
         }
       ],
       "uuid": "63f29e8d-e902-492a-b15e-e0dfc69590b4"
+    },
+    {
+      "start_time": 1200,
+      "end_time": 2400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video appeals to the audience’s emotions when she mentions the dynamic of her divorced family going out together and jokes about the awkward interactions sometimes they receive. Alix shares a personal family situation which creates an emotional connection with her audience that may have experienced similar hardships. This acknowledgement contrasts with her fun and glamorous lifestyle the public associates her with, making Alix seem more relatable despite her fame and wealth. Her casual delivery of the situation makes the audience feel like its story a friend would mention, reducing the perceived distance between Alix and her audience and strengthening the emotional connection. Her authenticity increases her credibility as audiences view Alix’s personal stories and confessions as genuine, leading to more trust in her recommendations for products and businesses that she overlaps in her content. Audiences may tie her authenticity to the rest of her content, making the more promotional aspects of her content seem less commercially motivated and potentially more persuasive to viewers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "f02cf5b1-6c26-4697-a86b-58a7feb6f182"
     }
   ],
   "set": "Default",
