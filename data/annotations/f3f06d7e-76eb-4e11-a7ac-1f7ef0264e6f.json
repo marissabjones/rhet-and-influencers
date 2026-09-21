@@ -140,6 +140,10 @@
         {
           "category": "Rhetorical Situation",
           "tag": "Message"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Sarcasm"
         }
       ],
       "uuid": "3fc8d7d2-ce60-4bf7-a595-a5d75423aa4f"
