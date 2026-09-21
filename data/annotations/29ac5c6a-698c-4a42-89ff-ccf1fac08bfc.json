@@ -61,6 +61,35 @@
         }
       ],
       "uuid": "ffa310b6-9faf-455b-8855-6409f1eaf68e"
+    },
+    {
+      "start_time": 78,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neel records community volunteers helping out with unjarring the pickles and also shows that these damaged pickles are also being used effectively making compost. Without explicitly stating this, the true purpose of this project is to not trash these pickles and instead, positively contribute to the environment and this small business that could have lost out of a lot of money. She has clear intent of her contributions that would eventually happen behind the scenes, but she chooses to base her content on something that will grab the audience’s attention as she does in all of her content on her page.  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "2d3c54b5-e2ff-4244-8853-1218498d3ea4"
     }
   ],
   "set": "Default",
