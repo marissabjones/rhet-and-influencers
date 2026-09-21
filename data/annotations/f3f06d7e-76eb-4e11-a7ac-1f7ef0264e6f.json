@@ -1,1 +1,42 @@
-{"annotations":[],"set":"Default","event_id":"fcad3a17-1492-4a06-b50a-4822b3a1f0e3","source_id":"fe9fdf6c-42ce-4521-9cdc-acea045fbfaf"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The video as a whole can be seen as a mild but clear example of ragebait. Joey does not generate controversy himself. He chooses an already divisive video and profits off of it. This is a much safer way to use ragebait to farm engagement. Many ragebait creators receive a lot of hate, and this does not lead to a loyal fanbase. By instead commenting on ragebait, Joey is able to build his own fanbase. By the time Joey actually enters the video after 35 seconds, he is mostly restating the ideas that the audience already formed. Rather than offering fresh insight, he uses sarcasm to provide the general consensus."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Ragebait"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "b5224ca6-b204-41e3-b46a-d5fa3c269c6a"
+    }
+  ],
+  "set": "Default",
+  "event_id": "fcad3a17-1492-4a06-b50a-4822b3a1f0e3",
+  "source_id": "fe9fdf6c-42ce-4521-9cdc-acea045fbfaf"
+}
