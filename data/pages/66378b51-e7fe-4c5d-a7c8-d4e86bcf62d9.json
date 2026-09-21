@@ -315,6 +315,31 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Citation: Gillis, Shane [@shanemgillis]. “New Super Bowl commercial @budlight #SBLX #ad.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Instagram, 30 Jan. 2026"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "https://www.instagram.com/reel/DUI1fQ3kfQ4/?stkn=amVmMDZpZ3F3cW82",
+          "link": "https://www.instagram.com/reel/DUI1fQ3kfQ4/?stkn=amVmMDZpZ3F3cW82"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -360,6 +385,6 @@
   "slug": "works-cited",
   "created_at": "2026-09-05T18:48:29.090Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-21T16:18:02.077Z",
-  "updated_by": "Preston-Rumney"
+  "updated_at": "2026-09-21T18:39:50.923Z",
+  "updated_by": "jmg9826"
 }
