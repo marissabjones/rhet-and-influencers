@@ -70,6 +70,43 @@
         }
       ],
       "uuid": "f4de9a6c-a004-4032-adc2-d50249f33cd5"
+    },
+    {
+      "start_time": 20,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Lilly Singh uses pathos to connect her chapstick to her mental health and emotional well being. She uses her humorous tone to introduce a vulnerable aspect of her well being, mental health. She explains how the loss of a simple daily object can cause her to feel insecure in herself and at a loss of comfort. This message can cause viewers to think about what objects bring them comfort and security. The use of pathos helps her highlight her serious message of people finding security in the smallest of things while maintaining her brand through her humorous tone. She is able to communicate her emotional experience while staying tru eto her brand. Singh creates an emotional connection with her viewers without having to be overly serious and while maintaining her humorous brand. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "de7be6a2-f6c5-4f6f-91a8-2c97a7c390b2"
     }
   ],
   "set": "Default",
