@@ -57,6 +57,43 @@
         }
       ],
       "uuid": "3b95cb7d-86a2-4894-b109-38fb4b6680ae"
+    },
+    {
+      "start_time": 78,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The context surrounding Chris Bumstead’s speech makes his message more meaningful to the audience. He is speaking on the Mr. Olympia stage after winning his third consecutive Classic Physique title. The in-person and online viewers are able to see the physical results of years of training, discipline, and consistency. Since CBum is speaking immediately after accomplishing one of the biggest goals in the sport, his advice carries more credibility than it would a normal Instagram post. The setting also connects his words directly to the long journey that led to this moment. His fans around the world can understand that his success didn’t happen overnight, which makes the ideas of discipline and self-improvement more believable and relevant."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "44c8215f-a0c6-4a16-837b-6c1ca2f9d264"
     }
   ],
   "set": "Default",
