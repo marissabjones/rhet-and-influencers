@@ -140,6 +140,31 @@
         }
       ],
       "uuid": "f57924a1-c698-4e4e-ab9d-9c64ad451997"
+    },
+    {
+      "start_time": 47,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When everyone reaches the bottom of the hill, the keg is recovered and Bud Light can finally be served to the guests. The chaos seems to become worth it because the characters are able to continue drinking together. Peyton Manning makes a comment about it being a “heck of a wedding” which treats the entire disaster as part of the fun. The emotions of friendship and celebration are targeted. This supports the larger message of the commercial that Bud Light is connected and essential for memorable social experiences. The advertisement is not directly selling the taste or quality of the beer. It is selling the idea that Bud Light belongs at parties, sporting events, weddings, and other situations where people are coming together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "0fcea829-16c2-48e2-a54b-6a0afbd3a35f"
     }
   ],
   "set": "Default",
