@@ -82,6 +82,27 @@
         }
       ],
       "uuid": "559aa898-1b6c-4e0f-95fd-f6968696e95c"
+    },
+    {
+      "start_time": 26,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Almost four years into Nara Smith’s TikTok career she follows a similar pattern of video uploads. She switches between three to four main formats with varying levels of engagement. Before this video was posted, her most recent videos had underperformed based on past expectations. This likely provided the motivation for her to post a video where her technical cooking skills, humor, and lifestyle were all highlighted at once. Based on the production of the video, it is likely that Nara pre-filmed it long before it went up and was waiting for the timing to provide the greatest benefit to her through bringing back millions of viewers.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Exigence"
+        }
+      ],
+      "uuid": "62391038-b76a-4dbd-a9dd-0dea7edc26af"
     }
   ],
   "set": "Default",
