@@ -94,6 +94,35 @@
         }
       ],
       "uuid": "44c8215f-a0c6-4a16-837b-6c1ca2f9d264"
+    },
+    {
+      "start_time": 78,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chris Bumstead’s message shifts the focus from simply winning the Mr. Olympia title to the personal growth that happens while in pursuit of a difficult goal. He tells the audience, “It’s not about winning, it’s not about a trophy. It’s about having no quit. It’s about giving everything you have so that when you show up on game day, before the results are over, you’re proud of yourself and know the work you put in.” This message shows that CBum wants his audience, both in person and online, to value the work they put toward a goal rather than only focusing on the final result. This makes his purpose larger than just celebrating another Mr. Olympia title. By focusing on discipline, character, and self-improvement, his message can connect with viewers who are pursuing goals outside of bodybuilding as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "c12eb43b-7566-4316-9b7a-bcccb46cac97"
     }
   ],
   "set": "Default",
