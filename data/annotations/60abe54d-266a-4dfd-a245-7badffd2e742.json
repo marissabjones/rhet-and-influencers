@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "f93a2b76-19d1-43b5-8da2-2d63bd0caff5"
+    },
+    {
+      "start_time": 132,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this point Rober is back at his childhood street, and he jokes that his old reputation of being one of the best home run hitters resurfaced at a casual game. He then reveals the real complication: a bunch of the kids he played with growing up actually became pro wiffle ball players, running a league with drafts, playoffs, and a World Series. This is where the video’s exigence is created, a personal and unresolved question (was I actually ever good?) is suddenly testable against an actual legitimate standard that did not exist in his backyard only mythology. The urgency is now a psychological danger because it reveals that nostalgia is a key player (lol)\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Exigence"
+        }
+      ],
+      "uuid": "602a09f0-a4f5-4132-a5b1-d211d56d3e41"
     }
   ],
   "set": "Default",
