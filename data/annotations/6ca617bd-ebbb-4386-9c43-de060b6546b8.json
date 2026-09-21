@@ -53,6 +53,31 @@
         }
       ],
       "uuid": "c3693e7e-36c0-4f98-b637-34113cc67b78"
+    },
+    {
+      "start_time": 17,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The wedding guests dramatically chasing the keg creates humor through exaggeration. Pathos is also used to create humor by showing the guests falling down the hill. The guests willingness to tumble down a hill over a keg makes Bud Light seem like a key part to the celebration. This use of pathos is meant to make the audience laugh while also connecting the product with the excitement of the party. The excessive tone makes the advertisement more ike entertainment rather than just a beer commercial."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "59116a9e-0b4f-4828-807d-294659ed68de"
     }
   ],
   "set": "Default",
