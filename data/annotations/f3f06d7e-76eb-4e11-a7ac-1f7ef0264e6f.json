@@ -205,6 +205,41 @@
         }
       ],
       "uuid": "9adbe880-ee45-4d64-b06a-a2e7d45a1fda"
+    },
+    {
+      "start_time": 76,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "After explaining how to properly act in the public setting, Joey then says that if the creator did want to act that way then he should build a private gym. The idea of building a home gym, which is incredibly unrealistic and expensive for most people, causes the creator’s suggestion to seem even more idiotic. By framing all of the things that the creator is negatively reacting to as very reasonable things, he paints him in an even more absurd light. Additionally, Joey appeals directly to his gym-going audience. Many people in his audience have most likely also been approached with a similar question and would never think of reacting the way the original creator did."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Logos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "7bf1fbad-77e2-44b9-b1de-e67191893acf"
     }
   ],
   "set": "Default",
