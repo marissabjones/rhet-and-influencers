@@ -29,7 +29,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[group description of theme, 250-300 words]"
+          "text": "Contrary to popular belief, health is more than just physical well-being. Health is the state of being mentally and socially well, too. The Instagram influencers we chose, Noel Deyzel and Chris Bumstead, stress this to their audiences even though they seem to mainly focus on the physical aspect of it. They encourage others to use the gym as an outlet and to reach out to the lifting community when in need of help, whether it is for physical, mental, or some sort of social problem. Other influencers that contribute to the health theme group are life coaches, therapists, counselors, and personal trainers. Most people only focus on one aspect of health, but all three are equally important. They focus on the destination instead of the importance of the journey. Developing consistency and discipline is more important than earning a medal or trophy. When it comes to health, it is more important to be a jack of all trades rather than the master of one. Both of our influencers are males, so they tend to focus on physical health more often. Recently, they have started to include mental health in their content because there is a stigma behind men reaching out for help when they need it. This makes their content feel like it is tailored more for the male audience. Our theme of health is important now since there is an epidemic regarding men’s health, with male suicide rates being nearly four times higher than women’s in the United States. "
         }
       ]
     },
@@ -45,7 +45,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Video Title",
+          "text": "OLYMPIA SPEECH",
           "bold": true
         }
       ]
@@ -54,7 +54,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
+          "text": "Chris Bumstead, better known as “CBum,” is a professional bodybuilder from Canada who has built his personal brand around self-improvement, bodybuilding, and discipline. He became popular through his success in the Classic Physique division, where he won six consecutive Mr. Olympia titles from 2019-2024. His Instagram account, @cbum, combines training videos, bodybuilding competition footage, family content, motivational messages, and promotions for fitness-related brands. His personal brand includes more than just his physique, as he presents himself as someone who values hard work, family, and personal growth. Since retiring from competitive bodybuilding, his posting style has changed from intense bodybuilding workouts to training videos that focus on mobility and athleticism. Chris Bumstead has also expanded his influence into business through supplement products and partnerships connected to fitness. All of these elements come together to make his brand recognizable to both bodybuilding fans and a broader fitness audience worldwide. Since his audience extends beyond competitive bodybuilding, his content can influence viewers to connect fitness with larger ideas about self-improvement, discipline, and consistency."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     },
@@ -142,6 +150,6 @@
   "slug": "fitness-and-health",
   "created_at": "2026-09-07T20:56:25.296Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-16T16:48:38.362Z",
+  "updated_at": "2026-09-21T21:54:02.215Z",
   "updated_by": "Kfak05"
 }
