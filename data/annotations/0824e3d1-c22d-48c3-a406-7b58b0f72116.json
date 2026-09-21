@@ -57,6 +57,39 @@
         }
       ],
       "uuid": "892a6671-f4ea-42b5-a951-18d0d2d91777"
+    },
+    {
+      "start_time": 75,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The word “FAMILY” over footage of Alix and her family shows how the reality-show format is both revealing and limited. The trailer shows only selected moments from Alix's family life, so viewers never get the full context of those relationships. The producers decide which conversations, interactions, and emotional moments are included, so the audience is receiving a particular version of Alix's family life. This creates an important constraint because even though the reality show gives viewers more access to Alix than a typical TikTok might, that access is still controlled through editing. The word “FAMILY” also tells viewers how to interpret the footage and signals that her relationships are an important"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "part of her identity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Constraint"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        }
+      ],
+      "uuid": "6cb20460-5123-43d3-9665-689ac842098f"
     }
   ],
   "set": "Default",
