@@ -185,6 +185,43 @@
         }
       ],
       "uuid": "a6a232fc-110d-4122-a7a1-14e0b71bfc69"
+    },
+    {
+      "start_time": 172,
+      "end_time": 212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The recent death of George Peterson created the exigence for this part of CBum’s speech. The interview was meant to celebrate his third Mr. Olympia title, but Peterson’s passing gave Bumstead a reason to shift the focus away from himself momentarily. Peterson’s death was emotionally significant to many of the people in the audience, so the moment called for Bumstead’s reaction. He responded to the situation by using his time on stage to remember Peterson and show respect for him. This makes the tribute feel authentic and appropriate rather than fake or unrelated to the event. This action showed the audience, both in person and online, that the bodybuilding community is connected by more than competition."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Exigence"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "df2984d7-1fa2-47af-b8bb-add3e9c16650"
     }
   ],
   "set": "Default",
