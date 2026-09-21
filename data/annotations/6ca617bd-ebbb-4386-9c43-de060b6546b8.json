@@ -206,6 +206,35 @@
         }
       ],
       "uuid": "d7dd8041-4a41-4401-9f96-fe2242009dbe"
+    },
+    {
+      "start_time": 0,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gillis posted the commercial directly to his personal Instagram. The advertisement reaches viewers through a different modern medium. Although it appears like traditional television commercial the medium is important to note. Instagram allows the video to circulate through Gillis’s own follower base. This means people are likely to encounter the advertisement because they already follow him. The platform also gives viewers the affordances to like, comment, and share the post. This can help the advertisement spread beyond its original audience due to interaction boosting the algorithm. These affordances make Gillis more than just an actor in the commercial due to his own social media account becomes part of how Bud Light distributes and promotes the advertisement. It makes me view him as more of a public ambassador of the brand rather than just a temporary sponsor. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Medium"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        }
+      ],
+      "uuid": "98f7a61c-a0c1-40ed-ad03-8a5c1c09111e"
     }
   ],
   "set": "Default",
