@@ -111,6 +111,35 @@
         }
       ],
       "uuid": "fd265d1f-e790-421d-8fe6-f4f111a1e033"
+    },
+    {
+      "start_time": 30,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gillis alienates himself from the rest of the wedding by refusing to run down the hill after the keg. While everyone else crashes into each other, he states that the situation is “not necessary” and eventually points out that there is a trail. This moment fits the sarcastic style that his audience already associates him with. Budlight does not make Gillis completely change his personality to promote their beer. The commercial allows him to act like his usual self. This is important rhetorically because the advertisement feels like Gillis is stopping his normal content to give a sales pitch. Bud Light is using his established persona to make the advertising feel like part of the entertainment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Persona"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        },
+        {
+          "category": "Misc.",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "f57924a1-c698-4e4e-ab9d-9c64ad451997"
     }
   ],
   "set": "Default",
