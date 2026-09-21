@@ -104,6 +104,41 @@
         }
       ],
       "uuid": "bc2fa166-ad4d-437e-a0c4-c5330e798efb"
+    },
+    {
+      "start_time": 36,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Throughout his commentary, Joey addresses the original creator’s video rather than the audience. His sarcastic use of bro and his eventual suggestion of building a home gym are framed as him talking directly to the stitched creator rather than his audience. Addressing the creator instead of the audience is an intentional choice by Joey. He positions the audience as passively witnessing someone being corrected rather than being the targets of Joey’s persuasion. This makes the video seem less like an attempt to change the mind of the viewers and instead as engaging in an argument which they agree with. This helps reinforce Joey’s loyalty."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        }
+      ],
+      "uuid": "3fc8d7d2-ce60-4bf7-a595-a5d75423aa4f"
     }
   ],
   "set": "Default",
