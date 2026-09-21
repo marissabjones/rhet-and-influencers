@@ -90,6 +90,43 @@
         }
       ],
       "uuid": "2d3c54b5-e2ff-4244-8853-1218498d3ea4"
+    },
+    {
+      "start_time": 94,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Serena Neel is seen jumping in the now filled pickle pool, and here she is displaying her regular, true personality having a joyful time breaking an interesting, weird world record but also helping out a business and the environment. Neel is visibly showing her humor and her authentic self after finishing such a silly, bizarre task with nothing but goodwilled intent behind it thus posing her as a relatable and reliable influencer and someone to look up to. Joe, the man that owns the pickle company, also jumps in which can correlate to the importance and dedication of the actual purpose of this project if the owner is also quite entertained and determined by the results. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "b9989404-7474-46e9-a803-006890ac887e"
     }
   ],
   "set": "Default",
