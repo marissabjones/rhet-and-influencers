@@ -1,1 +1,28 @@
-{"annotations":[],"set":"Default","event_id":"e228e7cf-7927-467f-b8aa-f4a6a34276bf","source_id":"08d56a99-09dd-433e-9918-ea189f82da3b"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lilly Singh opens up her video by talking about mental health and how it depends on a single small tube of chapstick. Because she opens up with this, the audience is drawn into her video, curious if she is being dramatic for saying her mental helath depends on the smallest of everyday objects. She connects the rest of her video and eventually the rest of her message to this statement to this “emotional support chapstick.” She emphasizes how having the chapstick is connected to a feeling of comfort and preparedness. By connecting her message of mental health and expected pattern to something as measily as chapstick, Lilly is able to get her audience to think about their mental health and the small things that make them feel their best. She ties her message to a feeling of readiness and daily pattern."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        }
+      ],
+      "uuid": "7028e210-d55b-48dc-a382-4be208bc4bbf"
+    }
+  ],
+  "set": "Default",
+  "event_id": "e228e7cf-7927-467f-b8aa-f4a6a34276bf",
+  "source_id": "08d56a99-09dd-433e-9918-ea189f82da3b"
+}
