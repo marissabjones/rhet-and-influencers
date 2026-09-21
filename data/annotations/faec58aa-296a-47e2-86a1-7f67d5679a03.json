@@ -1,8 +1,8 @@
 {
   "annotations": [
     {
-      "start_time": 1200,
-      "end_time": 2400,
+      "start_time": 20,
+      "end_time": 40,
       "annotation": [
         {
           "type": "paragraph",
