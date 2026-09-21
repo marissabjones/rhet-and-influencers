@@ -239,6 +239,26 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Vanillamace. @vanillamace “Installing a Wig (or trying my hardest to).” TikTok, 2025 February 22, "
+        },
+        {
+          "type": "link",
+          "url": "https://archive.org/download/Vanillamace/Vanillamace%20.mp4",
+          "children": [
+            {
+              "text": "https://archive.org/download/Vanillamace/Vanillamace%20.mp4"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -284,6 +304,6 @@
   "slug": "works-cited",
   "created_at": "2026-09-05T18:48:29.090Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-21T16:06:38.264Z",
-  "updated_by": "CarolinaM06"
+  "updated_at": "2026-09-21T16:07:00.896Z",
+  "updated_by": "KaleyChhor"
 }
