@@ -149,6 +149,24 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "image",
+      "url": "https://kommodo.ai/i/cWn483Wk95IRA4bLTFbh",
+      "caption": "Thumbnail",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Science & Education",
@@ -159,6 +177,6 @@
   "slug": "science-and-education",
   "created_at": "2026-09-07T20:49:12.578Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-21T06:48:21.235Z",
+  "updated_at": "2026-09-21T18:03:12.362Z",
   "updated_by": "lddigg500"
 }
