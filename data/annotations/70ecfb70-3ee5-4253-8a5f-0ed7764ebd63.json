@@ -168,6 +168,35 @@
         }
       ],
       "uuid": "42d1ee5f-1aa4-49d4-9a09-ff723e44b771"
+    },
+    {
+      "start_time": 42,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vanillamace uses ethos in this section by allowing the audience to see moments where she is unsure of what she is doing instead of acting as if she is an expert. Her credibility with her audience becomes less from having professional knowledge, and more from installing and styling a wig more from her perceived authentic self. Making mistakes, being uncertain about how to cut the hair, and the reactions in the video help support her unfiltered persona that she has built across multiple platforms. This can make viewers feel as if they’re seeing a more genuine version of her, rather than watching a performative influencer act as if they knew exactly what they were doing. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "6a38d72a-05fe-4c0c-9615-2491c6662a91"
     }
   ],
   "set": "Default",
