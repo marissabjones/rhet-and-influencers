@@ -115,6 +115,39 @@
         }
       ],
       "uuid": "f3a5a41d-10db-4b92-a0b6-62d391fc75e6"
+    },
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the beginning of the GRWM, Alix is visibly showing herself using Reale Actives skincare, while introducing what the GRWM will be about verbally. TikTok’s audiovisual format gives Alix Earle the affordance to communicate multiple messages simultaneously. She is able to feature and expose her products to her audience without having to explicitly mention them, allowing her audience to hear a different message she is trying to put out. This affordance of TikTok’s platform helps with the circulation of her brand without oversaturating her content with only marketing focused videos. Since the GRWM style is a major part of her brand already, it becomes another way to circulate her products without interrupting the casualness and familiarity of her content."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        }
+      ],
+      "uuid": "9df1cffa-d5a4-46ec-bc83-2f591f2042d9"
     }
   ],
   "set": "Default",
