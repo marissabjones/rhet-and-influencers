@@ -1,1 +1,40 @@
-{"annotations":[],"set":"Default","event_id":"4fc0a465-64b3-41c9-b1c1-5b2c91dcfee1","source_id":"60ce4abe-88e7-42b1-afe1-6a2e22dbdff7"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chris Bumstead establishes ethos through the visual setting. His physique is clearly visible as he is standing on the Mr. Olympia stage wearing the first place medal around his neck. Before he even says a word, the audience can see the medal, stage, and interviewer. His body becomes part of the rhetoric because it represents years of discipline, consistency, and hard work. This example of visual credibility supports the personal brand he has built around self-improvement and achievement. The audience, both in person and online, sees proof of his success before hearing what he is about to say on stage."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "9018cfa8-4917-49b3-9649-a25985d04d90"
+    }
+  ],
+  "set": "Default",
+  "event_id": "4fc0a465-64b3-41c9-b1c1-5b2c91dcfee1",
+  "source_id": "60ce4abe-88e7-42b1-afe1-6a2e22dbdff7"
+}
