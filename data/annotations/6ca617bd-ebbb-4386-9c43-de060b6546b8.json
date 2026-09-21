@@ -165,6 +165,47 @@
         }
       ],
       "uuid": "0fcea829-16c2-48e2-a54b-6a0afbd3a35f"
+    },
+    {
+      "start_time": 56,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the end of the advertisement Gillis tells the bride that it was a great ceremony before turning toward the camera and saying, “I give it a week.” This final joke is very important because it fits with Shanes comedic persona and gives Gillis the last word with his usual sarcastic style.This use of humor creates pathos by trying to make the audience laugh. This entertainment is also part of the commercial’s persuasion. The purpose of this is to make viewers enjoy and remember the advertisement. Bud Light is enticing them to remember the brand with humor, fun, and being social. Bud Light, the commercial persuades them to view the brand positively and hopes the viewer chooses it when they are in similar social settings."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Sarcasm"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Persona"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Tone"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "d7dd8041-4a41-4401-9f96-fe2242009dbe"
     }
   ],
   "set": "Default",
