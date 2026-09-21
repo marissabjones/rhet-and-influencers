@@ -170,6 +170,10 @@
         {
           "category": "Means of Communication",
           "tag": "Genre"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Accessibility"
         }
       ],
       "uuid": "f3db667d-6151-4a0b-9362-27c765bf49f9"
