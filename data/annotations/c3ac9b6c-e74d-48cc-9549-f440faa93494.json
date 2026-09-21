@@ -1,1 +1,181 @@
-{"annotations":[{"start_time":0,"end_time":0,"annotation":[{"type":"paragraph","children":[{"text":"[See thumbnail] A platform affordance that Lindsay Nikole uses is the thumbnail and title system. Before viewers click on her video, there must be a draw that leads them. In this video, Nikole’s thumbnail includes her doing a “surrender cobra” as if in total disbelief, next to an image of the video’s subject, the Magnapinna Squid. “DEEP SEA MONSTER” is in big, bold letters, and an arrow pointing to the squid likens it to Cthulhu. This draws potential viewers, who may be curious about this strange creature. This also plays into the algorithm, as the video is portrayed almost like a horror or mystery video, making it more appealing to people who are not actively searching for zoology."}]}],"tags":[{"category":"Platform","tag":"Affordance"},{"category":"Platform","tag":"Algorithm"}],"uuid":"201ae754-cf75-47b7-973b-d06abfb6872a"},{"start_time":0,"end_time":34,"annotation":[{"type":"paragraph","children":[{"text":"In the first 30 seconds, a familiar flurry of memes (Terrified Mr. Incredible face and Bloop meme) serve as a humorous hook for the audience. However, after this, similar online images appear only a few times. Seeing this pattern, the first thirty seconds have the clear purpose of attracting the audience using pathos, then are sprinkled in the following twenty minutes to make way for more relevant imagery. Her diverse audience is likely to be more familiar with the memes than the Magnapinna, thus serving as a bridge between entertainment and education. Her introduction leans into edutainment, remaining amusing while introducing a scientific concept, thus not “scaring” away potential viewers that may feel intimidated by reliance on jargon."}]}],"tags":[{"category":"Rhetorical Appeals","tag":"Pathos"},{"category":"Rhetorical Situation","tag":"Audience"},{"category":"Misc.","tag":"Edutainment"},{"category":"Rhetorical Situation","tag":"Purpose"}],"uuid":"4256a2d6-a941-4e11-a9eb-80c6081a3748"},{"start_time":122,"end_time":250,"annotation":[{"type":"paragraph","children":[{"text":"Nikole advertises Zocdoc, an online tool for patients booking medical appointments. The purpose shifts from edutainment about the Magnapinna to selling a product, with the former used briefly to bridge into the advertisement. Nikole’s ethos as a scientific influencer lends credibility to Zocdoc, but her zoological expertise does not extend to medicine. This distance may help the sponsor, as an unrelated product could create a jarring tonal shift that fails to resonate with her audience. A sponsor too closely related to her field could make her content appear \"compromised\" by commercial influence. Finally, Zocdoc, a USA-only service, gives indirect evidence that the advertiser believes her audience to consist mostly of Americans."}]}],"tags":[{"category":"Rhetorical Appeals","tag":"Ethos"},{"category":"Rhetorical Situation","tag":"Purpose"},{"category":"Rhetorical Situation","tag":"Audience"}],"uuid":"f9869e97-af29-48a5-ae33-74165b97f97f"},{"start_time":346,"end_time":491,"annotation":[{"type":"paragraph","children":[{"text":"Nikole deliberately balances two personas: expert and ordinary. Her scientific material, such as the explanation of mantle length and six distinct life stages of squids, reinforces her ethos as a credible scientific influencer. In the same portion, however, she struggles to pronounce the name “Vecchione,” laughs at HMS Pickle, complains about “gonads”, or casually mentions she is close to finishing Poppy Playtime. These additions make her seem authentic, but in a meta sense, the video is a constructed artifact that has gone through research, scriptwriting, editing, and likely several reshoots. By deliberately including these moments, she reinforces the perceived image of her authentic personality, creating an almost oxymoronic trait of constructed authenticity."}]}],"tags":[{"category":"Rhetorical Appeals","tag":"Ethos"},{"category":"Misc.","tag":"Authenticity "}],"uuid":"69cf2f02-d1bf-4442-b73a-a24a6b06a8fa"},{"start_time":563,"end_time":808,"annotation":[{"type":"paragraph","children":[{"text":"Nikole utilizes a visual modality by including several videos from Magnapinna Archive, showing the audience the actual content instead of just hearing her description. The videos’ aesthetics are creepy, taking place in a dark ocean and focusing on an alien-looking creature. This contributes to an eerie aesthetic (remember first citation/thumbnail). Nikole also offers narration over the videos, saying things like, “This is unsettling, ominous, some f*cking sci-fi horror shit, objectively\" and “this is f*cking creepy. This looks like CGI. This does not look real. Oh God.” Her reaction encourages both fascination and unease, utilizing pathos to engage the audience to share in her emotional reaction."}]}],"tags":[{"category":"Rhetorical Appeals","tag":"Pathos"},{"category":"Means of Communication","tag":"Modality"},{"category":"Misc.","tag":"Aesthetic"}],"uuid":"519ad8d9-978d-40d1-841c-55965ce27c13"},{"start_time":1057,"end_time":1320,"annotation":[{"type":"paragraph","children":[{"text":"Nikole seemingly places the brunt of scientific content here, gradually tearing away at the mysterious image of the Magnapinna. She includes footage narrated by Michael Vecchione where he mentions there are roughly four species currently known. She then discusses two different sightings from distinct expeditions. The first took place in the Philippine Trench’s hadal zone, and Nikole translates the jargon by saying it is “Deep as f*ck, that is like six miles,” and how this expedition revealed the hadal zone is not squid-free, as it was previously believed. She then shows footage from a Nautilus expedition, almost abandoning the video’s eerie framing and calling it “cute” and “filled with whimsy,” like a feel-good ending to a story. She closes by summarizing what is and is not currently known about the Magnapinna, reinforcing the video’s educational purpose without abandoning the casual personality and entertainment that define its genre. "}]}],"tags":[{"category":"Rhetorical Situation","tag":"Purpose"},{"category":"Misc.","tag":"Edutainment"},{"category":"Means of Communication","tag":"Genre"}],"uuid":"f3db667d-6151-4a0b-9362-27c765bf49f9"}],"set":"Default","event_id":"d0231cfd-afdf-47b4-b119-6b02f320a96a","source_id":"0313649f-1c50-4cb8-b28b-f21b7ba09566"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[See thumbnail] A platform affordance that Lindsay Nikole uses is the thumbnail and title system. Before viewers click on her video, there must be a draw that leads them. In this video, Nikole’s thumbnail includes her doing a “surrender cobra” as if in total disbelief, next to an image of the video’s subject, the Magnapinna Squid. “DEEP SEA MONSTER” is in big, bold letters, and an arrow pointing to the squid likens it to Cthulhu. This draws potential viewers, who may be curious about this strange creature. This also plays into the algorithm, as the video is portrayed almost like a horror or mystery video, making it more appealing to people who are not actively searching for zoology."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Platform",
+          "tag": "Algorithm"
+        }
+      ],
+      "uuid": "201ae754-cf75-47b7-973b-d06abfb6872a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A familiar flurry of memes (Terrified Mr. Incredible face and Bloop meme) serve as a humorous hook for the audience. However, after this, similar online images appear only a few times. Seeing this pattern, there is a clear purpose of attracting the audience using funny and recognizable imagery in the opening. For the rest of the video, these images are used rarely, replaced by more relevant imagery. Her diverse audience is likely to be more familiar with the memes than the Magnapinna, thus serving as a bridge between entertainment and education. Her introduction leans into the edutainment genre, remaining amusing while introducing a scientific concept, thus not “scaring” away potential viewers that may feel intimidated by reliance on jargon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Edutainment"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        }
+      ],
+      "uuid": "4256a2d6-a941-4e11-a9eb-80c6081a3748"
+    },
+    {
+      "start_time": 122,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nikole advertises Zocdoc, an online tool for patients booking medical appointments. The purpose shifts from edutainment about the Magnapinna to selling a product, with the former used briefly to bridge into the advertisement. Nikole’s ethos as a scientific influencer lends credibility to Zocdoc, but her zoological expertise does not extend to medicine. This distance may help the sponsor, as an unrelated product could create a jarring tonal shift that fails to resonate with her audience. A sponsor too closely related to her field could make her content appear \"compromised\" by commercial influence. Finally, Zocdoc, a USA-only service, gives indirect evidence that the advertiser believes her audience to consist mostly of Americans."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "f9869e97-af29-48a5-ae33-74165b97f97f"
+    },
+    {
+      "start_time": 346,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nikole deliberately balances two personas: expert and ordinary. Her scientific material, such as the explanation of mantle length and six distinct life stages of squids, reinforces her ethos as a credible scientific influencer. In the same portion, however, she struggles to pronounce the name “Vecchione,” laughs at HMS Pickle, complains about “gonads”, or casually mentions she is close to finishing Poppy Playtime. These additions make her seem authentic, but in a meta sense, the video is a constructed artifact that has gone through research, scriptwriting, editing, and likely several reshoots. By deliberately including these moments, she reinforces the perceived image of her authentic personality, creating an almost oxymoronic trait of constructed authenticity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "69cf2f02-d1bf-4442-b73a-a24a6b06a8fa"
+    },
+    {
+      "start_time": 563,
+      "end_time": 808,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nikole utilizes a visual modality by including several videos from Magnapinna Archive, showing the audience the actual content instead of just hearing her description. The videos’ aesthetics are creepy, taking place in a dark ocean and focusing on an alien-looking creature. This contributes to an eerie aesthetic (remember first citation/thumbnail). Nikole also offers narration over the videos, saying things like, “This is unsettling, ominous, some f*cking sci-fi horror shit, objectively\" and “this is f*cking creepy. This looks like CGI. This does not look real. Oh God.” Her reaction encourages both fascination and unease, utilizing pathos to engage the audience to share in her emotional reaction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Modality"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Aesthetic"
+        }
+      ],
+      "uuid": "519ad8d9-978d-40d1-841c-55965ce27c13"
+    },
+    {
+      "start_time": 1057,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nikole seemingly places the brunt of scientific content here, gradually tearing away at the mysterious image of the Magnapinna. She includes footage narrated by Michael Vecchione where he mentions there are roughly four species currently known. She then discusses two different sightings from distinct expeditions. The first took place in the Philippine Trench’s hadal zone, and Nikole translates the jargon by saying it is “Deep as f*ck, that is like six miles,” and how this expedition revealed the hadal zone is not squid-free, as it was previously believed. She then shows footage from a Nautilus expedition, almost abandoning the video’s eerie framing and calling it “cute” and “filled with whimsy,” like a feel-good ending to a story. She closes by summarizing what is and is not currently known about the Magnapinna, reinforcing the video’s educational purpose without abandoning the casual personality and entertainment that define its genre. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Edutainment"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        }
+      ],
+      "uuid": "f3db667d-6151-4a0b-9362-27c765bf49f9"
+    }
+  ],
+  "set": "Default",
+  "event_id": "d0231cfd-afdf-47b4-b119-6b02f320a96a",
+  "source_id": "0313649f-1c50-4cb8-b28b-f21b7ba09566"
+}
