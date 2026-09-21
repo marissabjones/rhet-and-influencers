@@ -34,6 +34,41 @@
         }
       ],
       "uuid": "b5224ca6-b204-41e3-b46a-d5fa3c269c6a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "The beginning of the video lays the groundwork for the rest of the video. The video that Joey is commenting on plays almost in its entirety, so that the audience has context. By starting with this and not his own commentary, Joey allows the viewer to build their own opinion first. Since their opinion most likely aligns with what he is about to say, it builds his credibility. The video depicts a man in the gym doing curls. He is then approached and asked how many sets he has left. This method of giving the viewer context only works due to one of TikTok’s affordances, the stitch feature. He is able to directly attach his commentary to the video."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Medium"
+        }
+      ],
+      "uuid": "edd628ec-a81f-4020-80cc-cf5626198696"
     }
   ],
   "set": "Default",
