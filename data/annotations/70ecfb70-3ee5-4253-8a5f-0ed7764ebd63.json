@@ -135,6 +135,35 @@
         }
       ],
       "uuid": "59714b32-a865-4b72-9cdf-227a97bf1410"
+    },
+    {
+      "start_time": 3,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "TikTok provides Vanillamace with the affordance of recycling her content for her long Twitch streams, into shorter and more engaging clips for her TikTok audience. Rather than uploading the livestream exactly as it happened, she can edit clips from the Twitch stream together, and incorporate her own cuts, zoom ins, and tag overlaps, which emphasizes her exaggerated facial expressions and funny pauses/reactions. The overlapping edits are also a genre strategy on TikTok where fast paced and layered editing helps to grab and maintain the viewers’ attention.  TikTok also lets her upload content edited outside of the platform, which gives her more freedom over how she wants to present her content. These affordances allow her to expand her audience beyond just Twitch, and still maintain her humour and unfiltered personality that is built around her brand. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Medium"
+        }
+      ],
+      "uuid": "96e74859-2d4f-479d-94d8-3f0fecabdd5d"
     }
   ],
   "set": "Default",
