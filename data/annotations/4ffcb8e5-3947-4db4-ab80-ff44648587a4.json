@@ -152,6 +152,39 @@
         }
       ],
       "uuid": "e9734b73-a90c-44f8-85c0-566ee671de80"
+    },
+    {
+      "start_time": 231,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After the interview, Chris Bumstead takes some time to flex and pose on stage. Without the use of words, his body is able to portray a lifestyle of discipline, consistency, and sacrifice. This moment uses visual rhetoric because the audience can immediately understand why Bumstead has credibility in the bodybuilding community. This moment also marks a noticeable shift from the vulnerability he showed during the interview back to his role as a competitive bodybuilder. Only seconds earlier, Bumstead was becoming emotional while discussing personal struggles and remembering George Peterson, but now he returns to the controlled and confident performance expected of a world-class Mr. Olympia champion. This shift does not discredit the vulnerability he just showed, but it actually demonstrates that both vulnerability and physical dominance can exist within the identity he presents to his audience. His physique is also a significant part of his personal brand, as it was the reason why many followers were originally attracted to his content. Ending with posing reminds viewers of his bodybuilding identity while the emotional interview adds another layer to how they understand him as a person."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        }
+      ],
+      "uuid": "a6a232fc-110d-4122-a7a1-14e0b71bfc69"
     }
   ],
   "set": "Default",
