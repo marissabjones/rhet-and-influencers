@@ -90,6 +90,31 @@
         }
       ],
       "uuid": "23468c42-a19c-4dd5-8cd1-ff89236efe80"
+    },
+    {
+      "start_time": 155,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video’s message of Alix’s Tiktok is an invitation for viewers to experience her life alongside her. At the end of Alix’s TikTok, she talks about the expansion of Sip Margs nationwide and reinforces that her businesses, Reale Actives and Sig Margs, are integrated within the overall message for her content. The purpose is to inform her viewers while creating exposure for her brands.. By mentioning Sip Margs’ expansion at the end of her video, viewers have already listened to multiple personal stories which makes the Sip Margs acknowledgement feel more like a casual update than a direct ad. Audiences are more receptive to the promotion through the integration of the personal stories, showing how her followers’ interest in her life creates attention for her business. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "f3a5a41d-10db-4b92-a0b6-62d391fc75e6"
     }
   ],
   "set": "Default",
