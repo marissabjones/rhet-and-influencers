@@ -182,6 +182,27 @@
         }
       ],
       "uuid": "55c0dd62-2d20-49ca-9a6d-7ac7784e45e3"
+    },
+    {
+      "start_time": 82,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unlike many influencers and content creators, Nara Smith only consistently produces her content on TikTok and Instagram. However, this does not prevent videos from being heavily talked about on alternate platforms, such as X. This video was clipped and platformed on X where an additional audience was exposed to her. Though the cross-platform interactions are not immediately beneficial to Nara, they end up paying off in the long run. Each introduction of a new audience member, whether from X or another platform such as Reddit, increases her brand value and pushes her videos further. This opens opportunities for future collaborations, and greater compensation from the platforms she chooses to post on.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        }
+      ],
+      "uuid": "ed89d94b-24f5-4b54-ac8c-53943d56ced4"
     }
   ],
   "set": "Default",
