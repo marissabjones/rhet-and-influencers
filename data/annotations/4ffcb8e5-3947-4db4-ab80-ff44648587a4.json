@@ -222,6 +222,39 @@
         }
       ],
       "uuid": "df2984d7-1fa2-47af-b8bb-add3e9c16650"
+    },
+    {
+      "start_time": 0,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chris Bumstead originally gave his speech to the audience at the Mr. Olympia competition, but posting the video on Instagram allowed the moment to reach a much larger audience. His followers who were not at the competition could still see the stage, his physique, his medal, and the reactions from the crowd. The visual affordance of video is important because viewers don’t have to attend the event or rely only on hearing Bumstead describe what happened. They are able to see it for themselves as Instagram allows the victory speech to circulate long after the competition is over. By turning the moment into a social media post, Bumstead is able to extend his influence beyond the people physically present and connect the message in his speech with his online followers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Visual Affordance"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        }
+      ],
+      "uuid": "fd6827db-0888-4267-b690-3b9cf0cbfa82"
     }
   ],
   "set": "Default",
