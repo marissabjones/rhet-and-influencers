@@ -90,6 +90,27 @@
         }
       ],
       "uuid": "6cb20460-5123-43d3-9665-689ac842098f"
+    },
+    {
+      "start_time": 40,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This section of the trailer shows how the content is designed for an audience that already knows Alix from social media while also trying to attract viewers who may not be familiar with her. By showing quick moments from her personal life and relationships, the trailer gives longtime followers a deeper look into the person they already know from TikTok and Instagram. At the same time, the dramatic editing and emotional moments make the show understandable and interesting even to someone who does not already follow Alix. This allows the trailer to appeal to both an existing and a potential audience. For her followers, the appeal comes from getting more access to her private life, while new viewers may be drawn in by the relationships and drama. The trailer therefore expands Alix's audience beyond the followers of her normal social media content and introduces her personality and lifestyle to people encountering her for the first time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "fbf0f091-ec11-4349-a6d3-4007301c796f"
     }
   ],
   "set": "Default",
