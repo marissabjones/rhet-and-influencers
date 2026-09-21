@@ -173,6 +173,35 @@
         }
       ],
       "uuid": "15b6f87c-64f9-4c24-b34b-c4ed37b99720"
+    },
+    {
+      "start_time": 20,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lilly Singh’s video displays a high level of authenticity because of the casual environemnt in which she shoots the video in. Rather than staging it as a professional video and giving formal advice about mental health, she uses a personal story to spread her message about the importance of preparedness and comfort. She uses the simple object of a chapstick to represent her story making her message seem authentic. The high level of authenticity in the video allows the viewers to connect with Singh and moreover be receptive to her message of mental health. Her natural expressions and casual delivery of the video, makes the video feel authentic rather than rehearsed. Singh being able to share a small part of her daily routine and shape that experience into a serious message leaves the audience feeling engaged and connected to. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "3ca4bad4-a565-42e8-95d4-9612b1aa925b"
     }
   ],
   "set": "Default",
