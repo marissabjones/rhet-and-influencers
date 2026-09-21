@@ -1,1 +1,32 @@
-{"annotations":[],"set":"Default","event_id":"f0028403-07fc-4efa-a2bb-38d27f308f56","source_id":"dfc54735-acc0-482b-9da8-e43d49fcf700"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The exigence for Alix’s GRWM Tiktok video is for her upcoming night out for a Sip Margs event while showcasing her Reale Actives skincare. Rather than having fully planned-out content, she uses what is currently happening in her life as the main topic while simultaneously promoting her products. The GRWM genre is Alix’s main form of communication that combines personal storytelling with promotion of her products, allowing no disruption to the familiarity and relatability of her video. Her audience would most likely perceive the Tiktok as a casual life update, but her videos create exposure verbally and visually for both of her brands. Alix makes marketing feel more natural as she embeds promotion within a GRWM video rather than make it a separate planned out advertisement altogether. This integration makes it harder for viewers to distinguish between her personal and promotional content, allowing both to feel authentic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Exigence"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        }
+      ],
+      "uuid": "63f29e8d-e902-492a-b15e-e0dfc69590b4"
+    }
+  ],
+  "set": "Default",
+  "event_id": "f0028403-07fc-4efa-a2bb-38d27f308f56",
+  "source_id": "dfc54735-acc0-482b-9da8-e43d49fcf700"
+}
