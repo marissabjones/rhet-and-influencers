@@ -1,1 +1,40 @@
-{"annotations":[],"set":"Default","event_id":"1c95a711-0dc1-42e4-936a-74b1295206a1","source_id":"03d506f8-413d-4bd3-b2ec-f58d9145ca57"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Serena Neel starts off her video directly stating that she “bought 50,000 damaged pickles and [she] is going to put them all in a pool and go swimming” with a tone that is enthusiastic and determined. With this type of communication, she aims to keep her viewers fixated on the how and why of her bizarre idea of content. In the background of this time frame, she pans to the boxes of the 50,000 pickles behind her to visually show the extent of the task at hand, therefore, also contributing to the hook of the video. She then explains the exact process of how they are cleaning and putting the pickles inside the pool by maintaining the same enthusiastic tone to communicate to the audience. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "f2aed26c-5a86-4ec7-a78c-95c2e16eaf32"
+    }
+  ],
+  "set": "Default",
+  "event_id": "1c95a711-0dc1-42e4-936a-74b1295206a1",
+  "source_id": "03d506f8-413d-4bd3-b2ec-f58d9145ca57"
+}
