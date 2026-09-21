@@ -107,6 +107,35 @@
         }
       ],
       "uuid": "de7be6a2-f6c5-4f6f-91a8-2c97a7c390b2"
+    },
+    {
+      "start_time": 50,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The genre of this reel is a personal social media story. Singh uses her brand as a humorous influencer to bring up the serious topic of mental health and the conversation of mental health related to her personal story. She uses storytelling, humor, and exaggerated facial expressions to communicate her message to the audience and her experience. She delivers the content casually, helping emphasize the casual influencer persona that viewers expect on a social media platform like Instagram. Her viewers do not expect to see formal content about mental health, although she is able to deliver it through her humorous personality. Singh leverages the genre as a humorous influencer to discuss more serious topics while keeping the content casual and relatable. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        }
+      ],
+      "uuid": "d9b2991f-8683-41cf-b4ae-bc3957e42f1f"
     }
   ],
   "set": "Default",
