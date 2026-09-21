@@ -62,6 +62,31 @@
         }
       ],
       "uuid": "ac098335-c1cc-40e2-9821-662844650f50"
+    },
+    {
+      "start_time": 485,
+      "end_time": 523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rober meets the Giants pitching analyst Brian Bannister, whos spin technique expertise is credited as vital to the team’s championship success, then goes on to run a controlled test with the Stanford baseball team comparing a normal ball to a seamless one. This layers two appeals. Ethos comes from associating with a professional World Series level organization and a known named expert, and Rober borrows their authority to validate his hypothesis. Logos comes from the controlled experiment itself which isolates one variable to produce a quantifiable difference in curve. Together these appeals show what could seem like just playing in a backyard is actual science.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Logos"
+        }
+      ],
+      "uuid": "03fd1652-d41d-479f-85af-59c114f93a3e"
     }
   ],
   "set": "Default",
