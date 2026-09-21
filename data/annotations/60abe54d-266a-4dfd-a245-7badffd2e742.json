@@ -41,6 +41,27 @@
         }
       ],
       "uuid": "602a09f0-a4f5-4132-a5b1-d211d56d3e41"
+    },
+    {
+      "start_time": 429,
+      "end_time": 454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After the first game loss, Rober states his plan directly: “science the cred out of this”, flying Jimmy and Kyle to CrunchLabs for data collection, and then going to the San Francisco Giants’ pitcher development program. This line is the clearest statement of purpose in the video, because it explains physics abstractly and also weaponizes the explanation into a competitive advantage. The purpose is doubled into teaching viewers into what makes a ball curve (pedagogical) and justifying Rober’s engineering tricks as learned instead of gimmicky (strategic). Naming the purpose immediately signals what payoff the audience should expect from the upcoming science.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "ac098335-c1cc-40e2-9821-662844650f50"
     }
   ],
   "set": "Default",
