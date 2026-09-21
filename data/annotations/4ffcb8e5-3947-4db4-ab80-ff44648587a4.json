@@ -123,6 +123,35 @@
         }
       ],
       "uuid": "c12eb43b-7566-4316-9b7a-bcccb46cac97"
+    },
+    {
+      "start_time": 172,
+      "end_time": 212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chris Bumstead became emotional when he remembered one of his bodybuilding rivals, George Peterson. This moment creates strong pathos because the celebration of CBum’s third Mr. Olympia title suddenly becomes a moment of grief and remembrance. By using his time on stage to recognize a previous opponent, Chris Bumstead strengthens his ethos and shows respect for the bodybuilding community. The audience’s reaction shown in the video makes the tribute feel even more powerful. This moment supports his personal brand by showing that the qualities of humility and loyalty to others are just as important to him as the Mr. Olympia medal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Humility"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "e9734b73-a90c-44f8-85c0-566ee671de80"
     }
   ],
   "set": "Default",
