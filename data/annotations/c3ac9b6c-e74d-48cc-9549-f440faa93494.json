@@ -206,6 +206,35 @@
         }
       ],
       "uuid": "a083dd0f-127d-44a2-a3d2-c91869ffa9ae"
+    },
+    {
+      "start_time": 1038,
+      "end_time": 1071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nikole shows footage from a 2021 National Oceanic and Atmospheric Administration (NOAA) expedition. Despite not creating the footage herself, she recirculates this scientific media to a new audience within a new rhetorical context. Viewers experience the footage alongside Nikole's reactions and commentary, subtly influencing how they interpret the content. Nikole acts as a mediator between the original scientific content and her audience, utilizing the audiovisual medium to frame the footage through her personality. This recirculation transforms specialized scientific material into accessible and entertaining content for an audience that may not seek out the original footage. YouTube's affordances allow Nikole to incorporate outside material, like the NOAA footage and Magnapinna Archive, directly into her video. Rather than requiring viewers to locate these materials themselves, she makes her scientific content more accessible while also encouraging viewers to keep watching instead of clicking away."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Medium"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        }
+      ],
+      "uuid": "1d573f2e-c8f4-41dc-a607-df868376801d"
     }
   ],
   "set": "Default",
