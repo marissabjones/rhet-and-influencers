@@ -168,6 +168,35 @@
         }
       ],
       "uuid": "6473472c-ed28-44c7-aa00-50c2ab008a4b"
+    },
+    {
+      "start_time": 16,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She is starting to put the pickles in the pool at this point and she edits this segment in a way where only the visuals of her pouring them in and the sound of them splashing into the pool are included. This use of audio and visual cues can attract the viewer and keep them more engaged. ASMR in social media has become quite an influential genre of content for influencers to utilize. By editing out the fluff that would have come between pouring each of the wheelbarrows of pickles into the pool, it filters out any potential distractions or tendencies for viewers to scroll by also providing satisfying audial and visual signals to keep the engagement. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Modality"
+        }
+      ],
+      "uuid": "2e811f16-b7bc-451a-825b-82159328ec5a"
     }
   ],
   "set": "Default",
