@@ -1,1 +1,40 @@
-{"annotations":[],"set":"Default","event_id":"30a5decf-a6e2-4c3e-83ef-7c746d81074c","source_id":"86aca493-0c06-4e2c-b3bb-2e8c03f94172"}
+{
+  "annotations": [
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video follows the pattern of her classic cooking video's, but the absurdity shines through in all aspects. Within the first ten seconds, Nara zooms in on herself instead of the recipe she is preparing. Her outfit looks to be off a runway rather than something a mom of four young children would wear. This allows Nara to send two decisive messages right as the video begins. First, there is a level of absurdity to the idealistic life she is portraying. Second, claims that she is a tradwife or lacking true self-expression cannot be taken seriously while she wears a Selezza London dress worth $1,164.   "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Absurdity"
+        }
+      ],
+      "uuid": "bc8e0d06-6a90-44de-aaa1-42c5da01502a"
+    }
+  ],
+  "set": "Default",
+  "event_id": "30a5decf-a6e2-4c3e-83ef-7c746d81074c",
+  "source_id": "86aca493-0c06-4e2c-b3bb-2e8c03f94172"
+}
