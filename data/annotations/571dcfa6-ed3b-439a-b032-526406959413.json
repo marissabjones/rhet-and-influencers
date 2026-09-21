@@ -206,6 +206,35 @@
         }
       ],
       "uuid": "f32897e7-1f7f-4969-8b8a-d2acb10d39c7"
+    },
+    {
+      "start_time": 56,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Melissa includes some of the companies of products she has clipped tagged in the caption of her TikTok. Most of these tags are hidden unless you click the “more” button next to the caption. In an earlier video clip, you can see her unboxed PR packages, some including these products. By giving these products screentime, Melissa is advertising PR that has been sent to her without directly stating this. I would argue that although this type of covert advertisement may cause newer viewers to question her authenticity, an audience that has followed her for a long time would choose to overlook this. As a creator, Melissa has explicitly stated multiple times that she uses the money she makes from TikTok to pay for her medical school tuition. An audience of students who are considering or already going into a vast amount of debt to pay for a medical education would be more understanding towards brand partnerships, with a “get that bag” mentality rather than feeling upset by this. However, the perceived purpose of the video may shift from educational or entertainment more towards product promotion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "e8a21bb2-7c4d-415a-a42d-45506550ccfb"
     }
   ],
   "set": "Default",
