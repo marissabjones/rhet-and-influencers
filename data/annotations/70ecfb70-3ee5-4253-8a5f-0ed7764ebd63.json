@@ -32,6 +32,39 @@
         }
       ],
       "uuid": "12c708b0-31ce-4f43-9a52-b13f951be881"
+    },
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The visual modality of the video creates a more casual/personal aesthetic through Vanillamace’s restroom background. Instead of making a professional studio backdrop or filming in a studio, she installs her wig in an everyday space where one would normally get ready. This unpolished aesthetic makes the video feel like viewers are hanging out with her, rather than watching an influencer video with production behind it. The combination of the livestream and her direct interaction with the chat helps to reinforce her “internet bestie” persona across platforms. The familiar aesthetic also appeals through pathos, creating feelings of comfort, which strengthens her perceived authenticity and reliability with her viewers. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Modality"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Aesthetic"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Medium"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "5963ccd4-52b3-4ed5-b418-a4ac81203ce9"
     }
   ],
   "set": "Default",
