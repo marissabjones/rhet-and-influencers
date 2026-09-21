@@ -45,6 +45,31 @@
         }
       ],
       "uuid": "94a66d21-5fdc-4a2a-87bb-ce4c039e5c5d"
+    },
+    {
+      "start_time": 65,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The vertical orientation of reels frames Lilly as the main visual focus helping emphasize her as the character and amplifying her message. The text captions seen in the video as she speaks allow her to reach a broader audience so that Singh can still deliver her message even when the audience is not able to listen. The purpose of reels is to be short and to catch a user’s attention while they scroll. Singh talks at a fast pace so that she can deliver her message befor the user swipes past the reel. She catches the user’s attention through her first comment about chapsticks effectively capturing the user's attention.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "f4de9a6c-a004-4032-adc2-d50249f33cd5"
     }
   ],
   "set": "Default",
