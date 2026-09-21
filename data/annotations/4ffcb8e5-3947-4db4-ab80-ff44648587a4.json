@@ -32,6 +32,31 @@
         }
       ],
       "uuid": "9018cfa8-4917-49b3-9649-a25985d04d90"
+    },
+    {
+      "start_time": 34,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chris Bumstead’s calm and reflective tone strengthens his authenticity and reinforces his personal brand. Instead of celebrating or being arrogant after winning, he speaks in a thoughtful and controlled way. This calm behavior contrasts from his extreme physical appearance, making him seem more approachable to his audience. The way he delivers his message supports his online image as someone who is disciplined, confident, and successful without constantly having to go out of their way to prove it. The way he speaks is important because it shapes how the audience interprets his character. His tone makes the moment feel personal rather than like a typical victory speech."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        },
+        {
+          "category": "Misc.",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "3b95cb7d-86a2-4894-b109-38fb4b6680ae"
     }
   ],
   "set": "Default",
