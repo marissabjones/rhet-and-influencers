@@ -167,7 +167,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Mirroring"
+        }
+      ],
       "uuid": "a39d9a64-54fd-450c-8398-102543073aeb"
     }
   ],
