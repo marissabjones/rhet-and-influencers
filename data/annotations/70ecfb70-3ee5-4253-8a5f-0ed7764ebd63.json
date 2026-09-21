@@ -98,6 +98,43 @@
         }
       ],
       "uuid": "72e6a9f1-a9b2-460f-8932-9acbdb2fd6d3"
+    },
+    {
+      "start_time": 9,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Around the same time frame here, there is a layering of the audience and cancel culture as mentioned previously. Vanillamace’s intended audience seems to be people who are already familiar with her humour, personality, and the community she has built in her live streams. When she jokes about wearing the durag in her own home and someone in the Twitch says “CANCELLED”, it also makes it known that her regular viewers understand the context and participate in the joke, rather than taking the situation literally. However, once this clip is posted onto TikTok, her actual audience is now more broad, and can include people who have never seen her content before. Her intended vs actual audiences can allow for the same joke to be misinterpreted, depending on the viewer’s familiarity with Vanillamace’s personality and her online persona. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        }
+      ],
+      "uuid": "59714b32-a865-4b72-9cdf-227a97bf1410"
     }
   ],
   "set": "Default",
