@@ -202,6 +202,35 @@
         }
       ],
       "uuid": "3ca4bad4-a565-42e8-95d4-9612b1aa925b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Singh uses Instagram as a way to circulate her content and reach people beyond her fans from her early days and existing followers. Reels helps recommend accounts to users who do not already follow it which allows Singh to reach a newer audience. Her content, which emphasizes humor, personal experiences, and lifestyle, helps Singh reach a broader audience with ranging interests. Reels allows Singh to reach a new audience while maintaining a connection with longtime followers from her Youtube career. Instagram allows Singh to circulate her established persona to both an audience familiar with her Superwoman era and new viewers discovering her content through reels. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Circulation"
+        }
+      ],
+      "uuid": "2a3c1828-fdf0-4083-aa6d-f2179498881a"
     }
   ],
   "set": "Default",
