@@ -175,6 +175,10 @@
         {
           "category": "Rhetorical Situation",
           "tag": "Purpose"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Sarcasm"
         }
       ],
       "uuid": "bfc0c006-ac9c-4a5c-8097-95b69e663207"
