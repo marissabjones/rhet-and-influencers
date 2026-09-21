@@ -87,6 +87,27 @@
         }
       ],
       "uuid": "03fd1652-d41d-479f-85af-59c114f93a3e"
+    },
+    {
+      "start_time": 761,
+      "end_time": 816,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While still in the narrative, right after the training montage, Rober goes away from the wiffle ball story to pitch Camp CrunchLabs directly, then immediately snaps back into the rematch setup. This is very much a Youtube type move: unlike a TV ad break with a cut directly to a commercial, the sponsor part of the video is put right into the shot, with a spoken URL replacing the traditional broadcast. The medium’s affordances (owned channel, embedded links, no ad break) let Rober fold commerce into a narrative flow without interrupting, keeping the viewer attention continuous while still being able to get money to fund the video.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Medium"
+        }
+      ],
+      "uuid": "3c43fece-b3f3-48d9-bf98-b5b617b87166"
     }
   ],
   "set": "Default",
