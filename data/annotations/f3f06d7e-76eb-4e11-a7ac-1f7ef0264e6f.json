@@ -66,6 +66,10 @@
         {
           "category": "Means of Communication",
           "tag": "Medium"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
         }
       ],
       "uuid": "edd628ec-a81f-4020-80cc-cf5626198696"
