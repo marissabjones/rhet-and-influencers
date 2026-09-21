@@ -69,6 +69,41 @@
         }
       ],
       "uuid": "edd628ec-a81f-4020-80cc-cf5626198696"
+    },
+    {
+      "start_time": 35,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "When Joey appears in the video, he is in his car. He is not in the gym or a branded set. This gives the video a feeling of immediately needing to be recorded. He did not wait to get home, instead he recorded the video right where he was. This better frames his commentary as authentic rather than being actually produced. The viewer is better able to see Joey as a relatable person rather than a big-time creator. After gaining this trust, viewers give more weight to the rest of the video since audiences tend to trust real people rather than manufactured content creators."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "bc2fa166-ad4d-437e-a0c4-c5330e798efb"
     }
   ],
   "set": "Default",
