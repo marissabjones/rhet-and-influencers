@@ -69,6 +69,27 @@
         }
       ],
       "uuid": "89af5d0b-f7e0-40b6-a42c-aef4711d520e"
+    },
+    {
+      "start_time": 70,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Due to Tiktok’s ability for users to quickly swipe through videos, it creates a constraint on Alix as she has to constantly maintain her audiences’ attention in the short video. In a span of 30 seconds, Alix does her makeup and switches between multiple different short summary stories of what recently has occurred in her life. The constant changing of topics reduces the chance audiences lose interest and will scroll away from the video. The platform constraint heavily influences the type of communication between Alix and her followers as the stories alone might not create enough engagement. The multitasking of a GRWM format makes her storytelling more visually stimulating for her viewers to watch the full video."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Constraint"
+        }
+      ],
+      "uuid": "23468c42-a19c-4dd5-8cd1-ff89236efe80"
     }
   ],
   "set": "Default",
