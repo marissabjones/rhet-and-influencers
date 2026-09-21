@@ -92,7 +92,55 @@
           ]
         },
         {
-          "text": "\n"
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://www.tiktok.com/t/ZTUGCMMSt/",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Earle, Alix. @alixearle. “Sip margs here we come .. Monday I’m going to bed don’t worry.” Tiktok, 11 July 2026, "
+        },
+        {
+          "type": "link",
+          "url": "https://www.tiktok.com/@alixearle/video/7661423626817654047",
+          "children": [
+            {
+              "text": "https://www.tiktok.com/@alixearle/video/7661423626817654047"
+            }
+          ]
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -177,6 +225,6 @@
   "slug": "works-cited",
   "created_at": "2026-09-05T18:48:29.090Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-20T18:57:08.799Z",
-  "updated_by": "chloewesterman"
+  "updated_at": "2026-09-21T00:06:42.529Z",
+  "updated_by": "camiehuynh"
 }
