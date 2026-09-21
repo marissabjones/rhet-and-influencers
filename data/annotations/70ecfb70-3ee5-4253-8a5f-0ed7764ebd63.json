@@ -197,6 +197,35 @@
         }
       ],
       "uuid": "6a38d72a-05fe-4c0c-9615-2491c6662a91"
+    },
+    {
+      "start_time": 40,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, Vanillamace’s facial expressions and body language function as visual messages of the video, which can communicate more than what she is actually physically saying. When something does not go as expected during her wig installation, she pauses or gives an exaggerated facial expression before she continues her process. Then, when viewers see her reactions, it does not require her to vocalize that she is confused or surprised over what is happening, but her physical delivery helps communicate that she is. This also appeals through pathos as the audience is experiencing her reactions with her, rather than hearing her describe how she is feeling after. Her expressions become a rhetorical device on their own, helping her communicate her emotions of each moment without relying on words coming out of her mouth. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Modality"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Delivery"
+        }
+      ],
+      "uuid": "3e177ae6-5290-45d4-878a-f4ba70cc1ed2"
     }
   ],
   "set": "Default",
