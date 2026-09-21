@@ -240,6 +240,41 @@
         }
       ],
       "uuid": "7bf1fbad-77e2-44b9-b1de-e67191893acf"
+    },
+    {
+      "start_time": 88,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "Joey ends the video by saying until then mind your business and do better. He ends with one final dig at the creator and urges him to improve going forward. After critiquing this creator the entire video and painting him in a bad light, Joey does one final jab at them that is purely emotion based. He abandons the logical reasoning he had been using in the video thus far. This pathos driven attack mimics the creator’s own rhetoric. His short closing line is extremely direct and condenses the point of his video down into a single moment. This makes it more effective for engagement without necessarily adding any new material."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "bfda3d19-dadc-47e8-a8f2-11591604b647"
     }
   ],
   "set": "Default",
