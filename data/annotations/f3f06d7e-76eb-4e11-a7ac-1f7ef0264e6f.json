@@ -174,6 +174,37 @@
         }
       ],
       "uuid": "bfc0c006-ac9c-4a5c-8097-95b69e663207"
+    },
+    {
+      "start_time": 43,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "bulleted-list",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "In this part of the video Joey Swoll continues to talk sarcastically while explaining the concept of the “gym.” He explains that the gym is a shared space; therefore, the creator’s behavior is unwarranted and rude. He appeals to the common sense of the viewer to recognize proper gym etiquette. By framing his commentary as a necessary correction rather than just a general critique, Joey formalizes gym etiquette and identifies this breach. This sarcastic delivery keeps his video in line with how he starts the section with his mocking tone. This combination allows him to keep logic at the forefront while also underlining it with a mocking sarcastic tone."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Logos"
+        }
+      ],
+      "uuid": "9adbe880-ee45-4d64-b06a-a2e7d45a1fda"
     }
   ],
   "set": "Default",
