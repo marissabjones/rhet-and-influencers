@@ -79,6 +79,10 @@
         {
           "category": "Rhetorical Situation",
           "tag": "Message"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Tone"
         }
       ],
       "uuid": "e16e0a34-fdd0-4272-8652-9cc8576bfd55"
