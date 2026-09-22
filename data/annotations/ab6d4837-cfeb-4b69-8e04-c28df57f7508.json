@@ -82,6 +82,35 @@
         }
       ],
       "uuid": "e16e0a34-fdd0-4272-8652-9cc8576bfd55"
+    },
+    {
+      "start_time": 19,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Bloom says, “I don’t know if these eggs are really hard to peel, or if I’m just really bad at it. I think it’s the latter,” she uses self-deprecating humor to make herself more relatable with her audience. Bloom’s audience consists of women who are interested in fashion, luxury and lifestyle content, including viewers who may not be able to financially relate to her experiences. Despite preparing an extravagant and expensive breakfast for her cat, she admits to struggling with the simple task of peeling an egg. This moment creates pathos by giving viewers a familiar and humorous situation they can more easily relate to, regardless of their financial circumstances. By showing a small flaw that breaks her perfectly polished image, Bloom strengthens her ethos as an approachable and genuine influencer, bridging the distance between the unrelatable aspects of her luxurious lifestyle that viewers may find difficult to grasp."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "97df1210-134a-476b-aa12-1222e4270d8c"
     }
   ],
   "set": "Default",
