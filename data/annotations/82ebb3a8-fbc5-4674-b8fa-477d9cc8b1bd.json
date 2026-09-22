@@ -140,6 +140,43 @@
         }
       ],
       "uuid": "9e8b861d-3344-4314-82b9-ea93d9c71c10"
+    },
+    {
+      "start_time": 0,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nara establishes a genre through the production and stylistic choices that she makes throughout the course of the video. Her narration of a sequential step-by-step process, her visual demonstration, and the overall surface-level point of her video (a dish made from scratch) all point to the genre being food content. She walks viewers through the steps of preparation, cooking, and assembly with clips and narrations that follow her cooking process, methods, and directions. This video, while serving a message much deeper than a from-scratch recipe, still does its job as a cooking tutorial, earning its genre and fitting into the parameters of food content."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "1b2be983-6f2d-42a4-a0a5-9c6af2e862a2"
     }
   ],
   "set": "Default",
