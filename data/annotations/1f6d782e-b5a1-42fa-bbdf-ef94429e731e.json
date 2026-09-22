@@ -201,6 +201,39 @@
         }
       ],
       "uuid": "6c9e1c4f-38cc-4f9b-9fd8-589be333a935"
+    },
+    {
+      "start_time": 32,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Moments before narrating the meal, Johnson corrects himself mid-sentence over the testicle skewers: \"We got the testicle with breakfast, lunch, and dinner. Because liver is king, but that's actually testicle.\" The joke works because the mistake is baked into the brand itself: even when the food on the table isn't literally liver, the name \"Liver King\" still gets attached to it, and the self-correction reads as effortless rather than embarrassing to his audience. The purpose of a moment like this is less about the joke itself and more about reinforcing brand consistency, since nearly everything else in the video is already built around the same \"King\" persona in this context, and a factual slip becomes another chance to perform confidence rather than a threat to his credibility. This moment shows how thoroughly the persona has absorbed the actual content of the meal, since the brand name functions less as a description of what he eats than as a stamp that gets applied to whatever he eats, turning what could have been a mistake into another beat of practiced, confident humor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "dbe49fad-72c0-42a2-8904-128cb1477c68"
     }
   ],
   "set": "Default",
