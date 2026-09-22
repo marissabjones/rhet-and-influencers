@@ -99,6 +99,47 @@
         }
       ],
       "uuid": "425f9276-09bd-47d3-9d75-4db82814605e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nara’s use of certain hashtags in the caption of her video brings her intentions to light and simultaneously brings the video better exposure and circulation. With the use of hashtags being an affordance on TikTok’s platform, influencers will tag their content with phrases that attract their desired audience. Nara’s decision to put “#easyrecipe” as a tag will bring attention from viewers looking for easy recipes. However, being met with an elaborate recipe such as Nara’s, viewers will look at the video in a negative light because it truly is the opposite of easy. This is another way Nara strikes up engagement, because annoyed users will question her understanding of what an easy recipe really is."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Ragebait"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "9e8b861d-3344-4314-82b9-ea93d9c71c10"
     }
   ],
   "set": "Default",
