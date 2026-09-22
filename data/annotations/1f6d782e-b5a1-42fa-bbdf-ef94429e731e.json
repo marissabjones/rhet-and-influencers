@@ -1,1 +1,40 @@
-{"annotations":[],"set":"Default","event_id":"9229f0e3-7ba4-4b3f-bdde-df6cb1b673bd","source_id":"4b8b1c1b-94d3-4543-b43b-3a09849d38da"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video opens with no dialogue at all, just Johnson chewing and reacting with a small, satisfied \"Oh, hmm\" directly into the camera before any context is given for what he is eating or why. This wordless opening functions as a scroll-stopping affordance rather than an introduction, since TikTok rewards content that hooks a viewer within the first second, and the video's purpose here is not to inform its audience but simply to keep them from scrolling past. An ambiguous, sensory reaction shot accomplishes that more effectively than an explanation would, since it invites the audience to keep watching just to find out what produced the reaction, which matters more to circulation on the algorithm than any actual information conveyed in this half-second."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Aesthetic"
+        }
+      ],
+      "uuid": "ec3a5763-675a-4d9b-b99f-1e3c3627533d"
+    }
+  ],
+  "set": "Default",
+  "event_id": "9229f0e3-7ba4-4b3f-bdde-df6cb1b673bd",
+  "source_id": "4b8b1c1b-94d3-4543-b43b-3a09849d38da"
+}
