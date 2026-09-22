@@ -24,6 +24,31 @@
         }
       ],
       "uuid": "ccde9943-1843-4e45-9d5a-f691aafd39da"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In an attempt to engage a typical viewer of Instagram content, Dr. Mike’s clip takes advantage of an Ab Abrupto rhetorical structure to place the viewer in the middle of an illustrative anecdote. There is no introductory setup or preliminary question to set up the story; instead, while scrolling through the endless chasm of Instagram content, the rhetorical choice to place the viewer immediately into a dependent clause of a dramatic exemplum is a deliberate appeal to the core Aristotelian concept of persuasion: pathos. More specifically, the rhetorical choice to start with “Cause if someone fainted here today, we’re all calling 911” appeals to human curiosity, intrigue, and drama, as well as an innate response to danger, because of how “911” carries an important, intense connotation. The reel itself clearly stems from a longer video, but the dramatic example describing a crisis and the ethical obligations of healthcare professionals is an immediate hook that immerses the viewer in the content and aims to keep them engaged; with this bit as a clip-farmed moment from his longer videos, tailored to perform well in short-form."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Clip Farming"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "4496ee36-bf7f-4fbd-86a2-b9639c54fdba"
     }
   ],
   "set": "Default",
