@@ -121,7 +121,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Exigence"
+        }
+      ],
       "uuid": "c5fb7806-325a-4155-8874-e7870662ba22"
     }
   ],
