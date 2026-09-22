@@ -165,6 +165,35 @@
         }
       ],
       "uuid": "1203642f-891d-4f6d-a041-c0f0b1737f15"
+    },
+    {
+      "start_time": 23,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        },
+        {
+          "category": "Misc.",
+          "tag": "Vulnerability"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "c573ce21-69bc-4ef7-9042-42d918928d88"
     }
   ],
   "set": "Default",
