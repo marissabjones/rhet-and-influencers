@@ -173,6 +173,31 @@
         }
       ],
       "uuid": "4a662960-7108-4ac0-a7cd-d2dd2a70a3dd"
+    },
+    {
+      "start_time": 40,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alix’s video utilizes different conventions of the lifestyle genre by doing a GRWM as she completes her makeup for her night out and talks directly into her phone camera. The aesthetics of the setting, a bathroom with minimal decor and getting ready in a robe, plays on the “clean girl aesthetic” lifestyle influencers tend to play on. Alix uses a lot of quick cuts to continue her storytelling, further reinforcing common patterns this genre of influencers tend to have. As a recognizable way to entertain her audience, she uses these techniques as an established framework for her content. These conventions make her feel more casual and shape the intentional image she is showcasing for her viewers. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Aesthetic"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        }
+      ],
+      "uuid": "249fb60b-3b82-4efc-b9d3-69ffb7a7d62c"
     }
   ],
   "set": "Default",
