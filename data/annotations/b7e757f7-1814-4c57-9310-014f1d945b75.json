@@ -148,6 +148,31 @@
         }
       ],
       "uuid": "93129e4a-e813-40db-bb67-97b4c6988642"
+    },
+    {
+      "start_time": 14,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The sole purpose of this video was to share a personal anecdote with his audience to make them smile and laugh. There’s no information being shared about the kind of dance they’re rehearsing for or anything about the season premiere of Dancing with the Stars. Purely shared for general amusement. The use of pathos in this video is heavily relied on in this clip from rehearsal. Seeing Rylee’s laughter juxtaposed with Connor’s flat out embarrassment adds to the humor of the video. In Connor’s continuing to post content like this even during such a busy season, furthers his connection to his fans and the overall persona he portrays online.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Persona"
+        }
+      ],
+      "uuid": "f874cacf-96db-469c-80c7-0e29241a9513"
     }
   ],
   "set": "Default",
