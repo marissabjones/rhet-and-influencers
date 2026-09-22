@@ -32,6 +32,39 @@
         }
       ],
       "uuid": "ec3a5763-675a-4d9b-b99f-1e3c3627533d"
+    },
+    {
+      "start_time": 7,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Johnson opens by voicing a fan question aloud, \"Primals wanna know if Liver King uses utensils,\" which sets up the video's premise and immediately identifies his audience as \"Primals,\" the name his own followers use for themselves, before his response, \"Why would I use utensils? You think that's very primal?\", is delivered as a rhetorical question that mocks the premise of the question rather than answering it. This is a clear ethos move, and its purpose is not really to answer the fan but to reframe the audience's own expectations: by refusing to entertain the question as a genuine inquiry, Johnson positions the follower asking it as the one who is out of touch, using this small exchange as context to establish his own extreme behavior (eating meat with his bare hands) as the obviously correct baseline and modern table manners as the aberration that needs justifying."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "18ab36f3-8ece-4198-bb4e-bf804c8563ee"
     }
   ],
   "set": "Default",
