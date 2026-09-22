@@ -131,6 +131,43 @@
         }
       ],
       "uuid": "12493136-6c41-4057-8e0a-6902a85cb476"
+    },
+    {
+      "start_time": 37,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Immediately after, Johnson says \"I got the bone marrow and liver, my ancestral supplements, because no meal is complete,\" as a hand reaches into frame to set two labeled supplement bottles on the table, and he continues, \"Why would you eat vegetables when you can get down on testicles?\" This is the video's clearest monetization moment and its clearest contradiction: the same ancestral logic used earlier to dismiss utensils and hygiene as unnecessary modern conventions is now being used to sell a manufactured, bottled product that exists only because of the modern supply chains his persona claims to reject. The purpose here shifts from performing a persona to directly persuading his audience to buy something, and the vegetables line does double duty as a joke and as a way of preemptively dismissing the most obvious nutritional criticism of his all-meat diet before a skeptical member of that audience can raise it, a move that only works because the video never pauses to acknowledge the contradiction sitting inside its own context."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Exigence"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Logos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "9be4297f-fdc5-4aa3-9a6e-4a29bcfb0c29"
     }
   ],
   "set": "Default",
