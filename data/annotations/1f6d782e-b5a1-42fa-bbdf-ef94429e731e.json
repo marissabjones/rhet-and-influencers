@@ -168,6 +168,39 @@
         }
       ],
       "uuid": "9be4297f-fdc5-4aa3-9a6e-4a29bcfb0c29"
+    },
+    {
+      "start_time": 49,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video closes with Johnson saying, \"here's whatever king and the Queen are having for dinner today, love, king,\" paired with the recurring TikTok watermark and his account handle sitting in the corner of the frame for the entire clip. Ending on the same \"king\" branding he opened and plugged supplements with reinforces how tightly controlled the persona is even in a video framed as a casual, off-the-cuff dinner update; nothing in the video, from the hand gestures to the sign-off phrase, is actually incidental, and the loop back to his own nickname is what makes the video feel complete rather than simply finished. The visible handle sitting in the corner for the full runtime also serves a circulation purpose of its own, making sure that any viewer who scrolls past mid-clip or catches it reshared off-platform still has a direct path back to his account, so the closing line functions less as a genuine goodbye to his audience and more as a final, low-effort reminder of exactly whose content they are watching within the context of his broader brand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "6c9e1c4f-38cc-4f9b-9fd8-589be333a935"
     }
   ],
   "set": "Default",
