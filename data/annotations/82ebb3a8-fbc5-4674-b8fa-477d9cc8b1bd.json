@@ -206,6 +206,35 @@
         }
       ],
       "uuid": "e3d4d5a1-22ca-4ee1-ba58-79c86bc03146"
+    },
+    {
+      "start_time": 0,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nara starts the video stating that “[her] husband has been craving the most random things lately.”] and “let me just make it for you”, acting as a hook for viewers to view Nara in a certain light. Nara begins the video with a statement surrounding her husband and that she is cooking the recipe for him, painting her as a highly dedicated mother/wife, who is basing her content around it. This exudes a lifestyle that viewers have varying reactions to, and an overlap between her true lifestyle and the purpose of this video can be seen. Nara’s true lifestyle can be seen to an extent. She uses a played-up version of her life to make this video and attract viewers, whether it’s through inspiration or annoyance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Lifestyle"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "a93cb249-6c48-4676-bd2a-91d4008bbcbe"
     }
   ],
   "set": "Default",
