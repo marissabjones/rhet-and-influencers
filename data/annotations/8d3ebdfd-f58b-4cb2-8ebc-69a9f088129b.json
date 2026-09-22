@@ -185,6 +185,35 @@
         }
       ],
       "uuid": "b958573c-7bdb-47a4-9d8d-0fd54ee0463e"
+    },
+    {
+      "start_time": 5,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Early in the video, Nara uses her Chanel skincare and displays her Goyard bag. These objects contribute to her persona by immediately establishing the luxurious lifestyle associated with her personal brand. Rather than directly telling her audience that she lives a wealthy or fashionable lifestyle, she communicates this through the objects that appear within the video. This use of visual modality allows the products to carry meaning and influence how viewers perceive her. By showing luxury items alongside an ordinary morning, this creates a contrast between everyday motherhood and an aspirational lifestyle. Rather than watching Nara simply get ready for the day, they are watching a carefully orchestrated version of what her morning looks like via visual cues. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Modality"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Persona"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Aesthetic"
+        }
+      ],
+      "uuid": "42715499-e72a-4dff-9901-ba10cd9fefee"
     }
   ],
   "set": "Default",
