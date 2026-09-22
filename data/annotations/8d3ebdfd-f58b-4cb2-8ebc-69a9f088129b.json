@@ -152,6 +152,39 @@
         }
       ],
       "uuid": "4130a510-72be-45f6-8273-cd6cc8f8fb39"
+    },
+    {
+      "start_time": 32,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Nara says, “I usually go outside, touch some grass and get a little bit of fresh air,” her word choice contributes to the relaxed and natural persona she creates throughout the video. The specific verbiage is casual and conversational, hence making her narration feel more relatable and informal. This creates a calm and lighthearted tone, which is important to the way Nara presents herself. At the same time, the activity she describes contributes to the image of a slower, more intentional lifestyle. Going outside for fresh air is presented as a normal part of her lifestyle rather than unusual or planned. Although her lifestyle includes elements of luxury and curation, her tone prevents her from appearing overly formal or distant. Her language shapes how the audience understands her as a person. While giving a personal glimpse into her life, Nara also creates a sort of intimacy with the viewers, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Communicator"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Persona"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "b958573c-7bdb-47a4-9d8d-0fd54ee0463e"
     }
   ],
   "set": "Default",
