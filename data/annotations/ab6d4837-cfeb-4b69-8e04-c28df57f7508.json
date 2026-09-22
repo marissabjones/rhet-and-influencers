@@ -57,6 +57,31 @@
         }
       ],
       "uuid": "3e7fca24-6a70-4d1c-884b-be4129567243"
+    },
+    {
+      "start_time": 6,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Bloom states that her “chef also made Oscar this tuna bone broth blend,” she uses a casual tone to present an extraordinary level of wealth. Having a chef prepare a meal for her cat is likely far removed from the experiences of most viewers, making the detail a subtle expression of privilege. However, Bloom delivers the statement without emphasis, presenting it as another step in preparing her cat’s breakfast. This strengthens her ethos as someone accustomed to an exceptionally luxurious life. Bloom also reinforces her broader message of presenting a lavish lifestyle through a seemingly ordinary persona."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        }
+      ],
+      "uuid": "e16e0a34-fdd0-4272-8652-9cc8576bfd55"
     }
   ],
   "set": "Default",
