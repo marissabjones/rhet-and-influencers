@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Throughout the entire video, Noel relies on key platform affordances, using clean visual editing and concise onscreen text overlays to emphasize his most important words. By maintaining a simple setup with no distracting objects in the background, just a direct-to-camera shot without any flashy edits or aggressive sales plugs, he leverages Instagram’s video format to create an authentic, face-to-face atmosphere, making the viewer feel more welcome. This deliberate visual restraint prevents the video from feeling commercialized and fake, allowing the serious mood of Men’s Mental Health Month to take center stage. The minimalistic production style strengthens his emotional appeal by making the interaction feel like an honest, personal conversation, such as one you would have with a friend.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "9712ba42-7a47-4dc5-9d59-ba28ca82b296"
+    }
+  ],
   "set": "Default",
   "event_id": "25efbbfd-1500-4b70-8c21-bfc26ef246cc",
   "source_id": "404083de-53e9-47d8-a358-09614e0d6050"
