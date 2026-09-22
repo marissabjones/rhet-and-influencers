@@ -107,6 +107,31 @@
         }
       ],
       "uuid": "22d0e302-93c6-4903-95d6-cc22f54e70fb"
+    },
+    {
+      "start_time": 80,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " In an attempt to argue that the flaws in the healthcare system that lead to undue stress on healthcare officials stem from the system that sets them up, Dr. Mike appeals to logos, though he seems to commit noticeable logical fallacies. In his conversation with this other individual, Dr. Mike sets up an argument expressing that medical professionals gaslight, fail, and neglect patients. He then attributes the cause to “the system.” Indeed, gaslighting, neglect, and ineffective doctoring are serious issues in healthcare; Dr. Mike, though, seems to be committing a causal oversimplification: quite frequently, ineffective doctoring is a result of the doctor, not the system—or perhaps a doctor unwilling to prioritize patients over the system. Alternatively, he appears to attempt a scapegoating fallacy by arguing that the tension between professionals and hospital administrators is the source of these ethical issues. These issues — like gaslighting — are relatable, frustrating, and key attention-grabbing terms for the video’s audience, and although there is validity to Dr. Mike's argument that the healthcare system is flawed and often leads to clinician burnout, moral distress, and poor quality of care (which, as terms, may not be as algorithmically interesting as gaslighting), the reality is that healthcare is much more complicated than just “the system,” even if it is easier to blame it as a common enemy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Logos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Logical Fallacy"
+        }
+      ],
+      "uuid": "898a6c8b-5e1f-4698-92ac-94d86da4bd17"
     }
   ],
   "set": "Default",
