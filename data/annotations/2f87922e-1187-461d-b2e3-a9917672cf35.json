@@ -198,6 +198,39 @@
         }
       ],
       "uuid": "663bdf34-2f56-4241-b49e-14dbdfadd4db"
+    },
+    {
+      "start_time": 95,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The rhetorical purpose of this clip is to raise awareness among viewers, who may not understand how deeply flawed the healthcare system is, from the hospital administrators to the pharmaceutical companies that manufacture drugs. A key rhetorical technique, leveraging the multimodal nature of short-form rhetoric, is the frequent cuts between Dr. Mike and the individual in the room with him. In the enumeration of drastic flaws in the healthcare system, the camera angle shifts from focusing on Dr. Mike to showing the other individual's blank, speechless face. Despite the debate, this individual says nothing and doesn't try to interject, simply sitting back and taking in Dr. Mike's list of qualms about the entire system. By showing this blank individual, Dr. Mike and his production team express that it is not common knowledge how deeply embedded flaws are in the healthcare system, perhaps a sense of reliability that even an individual motivated enough to speak with Dr. Mike and put his face on social media draws a blank at the innumerable number of issues. It makes the video more engaging by avoiding long stretches on one frame and by conveying how unknown these healthcare issues are. This also may be why Dr. Mike chose to pin this video to his account, as one of a few."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        }
+      ],
+      "uuid": "eaa1099b-4869-4a86-9f3d-3b0bf8e34450"
     }
   ],
   "set": "Default",
