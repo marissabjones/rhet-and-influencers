@@ -177,6 +177,35 @@
         }
       ],
       "uuid": "1b2be983-6f2d-42a4-a0a5-9c6af2e862a2"
+    },
+    {
+      "start_time": 0,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nara grabs the attention of viewers who are most likely women and/or mothers through her narration that she is cooking for her husband, her eye-catching outfit, and her overall aesthetic. Many viewers may feel truly inspired by her and interact with this video to follow the recipe or to show support for her lifestyle. However, taking her ‘ragebait’ elements into account, the audience may shift to users who are more likely to be stirred by her choice of words (“before you go grab it, let me just make it for you”), her unnecessary apparel, and her unnatural and whispery tone. This audience is one that brings Nara more attraction as an influencer and has likely become her truly intended audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Ragebait"
+        }
+      ],
+      "uuid": "e3d4d5a1-22ca-4ee1-ba58-79c86bc03146"
     }
   ],
   "set": "Default",
