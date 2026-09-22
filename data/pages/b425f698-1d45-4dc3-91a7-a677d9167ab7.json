@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Theme",
+          "text": "Celebrity Influencers",
           "textSize": "heading-one"
         }
       ]
@@ -117,7 +117,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Gillis, Shane [@shanemgillis]. “New Super Bowl commercial @budlight #SBLX #ad.” Instagram, 30 Jan. 2026.\n"
+          "text": "Gillis, Shane [@shanemgillis]. “New Super Bowl commercial @budlight #SBLX #ad.” Instagram, 30 Jan. 2026.",
+          "bold": true
+        },
+        {
+          "text": "\n"
         }
       ]
     },
@@ -178,7 +182,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Video Title",
+          "text": "Sweeney, Sydney. @sydney_sweeney “just sports @novig.” Instagram, 8 September 2026.",
           "bold": true
         }
       ]
@@ -187,7 +191,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
+          "text": "\nSydney Sweeney is a very controversial celebrity and influencer. She gained her following through acting in popular movies and tv series, such as The Housemaid, Anyone But You, The White Lotus, and much more. She is best known for her breakout role as Cassie Howard in the Emmy Award winning series, Euphoria. She has used her fame to build a following and social media presence to promote products, work with brands, and create and advertise her own line of lingerie and clothing. Although starting as a celebrity, she has also become an influencer. Sydney Sweeney has many sponsorships with top brands such as American Eagle, Armani Beauty, Kérastase, and Laneige. She even has her own clothing line called Syrn. She promotes these brands by posting photos and reels of her using these beauty products and wearing these clothing brands to influence her viewers. Sweeney is known for her appearance and sex appeal, so she typically promotes fashion and makeup. The idea is that viewers who view Sydney Sweeney as beautiful and desirable will want to be this and take her beauty advice to elevate their own appearance as these products elevate hers. However, many aren’t a fan of Sweeney because they claim she sexualizes herself too much and has a large male audience even though she seems to be marketing brands towards women. A lot of people also dislike that she does not discuss her political views publicly, whether she's a Trump supporter or not. Sweeney's controversy demonstrates the tension between what is or isn't an influencer's obligation for their audience.Despite all this controversy, she still has 25.9 million followers on instagram, and her clothing brand continuously sells out quickly. Even with the hate she receives she is still very successful. Some argue the controversies she’s involved in are intentional to keep herself relevant and heavily discussed by the media. This helps her gather a larger audience. \n"
         }
       ]
     },
@@ -208,7 +212,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Sydney Sweeney is a very controversial celebrity and influencer. She gained her following through acting in popular movies and tv series, such as The Housemaid, Anyone But You, The White Lotus, and much more. She is best known for her breakout role as Cassie Howard in the Emmy Award winning series, Euphoria. She has used her fame to build a following and social media presence to promote products, work with brands, and create and advertise her own line of lingerie and clothing. Although starting as a celebrity, she has also become an influencer. Sydney Sweeney has many sponsorships with top brands such as American Eagle, Armani Beauty, Kérastase, and Laneige. She even has her own clothing line called Syrn. She promotes these brands by posting photos and reels of her using these beauty products and wearing these clothing brands to influence her viewers. Sweeney is known for her appearance and sex appeal, so she typically promotes fashion and makeup. The idea is that viewers who view Sydney Sweeney as beautiful and desirable will want to be this and take her beauty advice to elevate their own appearance as these products elevate hers. However, many aren’t a fan of Sweeney because they claim she sexualizes herself too much and has a large male audience even though she seems to be marketing brands towards women. A lot of people also dislike that she does not discuss her political views publicly, whether she's a Trump supporter or not. Sweeney's controversy demonstrates the tension between what is or isn't an influencer's obligation for their audience.Despite all this controversy, she still has 25.9 million followers on instagram, and her clothing brand continuously sells out quickly. Even with the hate she receives she is still very successful. Some argue the controversies she’s involved in are intentional to keep herself relevant and heavily discussed by the media. This helps her gather a larger audience. "
+          "text": "",
+          "bold": true
         }
       ]
     },
@@ -224,7 +229,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Video Title",
+          "text": "Johnson, Brian. \"@liverking.\" \"[Video of Johnson eating lamb, testicle, and liver while discussing ancestral eating habits.]\" TikTok, 31 May 2023.",
           "bold": true
         }
       ]
@@ -233,7 +238,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[student's individual description about the influencer's branding, persona, necessary context, and argument]"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The TikTok that I'll be analyzing comes from Brian Johnson, known online as Liver King, a fitness and wellness influencer on TikTok and Instagram whose entire persona rests on the claim that he lives an \"ancestral\" lifestyle, eating raw organ meat, rejecting modern conveniences, and attributing his extreme physique to primal habits alone. That persona is also his business, since nearly every video, including the one I am analyzing, exists to sell his \"Ancestral Supplements\" line, meaning his authenticity is not just a personality trait but the product itself. What connects him to our group's theme of influencer controversy is that his fame was never built on quiet consistency, it was built on being extreme enough to argue about, and in late 2022, leaked emails revealed that his physique came from steroid use rather than diet, prompting him to publicly admit \"I lied\" after months of denial. That confession set off a wave of mainstream press coverage, mockery, and a fraud lawsuit from customers who bought his supplements believing his ancestral claims, and rather than disappearing, Liver King became more widely known after the scandal than before it. His career shows how controversy can work in an influencer's favor even when it exposes them as dishonest, since the attention generated by the \"I lied\" scandal circulated his name and his brand far past his original fitness-niche audience, proving the same \"all publicity is good publicity\" logic our group identified."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -267,6 +288,6 @@
   "slug": "celebrity-influencers",
   "created_at": "2026-09-07T20:55:48.086Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-22T00:15:44.427Z",
-  "updated_by": "jmg9826"
+  "updated_at": "2026-09-22T04:15:24.568Z",
+  "updated_by": "teediggity06"
 }
