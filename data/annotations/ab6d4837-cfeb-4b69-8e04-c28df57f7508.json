@@ -169,6 +169,31 @@
         }
       ],
       "uuid": "20c3d940-a132-4963-8005-d4638b272303"
+    },
+    {
+      "start_time": 7,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bloom’s intended audience appears to be women interested in fashion, relationships, career development, and luxury lifestyles. However, her actual audience extends beyond women who can financially relate to her. Many of her viewers are instead women who may not have the wealth to experience the lifestyle she presents but are entertained by it. Bloom uses an ordinary task, such as making her cats breakfast, and twists it with experiences that are far less relatable, such as feeding her cat caviar or tuna bone broth prepared by a personal chef. This creates a distinction between the audience Bloom may intend to reach and the audience she actually attracts. This difference is rhetorically significant because she does not rely on viewers identifying with her lifestyle to maintain their interest. Instead, the unfamiliarity and inaccessibility of her experiences becomes a reason to watch. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "21fc783b-a0b9-49ff-8244-1cb10b29b4b3"
     }
   ],
   "set": "Default",
