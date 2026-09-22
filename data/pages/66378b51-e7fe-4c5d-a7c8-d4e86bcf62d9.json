@@ -24,6 +24,46 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chamberlain, Emma. \"I WENT TO PARIS FASHION WEEK.\" YouTube, 10 Mar. 2019,"
+        },
+        {
+          "type": "link",
+          "url": "https://www.google.com/search?q=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DM0wpTx6kUPE",
+          "children": [
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "http://www.youtube.com/watch?v=M0wpTx6kUPE",
+          "children": [
+            {
+              "text": "www.youtube.com/watch?v=M0wpTx6kUPE"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "\nQin, Melissa. @melissaqin. “Rising M2?! Crazy.” TikTok, 20 August 2026, "
         },
         {
@@ -467,6 +507,6 @@
   "slug": "works-cited",
   "created_at": "2026-09-05T18:48:29.090Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-22T02:05:44.868Z",
-  "updated_by": "marissabjones"
+  "updated_at": "2026-09-22T02:35:19.268Z",
+  "updated_by": "caseyboettcher"
 }
