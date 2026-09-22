@@ -83,7 +83,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Caption: \"Filling a pool with pickles 🥒🤪 50,000 @Josh's Pickles were unsellable, undonatable, and heading for the landfill.. so we broke a world record instead and took them to a recycling plant that turns waste into fuel for the Utah power grid 🫶\""
+          "text": "Caption: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Filling a pool with pickles 🥒🤪 50,000 @Josh's Pickles were unsellable, undonatable, and heading for the landfill.. so we broke a world record instead and took them to a recycling plant that turns waste into fuel for the Utah power grid 🫶\""
         }
       ]
     },
@@ -191,6 +199,6 @@
   "slug": "building-community",
   "created_at": "2026-09-07T20:54:12.232Z",
   "created_by": "marissabjones",
-  "updated_at": "2026-09-21T23:50:12.635Z",
+  "updated_at": "2026-09-22T01:27:17.157Z",
   "updated_by": "keilanidesilva"
 }
