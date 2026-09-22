@@ -45,6 +45,35 @@
         }
       ],
       "uuid": "e4118b0e-a1ce-47a8-bfcf-a2332ca112a5"
+    },
+    {
+      "start_time": 0,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nara utilizes voice-over as an affordance in her content, allowing her to narrate her video with a walkthrough of her recipe and make it clear to viewers. However, she brings her own nuance to it with a whispery and slightly monotone delivery. As she walks through her complicated recipe, she very often notes how long certain points of the process will take: “let that simmer for about 5 hours”, “put it in my dehydrator for about 16 hours”. Her delivery of these absurd times with a gentle and ‘unbothered’ tone serves yet another method to strike engagement from viewers, and acts as a highly effective use of voiceovers as an affordance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Ragebait"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        }
+      ],
+      "uuid": "c415ee1a-c082-48ee-8630-d70fc2ec24b2"
     }
   ],
   "set": "Default",
