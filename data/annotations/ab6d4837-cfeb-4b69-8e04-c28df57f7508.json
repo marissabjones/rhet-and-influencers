@@ -1,1 +1,32 @@
-{"annotations":[],"set":"Default","event_id":"c9fac2e0-3f2d-4853-93e7-8d05c0009f5b","source_id":"1d1ab7d8-1d62-48ac-a273-7e9770dce8f0"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Becca Bloom uses the popular TikTok genre of “what I eat” and “come with me” videos to post the making of her cat’s breakfast. By opening with “Plate my cat’s breakfast with me,” she creates an expectation of a simple, everyday routine that viewers will easily recognize. This genre choice is rhetorically important because Bloom uses a familiar format to display her extraordinary life. She prepares the meal in a calm and casual manner, treating this lavish act a routine task. Her purpose is therefore not only showing what she feeds her cat, but to make her luxurious lifestyle feel entertaining, approachable and casual. The contrast between the ordinary genre and extravagance shown by Bloom encourages viewers to watch to see how her cat’s breakfast differs from their own."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "c3aa9393-2e03-4fc3-9f03-0b5beca601ee"
+    }
+  ],
+  "set": "Default",
+  "event_id": "c9fac2e0-3f2d-4853-93e7-8d05c0009f5b",
+  "source_id": "1d1ab7d8-1d62-48ac-a273-7e9770dce8f0"
+}
