@@ -1,1 +1,32 @@
-{"annotations":[],"set":"Default","event_id":"17e254cb-4f94-4860-b903-022822a8c318","source_id":"425b1c46-bd25-4bef-80bf-14acd7c8527d"}
+{
+  "annotations": [
+    {
+      "start_time": 27,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nNara states that she must let something simmer “for about five hours”, serving as a form of ragebait that is likely to garner engagement. With the first tag of her caption in this video being “#easyrecipe”, a process that involves a single step where something must simmer for five hours is completely contradictory. The comments on this video are filled with viewers calling Nara out for how long her recipes take, with many saying things like “dinner will be ready in 2 days” and “20 hour instant ramen”. This serves as a successful example of ragebait, where Nara’s choice was intentional and struck up more engagement on her video.\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Ragebait"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        }
+      ],
+      "uuid": "c1b53fc0-04cb-41a6-a8fb-d2e0ee260d85"
+    }
+  ],
+  "set": "Default",
+  "event_id": "17e254cb-4f94-4860-b903-022822a8c318",
+  "source_id": "425b1c46-bd25-4bef-80bf-14acd7c8527d"
+}
