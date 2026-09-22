@@ -123,6 +123,35 @@
         }
       ],
       "uuid": "c559c111-341c-4830-b881-d8c1ee5029d5"
+    },
+    {
+      "start_time": 47,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Nara explains, “The kids keep mentioning french toast, so I decided to make that for them this morning,” she presents making breakfast as an act of responding to her children’s wants. Rather than simply saying she is making French toast, she gives the audience a reason for her decision. This contributes to her persona as an attentive and caring mother who remembers the small things and takes the time to make her kids something special. The audience for this video can be understood as viewers interested in lifestyle, motherhood, family routines, and aesthetically presented domestic content, particularly viewers who are interested in seeing how Nara balances her responsibilities as a mother with her carefully curated lifestyle. This statement also adds onto the broader message of her content, which emphasizes making things herself rather than relying on convenience. Thus, cooking is presented less as a practical task, but also as an expression of care.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Communicator"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "4130a510-72be-45f6-8273-cd6cc8f8fb39"
     }
   ],
   "set": "Default",
