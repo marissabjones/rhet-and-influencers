@@ -136,6 +136,39 @@
         }
       ],
       "uuid": "898a6c8b-5e1f-4698-92ac-94d86da4bd17"
+    },
+    {
+      "start_time": 90,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This moment is truly where the exigence of the entire clip comes into play—the fact that politicians are prioritizing relatively unimportant matters in the context of Dr. Mike's profession, while doctors are struggling to afford to live, and corporatization of healthcare continues to dominate, and executives continue to get paid more. Dr. Mike emphasizes this exigence by utilizing a structural parallelism to show that healthcare spending is at an all-time high, while doctor spending is not. The use of \"absolutely true\" for whether healthcare spending has increased, juxtaposed with \"absolutely not\" for doctor pay increases, is a direct antithesis that highlights the sharp contrast between higher spending and the lack of corresponding benefits for the individuals who actually enable healthcare systems to operate. Dr. Mike uses hypophora for dramatic effect to deliver the blunt, short truth—that administrators are getting paid exponentially more, while doctors continue to get squeezed. No more fluff is needed to get that point across, and for the audience, the point is presented concisely and clearly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Exigence"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "1798540c-1ca5-4e90-bfb0-cfcdfd41ce3e"
     }
   ],
   "set": "Default",
