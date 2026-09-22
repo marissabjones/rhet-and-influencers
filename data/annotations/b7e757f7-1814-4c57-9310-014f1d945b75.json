@@ -40,6 +40,43 @@
         }
       ],
       "uuid": "72d392c1-f361-467d-86c2-efa1dcdbde2a"
+    },
+    {
+      "start_time": 5,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "TikTok has a really convenient feature where the creator can add closed captions to their videos to make the video even easier to follow. In doing this, it allows viewers to enjoy the video even if they’re unable to watch with audio. Expanding their audience to those who otherwise wouldn't have been able to enjoy the video to its fullest extent. For this video in particular, his audience is expanded in other ways as well. Not only does it attract his usual, younger audience and the deaf community, but it’s also bringing in fans of the show he’s currently on called Dancing with the Stars. It updates in real time with the speed of the audio as well, just like a television show, further adding to the convenience. Additionally, there’s not too much actively going on in the video to watch necessarily, so the closed captions add another level of visual appeal and keep the viewer engaged. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Accessibility"
+        }
+      ],
+      "uuid": "ffdff6a7-d099-418f-b26a-c5812434fbc2"
     }
   ],
   "set": "Default",
