@@ -28,6 +28,35 @@
         }
       ],
       "uuid": "95ff9af0-da48-44a2-af49-ab81ef48153a"
+    },
+    {
+      "start_time": 84,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the end of the video, Nara explains that she was heading to New York for work after spending the morning preparing breakfast, getting her children ready for school, and helping with activities around the house. This moment creates a contrast between Nara’s role as a mother managing her household and her role as a working professional. Throughout most of the video, the audience sees her performing domestic activities; however, ending with her leaving for work expands the persona she has constructed beyond motherhood and presents her as someone who balances family responsibilities with a professional life. For an audience interested in Nara’s lifestyle, this contrast makes her daily routine appear both multifaceted and aspirational as the video depicts how varying aspects of her life fit together.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Persona"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "fde20949-50b5-4ec1-97c5-3341d4e571b3"
     }
   ],
   "set": "Default",
