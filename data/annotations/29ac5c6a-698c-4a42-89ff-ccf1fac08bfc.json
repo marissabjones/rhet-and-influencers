@@ -197,6 +197,39 @@
         }
       ],
       "uuid": "2e811f16-b7bc-451a-825b-82159328ec5a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She begins with her hook of filling a pool with damaged pickles. On TikTok, where the video is displayed, the app provides its users easy accessibility to like, comment, and share. Serena chooses to start her video off like this to make viewers scroll back up if they had previously scrolled and to prompt them to open up the comments to see what everyone is saying. This technologic affordance helps bring engagement and curiosity to both Neel’s video but also her overall page. The video page also has a caption that smartly justifies her task by briefly describing why so many pickles were involved and what exactly she was going to do with them after to avoid controversies about potential wasting. Serena plays into this platform affordance by stating this in the caption because most eyes gear towards this part of the video page when first viewing. She wants to establish transparency right off the bat in order to maintain that credibility that she has endured over her experience as an influencer. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "f5c27ebb-edb7-41cf-8a52-2b62a67dd9cf"
     }
   ],
   "set": "Default",
