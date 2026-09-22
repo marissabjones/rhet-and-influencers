@@ -194,6 +194,35 @@
         }
       ],
       "uuid": "c573ce21-69bc-4ef7-9042-42d918928d88"
+    },
+    {
+      "start_time": 30,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Noel concludes the reel with an encouraging call to action, urging viewers to start talking about their feelings and about their mental health with others. His delivery shifts from somber personal reflection, talking about how he almost gave into his bad feelings several times, to inspiring encouragement, maximizing the emotional impact of his final words. Through this closing appeal, he transforms his personal reflection into a broader community movement, motivating his followers to break the silence in their own lives. This ending solidifies Noel as not just a bodybuilder, but as a genuine advocate dedicated to saving lives through positive digital influence, since he knows what it is like to go through those things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "64f8cef1-e761-4104-a575-8d76f7a709c1"
     }
   ],
   "set": "Default",
