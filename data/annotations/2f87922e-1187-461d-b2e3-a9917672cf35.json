@@ -49,6 +49,35 @@
         }
       ],
       "uuid": "4496ee36-bf7f-4fbd-86a2-b9639c54fdba"
+    },
+    {
+      "start_time": 31,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dr. Mike takes advantage of the affordances of video editing tools and, as is common on Instagram, adds overlaid captions to his videos to emphasize key ideas for his audience that are of considerable rhetorical importance relative to other points. Despite the video's predominantly bold white captions, in the middle of Dr. Mike’s story about a child with cancer, he uses the italicized yellow phrase \"Make-A-Wish.\" This color change, juxtaposed with the consistent use of white text, invites the audience to use the captions not merely as a visual aid but as a form of rhetoric and exaggeration in their own right. Yellow, specifically, being the most visible color in the light spectrum to the human eye, triggers a neuroscience principle known as selective attention, which empirically is known to trigger a pathos—including attention and empathy—as Make-A-Wish is often associated with near-death children—the most innocent individuals enduring the most insufferable pain. The goal is to draw the viewer back into the video, given that attention span may be a constraint, given that Make-A-Wish is associated with heartbreaking events, and yellow text triggers selective attention."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Platform",
+          "tag": "Constraint"
+        }
+      ],
+      "uuid": "4b017e26-ae2b-498e-8f99-a18be053c46c"
     }
   ],
   "set": "Default",
