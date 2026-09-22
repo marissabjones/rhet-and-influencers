@@ -140,6 +140,35 @@
         }
       ],
       "uuid": "22e97cfb-5951-457f-a8c5-758a0c683902"
+    },
+    {
+      "start_time": 47,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The last clip of the TikTok shows Becca Bloom’s cat eating the elaborately organized meal. This shift changes the focus from luxury and unrelatability to the familiar relationship between a person and their pet. While most viewers may not be able to relate to feeding their pet caviar or preparing meals with a personal chef, they can connect through the affection shared for their pets. This appeals to pathos and gives the audience an emotional reason to remain engaged. This ending also reinforces the video’s purpose as entertainment. Becca took great lengths to prepare such a luxurious meal for her cat who eats it in minutes. She turns her wealth into an entertaining glimpse of a lifestyle that many viewers may never experience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "20c3d940-a132-4963-8005-d4638b272303"
     }
   ],
   "set": "Default",
