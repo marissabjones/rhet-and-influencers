@@ -74,6 +74,31 @@
         }
       ],
       "uuid": "c415ee1a-c082-48ee-8630-d70fc2ec24b2"
+    },
+    {
+      "start_time": 5,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nara introduces the recipe that she is making as a recreation of Top Ramen, a widely known meal that is most praised for its convenience and quickness. This likely grabs the attention of viewers because of how well-known Top Ramen is. However, Nara turns this previously fast meal into a long, complicated, and labor-intensive process that ends up taking her over 16 hours. Hooking viewers with the mention of a dish that many are familiar with and then flipping it into such an elaborate recipe is a clear method to stir more engagement from annoyed and confused users, striking viewers and garnering more attention."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Ragebait"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        }
+      ],
+      "uuid": "425f9276-09bd-47d3-9d75-4db82814605e"
     }
   ],
   "set": "Default",
