@@ -198,6 +198,27 @@
         }
       ],
       "uuid": "f91da72b-f20f-4a06-8e1b-449edd7d639e"
+    },
+    {
+      "start_time": 12,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The whole video is very casual and not overly produced. Right from the start, you can tell it’s recorded on an iPhone from a decently far distance because of the low quality zoom in. Additionally, in the entirety of this video, the camera angle doesn’t move at all. Connor edited some parts to be more or less zoomed in but there’s no crazy camera work being done other than that. Even their clothes are very casual, both wearing sweatpants and socks for rehearsal. The background is also pretty simple, with just a couch, the Dancing with the Stars sign behind them, and overall neutral color scheme. All of this plays a role in continuing the casual posting aesthetic Connor has already solidified in his other posts. This consistency helps to build upon the brand he’s created. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Casual Aesthetics"
+        }
+      ],
+      "uuid": "aa89bc55-c7e8-4ec9-b4e9-76b936a5134d"
     }
   ],
   "set": "Default",
