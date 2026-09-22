@@ -90,6 +90,39 @@
         }
       ],
       "uuid": "d8f8215b-4b9c-4d6c-9088-62bce7797fd0"
+    },
+    {
+      "start_time": 53,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Nara explains that while she was making breakfast, the kids were “getting up, brushing their teeth, making their beds, and getting themselves dressed,” she gives the audience a glimpse into how her family’s morning routine is organized. The background information is important as it allows viewers to view the family’s routine as structured rather than chaotic. The moment also develops Nara’s persona as a mother who is actively involved in her children’s lives while encouraging them to participate in their own routines. For an audience interested in motherhood, family routines, and lifestyle content, this provides a more complete picture of the type of family life Nara is presenting. The details of her children also supports the larger message of the video that an ordinary school morning can be organized, intentional, and aesthetically pleasing.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Persona"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "c559c111-341c-4830-b881-d8c1ee5029d5"
     }
   ],
   "set": "Default",
