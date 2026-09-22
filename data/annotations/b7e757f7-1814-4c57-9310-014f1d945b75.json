@@ -77,6 +77,39 @@
         }
       ],
       "uuid": "ffdff6a7-d099-418f-b26a-c5812434fbc2"
+    },
+    {
+      "start_time": 6,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Connor Wood is a contestant on the newest season of Dancing with the Stars and they’ve been in full on rehearsal mode. The season premiere is this Tuesday but the preparation has been going on for months now. With talk show appearances and photoshoots and dance rehearsals, he’s been all in with this show. This is a clip of Connor and his dance partner Riley from a dance rehearsal for the upcoming premiere. In it, he messes up but then the humor continues as he proceeds to make the interaction even more awkward. It’s a great depiction of how authentic and funny all of Connor’s content is. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Exigence"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "e22be533-da19-476e-9c34-4b7cab702349"
     }
   ],
   "set": "Default",
