@@ -40,6 +40,10 @@
       ],
       "tags": [
         {
+          "category": "Misc.",
+          "tag": "Vulnerability"
+        },
+        {
           "category": "Platform",
           "tag": "Affordance"
         },
