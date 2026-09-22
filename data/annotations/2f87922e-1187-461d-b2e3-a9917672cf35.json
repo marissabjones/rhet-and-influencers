@@ -1,1 +1,32 @@
-{"annotations":[],"set":"Default","event_id":"5cfc7d70-2a2d-4696-9f28-436c74bda3d8","source_id":"83cf0ad6-cc41-4272-9021-1a02e7259a09"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dr. Mike uses the affordances of Instagram's text-based captioning features to express his deep frustration with the American healthcare system. The pictorial nature of emoji is an intentional use of social-media captioning capabilities employed by Dr. Mike to express not merely a frustration expressible in words, but one that goes beyond them—one that must be described with pure, unambiguous frustration. Dr. Mike even goes so far as to use the profane dysphemism “Shitty” to modify the noun “Healthcare system,” emphasizing his colossal frustration. For an audience quickly scrolling through the endless abyss of Instagram reels, perhaps occasionally presented with relatively mundane wellness content from Dr. Mike, the enraged visual hook of “ 😡” in this caption, paired with profanity, sourced from Dr. Mike, a brandedly optimistic, kind, and family-centric doctor, emphasizes the immense importance of the problematic American healthcare system—perhaps something worth staying for and watching. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "ccde9943-1843-4e45-9d5a-f691aafd39da"
+    }
+  ],
+  "set": "Default",
+  "event_id": "5cfc7d70-2a2d-4696-9f28-436c74bda3d8",
+  "source_id": "83cf0ad6-cc41-4272-9021-1a02e7259a09"
+}
