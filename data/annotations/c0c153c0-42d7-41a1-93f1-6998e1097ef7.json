@@ -136,6 +136,35 @@
         }
       ],
       "uuid": "8025f884-43c4-4be5-a21e-2ff4ed522982"
+    },
+    {
+      "start_time": 0,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This video operates within the fitness influencer content genre, specifically within Instagram, but Noel deliberately subverts traditional expectations of those sorts of reels. Typical fitness reels prioritize unrealistic body types, intense training regiments and diets, or commercial product placements. In contrast, Noel adopts a hybrid genre format within this video, blending in an intimate confession with a formal public service announcement. Since Noel regularly trains, he retains the visual identity of a bodybuilder, so while he is delivering a somber, empathetic monologue, the target audience, young men, tend to pay more attention. Overall, this genre shift surprises the viewer scrolling through standard workout content, making his tone and serious message stand out sharply against typical algorithmic slop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Genre"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Medium"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "1203642f-891d-4f6d-a041-c0f0b1737f15"
     }
   ],
   "set": "Default",
