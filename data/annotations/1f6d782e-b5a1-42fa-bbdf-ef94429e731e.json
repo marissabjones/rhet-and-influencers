@@ -234,6 +234,39 @@
         }
       ],
       "uuid": "dbe49fad-72c0-42a2-8904-128cb1477c68"
+    },
+    {
+      "start_time": 46,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After the supplement bottles are already on the table, Johnson adds a second, more direct pitch, \"Get some,\" paired with a quick mention of a protein shake, layering a second product plug onto the first within seconds of the original one. Unlike the earlier supplement moment, which folds the sales pitch into a philosophical claim about ancestral eating, this beat drops the justification altogether and switches to a bare, imperative command aimed straight at the viewer, and the purpose shifts from persona-building to simple persuasion. The redundancy is deliberate rather than sloppy: repeating the call to purchase, even briefly and without new reasoning, functions as reinforcement in a format built for rapid circulation, where a viewer might only catch a few seconds of the video before scrolling on. It also marks a shift in address, from narrating his own meal to speaking directly to the audience, which collapses the distance between \"day in the life\" content and an advertisement in the video's final seconds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "4f4539c4-34b8-43ee-8563-b959a8b1ae91"
     }
   ],
   "set": "Default",
