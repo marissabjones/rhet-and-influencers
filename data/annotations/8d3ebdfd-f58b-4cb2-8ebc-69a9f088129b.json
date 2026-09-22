@@ -214,6 +214,31 @@
         }
       ],
       "uuid": "42715499-e72a-4dff-9901-ba10cd9fefee"
+    },
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the very beginning of the video, Nara includes the words “6am-9am school morning” along with an apple emoji on the screen. This immediately frames the video as a glimpse into a specific aspect of her daily routine rather than simply a general lifestyle video. The text is specifically a platform affordance as TikTok allows creators to layer written text directly onto their videos. This is useful as viewers can understand the context of the video instantly, which is especially important on a platform where users quickly scroll through content. By labeling the routine, Nara presents an ordinary school morning as something organized and worth following. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "5733eb5e-8115-488e-b0ce-4c2ba074a2f6"
     }
   ],
   "set": "Default",
