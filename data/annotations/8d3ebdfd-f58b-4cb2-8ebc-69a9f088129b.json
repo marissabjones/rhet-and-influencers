@@ -57,6 +57,39 @@
         }
       ],
       "uuid": "fde20949-50b5-4ec1-97c5-3341d4e571b3"
+    },
+    {
+      "start_time": 59,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nara briefly inserts a clip of trees into the video. The clip contributes to the overall mood and aesthetic of the video. This demonstrates how the video itself functions as more than a straightforward record of her morning. The trees, as a visual modality, create a peaceful and natural atmosphere that reinforce a specific lifestyle. The medium of TikTok, specifically its short-form video format, allows Nara to combine clips from varying moments and locations, hence giving her control over what viewers see and how that sequence feels. This also represents a platform constraint as she is not able to present her entire morning in real time, so she must select and arrange certain moments. The result is a highly curated representation of her life. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Platform",
+          "tag": "Constraint"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Medium"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Modality"
+        }
+      ],
+      "uuid": "d8f8215b-4b9c-4d6c-9088-62bce7797fd0"
     }
   ],
   "set": "Default",
