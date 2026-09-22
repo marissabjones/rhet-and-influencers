@@ -67,7 +67,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
       "uuid": "9390b660-6d3e-49a0-8943-2e643823f4eb"
     },
     {
