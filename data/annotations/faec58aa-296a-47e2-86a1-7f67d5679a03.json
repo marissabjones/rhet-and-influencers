@@ -198,6 +198,39 @@
         }
       ],
       "uuid": "249fb60b-3b82-4efc-b9d3-69ffb7a7d62c"
+    },
+    {
+      "start_time": 130,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alix shares a funny moment of her being watched and embarrassed as she was caught dancing alone and talks about spending time with her dad. A big part of Alix’s brand is managing her extremely busy schedule, but constantly making an effort to spend time with her family. Although her life has changed drastically since becoming an influencer, she contrasts many ordinary moments with her more exclusive lifestyle. Viewers are less likely to relate to a celebrity who just shares their high class life, so Alix shares familiar moments involving family. The emotional appeal makes Alix seem more approachable by including both sides of her life to maintain this relatable persona through humorous storytelling."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Persona"
+        }
+      ],
+      "uuid": "ae18afc8-ee32-4cb1-a9de-c44b973a232f"
     }
   ],
   "set": "Default",
