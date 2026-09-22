@@ -24,6 +24,31 @@
         }
       ],
       "uuid": "9712ba42-7a47-4dc5-9d59-ba28ca82b296"
+    },
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Noel opens the video with a serious tone, talking about how he almost ended his life when he was in his 20s. Through the affordance of the text caption, “I nearly offed myself” can be seen, which carries a certain weight and disturbance with it. The fact that the word “killed,” and that Noel must mold his sentence to avoid directly saying that he almost committed suicide are just two sick examples of the language constraint that is enforced by Instagram. To bypass getting shadow banned or having his content removed due to platform guidelines, he adopts filtered internet slang while still maintaining his emotional vulnerability to build immediate rapport with his followers and any new viewers that may come along."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "65588521-0934-4060-8f1b-f79e56508a5b"
     }
   ],
   "set": "Default",
