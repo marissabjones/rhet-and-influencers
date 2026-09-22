@@ -98,6 +98,39 @@
         }
       ],
       "uuid": "a2e0dae5-7c33-43dc-8609-abb6bdec104a"
+    },
+    {
+      "start_time": 26,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the meal reveal, Johnson narrates, \"time for dinner today, that's right, a leg of lamb; the Queen is gonna have a Tomahawk; carnivory at its finest,\" while the camera holds on both him and his wife seated together in front of the pool. Referring to his wife exclusively as \"the Queen\" extends his own \"King\" branding onto her, turning a shared meal into a piece of couple-branding that trades the shock-value affordance driving the rest of the video for a parasocial, aspirational-lifestyle affordance instead, and the purpose of this shift is to widen his audience beyond viewers who just want shock content to viewers drawn in by lifestyle aspiration. The aesthetic of the shot, both of them tan, shirtless or swimsuit-clad, framed against the pool, does as much persuasive work as the dialogue, since the viewer is no longer just watching a man eat raw meat, but watching a wealthy, muscular couple perform an entire relationship and lifestyle brand in a single shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Aesthetic"
+        }
+      ],
+      "uuid": "12493136-6c41-4057-8e0a-6902a85cb476"
     }
   ],
   "set": "Default",
