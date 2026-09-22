@@ -82,6 +82,35 @@
         }
       ],
       "uuid": "e6e8a713-755d-4f0d-99bb-047735436c44"
+    },
+    {
+      "start_time": 10,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continuing his message, Noel addresses the broader cultural constraints that discourage men from showing vulnerability or seeking professional, or any kind of, help. He uses logical reasoning to challenge the false narrative that staying silent means staying strong, \"I'd lie to those around me, telling them that I was okay when I wasn't.\" By sharing his own past rock-bottom moments, he argues that acknowledging depression or suicidal thoughts is a vital step towards healing rather than a sign of personal failure. This rhetorical appeal explicitly targets society’s expectations of hyper-masculinity, reassuring his audience that prioritizing their mental health does not diminish their physical strength or manhood; they stand nothing to lose and everything to gain."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Platform",
+          "tag": "Constraint"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Vulnerability"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Logical Fallacy"
+        }
+      ],
+      "uuid": "33743e6a-d7cc-4b8c-b68b-5fb64a47aba6"
     }
   ],
   "set": "Default",
