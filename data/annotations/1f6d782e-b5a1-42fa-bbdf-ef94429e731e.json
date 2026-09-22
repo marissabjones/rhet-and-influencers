@@ -65,6 +65,39 @@
         }
       ],
       "uuid": "18ab36f3-8ece-4198-bb4e-bf804c8563ee"
+    },
+    {
+      "start_time": 14,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Johnson follows with a claim about an unnamed group he calls \"the Huds,\" saying they \"never wash their hands\" and instead \"wipe the grease and tallow all over their bodies to nourish their skin,\" concluding, \"that's why I look so good.\" This is delivered with total confidence and no sourcing, functioning as a pseudo-anthropological credibility claim similar to the pinned hunting footage I discussed in my R2, where an implicit argument about ancestral authenticity is made through appeal to an unverified \"primitive\" authority rather than through anything a viewer could actually check. The claim is given no context, no name, no location, nothing the audience could use to verify it, and the short runtime of a TikTok clip works entirely in his favor here, since fast circulation depends on content that moves quickly rather than content that invites scrutiny, leaving no room in the format for anyone to ask which group he means or whether the claim is remotely accurate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Context"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Authenticity "
+        }
+      ],
+      "uuid": "a2e0dae5-7c33-43dc-8609-abb6bdec104a"
     }
   ],
   "set": "Default",
