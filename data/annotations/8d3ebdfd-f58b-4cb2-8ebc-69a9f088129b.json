@@ -1,1 +1,36 @@
-{"annotations":[],"set":"Default","event_id":"89d7b77a-a06f-4c00-8b2c-428be3160af0","source_id":"a3bd1b4b-13f7-46eb-8350-549bdb4430fb"}
+{
+  "annotations": [
+    {
+      "start_time": 77,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As Nara claims she “grabbed Whimsy” because Whimsy wanted to “let out the chickens and get some raspberries”, she adds another detail that strengthens the lifestyle she has constructed throughout the video. Having chickens and gathering raspberries for breakfast are not necessary details for explaining her morning, however, Nara still chooses to include them. These details contribute to an image of family life that is connected to nature and domesticity while also remaining highly curated and aesthetically appealing. This moment also reinforces the message of the video, which presents Nara’s morning as a combination of motherhood, domestic responsibilities, and an intentionally peaceful lifestyle. Through the visual modality of showing her child, the chickens, and the natural setting, Nara communicates this message without having to explicitly state it. By selecting this moment to include in the video, Nara turns an ordinary family activity into part of her recognizable personal brand.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Persona"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Message"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Modality"
+        }
+      ],
+      "uuid": "95ff9af0-da48-44a2-af49-ab81ef48153a"
+    }
+  ],
+  "set": "Default",
+  "event_id": "89d7b77a-a06f-4c00-8b2c-428be3160af0",
+  "source_id": "a3bd1b4b-13f7-46eb-8350-549bdb4430fb"
+}
