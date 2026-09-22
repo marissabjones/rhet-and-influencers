@@ -230,6 +230,35 @@
         }
       ],
       "uuid": "f5c27ebb-edb7-41cf-8a52-2b62a67dd9cf"
+    },
+    {
+      "start_time": 41,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Joe gets an independent segment where he introduces himself and his pickles. Once he mentions his pickles, Serena decided to edit a picture of his logo that is usually on his jars to pop up on the screen. This video was not sponsored by Joe or by any other contributing company so Serena simply is promoting Joe’s pickles from the goodness of her heart helping the environment, community, and Joe’s business. Since the time constraints of TikTok tend to be restricted down to 1-3 minutes, Serena Neel needs to be able to utilize her time effectively in order to make her video as engaging as possible. The fact that a segment was set aside for Joe to make an introduction further demonstrates Serena’s credibility and her true dedication towards the cause represented in this video. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "216af171-f207-415e-b336-b394a279dcf4"
     }
   ],
   "set": "Default",
