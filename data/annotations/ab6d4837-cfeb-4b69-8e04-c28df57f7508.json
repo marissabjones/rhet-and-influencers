@@ -194,6 +194,35 @@
         }
       ],
       "uuid": "21fc783b-a0b9-49ff-8244-1cb10b29b4b3"
+    },
+    {
+      "start_time": 26,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "TikTok’s comment feature plays an important role in how Bloom’s video circulates. Comments allow viewers to share their reactions, turning the audience’s responses into another source of entertainment. For example, viewers commented, “Thank god my cat doesn’t have tiktok” which got 497.7K likes, and “not a cat eating caviar before me,” which received 184.2K likes. These comments reveal the disconnect between Bloom’s lifestyle and the experiences of most viewers. However, instead of dismissing Becca Bloom’s content, that disconnect becomes the appeal of her videos. The comment section therefore affords viewers a way to participate in the content by adding humor and reactions that other viewers can relate to. Through the comment section, the audience is not only engaging with Bloom, but also engaging with each other through their shared amusement at her wealth. Additionally, highly liked comments are boosted to the top of the comment sections, increasing its visibility and encouraging further engagement. This contributes to the TikTok’s circulation by keeping viewers engaged and curious about Becca Bloom."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Means of Communication",
+          "tag": "Circulation"
+        },
+        {
+          "category": "Platform",
+          "tag": "Affordance"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "8d601bd3-5ece-4f57-b046-13bc419f7a41"
     }
   ],
   "set": "Default",
