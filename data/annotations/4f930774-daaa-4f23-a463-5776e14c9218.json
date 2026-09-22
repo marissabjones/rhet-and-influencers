@@ -1,1 +1,23 @@
-{"annotations":[],"set":"Default","event_id":"bc4872ef-b228-4f86-a3d7-92fe09c4671f","source_id":"5acab4b0-1e76-4c68-b1a0-de3ae4a88b63"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chamberlain begins the video with a 1-2 second clip making a self-deprecating comment about how she looked in the moment, establishing her unfiltered persona and brand. Chamberlain’s target audience is teenage girls around the same age as her. She pioneered the messy bun, scrunchie, baggy clothes fashion that took over this demographic at the time. Her viewers consciously and subconsciously recreated her outfits and aesthetic and she became a staple of popular culture in the late 2010s. Many YouTubers would introduce themselves in the first couple seconds of their videos by saying something like “hey guys welcome back to my channel” or something similar. Chamberlain spearheaded this type of introduction to establish a casual, trustworthy connection with her audience. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8f2d80dc-9c04-4fc8-8b00-0f9cf5a2dfb9"
+    }
+  ],
+  "set": "Default",
+  "event_id": "bc4872ef-b228-4f86-a3d7-92fe09c4671f",
+  "source_id": "5acab4b0-1e76-4c68-b1a0-de3ae4a88b63"
+}
