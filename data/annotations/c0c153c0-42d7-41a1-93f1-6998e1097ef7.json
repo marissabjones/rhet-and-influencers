@@ -49,6 +49,35 @@
         }
       ],
       "uuid": "65588521-0934-4060-8f1b-f79e56508a5b"
+    },
+    {
+      "start_time": 2,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Noel shifts the focus away from his personal struggles onto his target audience: the young men and gym-goers that are actively navigating intense social and societal pressures. By directly addressing his viewers with direct eye contact with the camera and empathetic language, Noel manages to create a safe space that sharply contrasts with the typical hyper-masculine gym culture. This segment relies a lot on appealing to his audience’s emotions, validating their suppressed emotions and mental health struggles. Instead of speaking as an untouchable fitness authority, he is positioning himself as a relatable peer, a wise mentor, who understands their quiet battles, encouraging his followers to break the silence surrounding men’s emotional wellbeing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Pathos"
+        }
+      ],
+      "uuid": "e6e8a713-755d-4f0d-99bb-047735436c44"
     }
   ],
   "set": "Default",
