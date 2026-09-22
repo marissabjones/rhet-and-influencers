@@ -78,6 +78,35 @@
         }
       ],
       "uuid": "4b017e26-ae2b-498e-8f99-a18be053c46c"
+    },
+    {
+      "start_time": 58,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dr. Mike uses enumeration to emphasize the rigor and emotional cost of being a medical professional, then juxtaposes that intensity with apathy toward financial compensation—thereby establishing an ethos that portrays himself, and doctors generally, as morally altruistic individuals. Through another anecdote, Dr. Mike describes, in succession, a crisis in which he experienced not one, not two, but three medical emergencies back-to-back, then uses hypophora—“Do I need money for that?”— asking a rhetorical question and immediately answering it with “I couldn’t care less.” As an audience member, conceptualizing the tragedy of three simultaneous medical emergencies, the prospect that a doctor thinks of the patient first and finances last builds a sense of trust and credibility. In fact, money isn't even on their list of duties; it's a brief afterthought after an exhaustive list of other obligations doctors choose to endure in the pursuit of helping humanity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Ethics"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Humility"
+        }
+      ],
+      "uuid": "22d0e302-93c6-4903-95d6-cc22f54e70fb"
     }
   ],
   "set": "Default",
