@@ -24,6 +24,39 @@
         }
       ],
       "uuid": "c3aa9393-2e03-4fc3-9f03-0b5beca601ee"
+    },
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bloom immediately establishes her wealthy persona through the visual details in her video. As she begins plating her cat’s breakfast on decorative chargers, her floral outfit paired with noticeable jewelry, including her Van Cleef necklaces and other luxury pieces, signal wealth. These visual choices appeal to ethos by reinforcing her established image as a luxury lifestyle influencer. Instead of verbally explaining her financial status, she relies on visual modality formed through her appearance and setting to communicate it. This is also an affordance provided by TikTok’s visual format, allowing viewers to quickly recognize these features of her video without additional explanation. This presentation strengthens Bloom’s credibility as a luxury influencer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Misc.",
+          "tag": "Aesthetic"
+        },
+        {
+          "category": "Rhetorical Appeals",
+          "tag": "Ethos"
+        },
+        {
+          "category": "Means of Communication",
+          "tag": "Modality"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Visual Affordance"
+        }
+      ],
+      "uuid": "3e7fca24-6a70-4d1c-884b-be4129567243"
     }
   ],
   "set": "Default",
