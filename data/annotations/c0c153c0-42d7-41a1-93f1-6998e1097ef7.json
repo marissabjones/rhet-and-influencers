@@ -107,6 +107,35 @@
         }
       ],
       "uuid": "33743e6a-d7cc-4b8c-b68b-5fb64a47aba6"
+    },
+    {
+      "start_time": 0,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Noel's primary purpose throughout this reel is to destigmatize mental health struggles among young men whilst providing a message of hope and survival to men of all ages. By combining his personal account of overcoming depression, where he nearly gave in multiple times, with an explicit call to action during Men's Mental Health Month, he aims to shift fitness culture away from pure aesthetic obsession towards overall well-being, physical and mental. He utilizes a balance of vulnerability and wisdom to convince his audience that reaching out for help is a sign of strength, a polar opposite of what has been instilled in them over their lifetimes. Ultimately, his goal extends beyond entertainment or promoting his brands and sponsors; he seeks to save lives by normalizing emotional transparency."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Purpose"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Vulnerability"
+        }
+      ],
+      "uuid": "8025f884-43c4-4be5-a21e-2ff4ed522982"
     }
   ],
   "set": "Default",
