@@ -29,7 +29,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[Class definition of an influencer: MBJ]"
+          "text": "An influencer is a person who builds a personal brand based on their lifestyle and/or an ideology. Influencers persuade with the intention of marketing and performing a persona to an audience by creating content that is shared across multiple platforms. Influencers rely on their following and must maintain consistent engagement and an awareness of algorithmic platforms and trends."
         }
       ]
     },
@@ -55,7 +55,8 @@
         {
           "text": "Old School Creators --- Rising to Fame"
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -63,7 +64,8 @@
         {
           "text": "Medical Influencers --- Science & Education"
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -71,7 +73,8 @@
         {
           "text": "Luxury Lifestyles --- Celebrity Influencers"
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -79,7 +82,8 @@
         {
           "text": "Fitness & Health --- Ragebait"
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -87,7 +91,8 @@
         {
           "text": "Community Building"
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -121,7 +126,7 @@
   "created_at": "2026-07-14T20:41:13.293Z",
   "created_by": "marissabjones",
   "title": "Influencer Rhetorical Analysis",
-  "updated_at": "2026-09-05T18:53:49.376Z",
+  "updated_at": "2026-09-22T02:09:56.607Z",
   "updated_by": "marissabjones",
   "autogenerate": {
     "enabled": false,
