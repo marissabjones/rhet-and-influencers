@@ -169,6 +169,35 @@
         }
       ],
       "uuid": "1798540c-1ca5-4e90-bfb0-cfcdfd41ce3e"
+    },
+    {
+      "start_time": 108,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the end of the video, Dr. Mike appears to use ragebait-adjacent phrasing to incite frustration among his audience about the political and economic landscape of healthcare and governmental regulation. He argues that Secretary Kennedy calls Dr. Mike a “Profit Monger” and rhetorically asks the individual on camera with him, “Doesn’t that make you angry?” Dr. Mike is laying the groundwork for his audience to become outraged alongside him, others likely frustrated with the healthcare system, perhaps by Secretary Kennedy's aim to unsubstantiatedly defame Tylenol as used by pregnant women or to reduce vaccination requirements, topics Dr. Mike has covered. As a result, Dr. Mike begins vilifying the individual that he argued did the same to him. In this way, Dr. Mike is also creating a false dilemma to incite outrage within his audience. By arguing that Secretary Kennedy is spending his time calling out Dr. Mike, he seems to imply that Secretary Kennedy can’t prioritize other issues within the healthcare system. The ethical issue is that those who trust Dr. Mike as a credible individual may not think deeply about this committed fallacy and emerge outraged at Secretary Kennedy, not for actual missteps, but for personal feuds. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Situation",
+          "tag": "Audience"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Ragebait"
+        },
+        {
+          "category": "Misc.",
+          "tag": "Logical Fallacy"
+        }
+      ],
+      "uuid": "663bdf34-2f56-4241-b49e-14dbdfadd4db"
     }
   ],
   "set": "Default",
