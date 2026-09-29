@@ -165,6 +165,58 @@
       ]
     },
     {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://i.pinimg.com/736x/26/57/71/2657718f6fab4c6b550ec3266ab5dc34.jpg",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Science & Education"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "horizontal-separator",
       "children": [
         {
@@ -188,7 +240,7 @@
   "created_at": "2026-07-14T20:41:13.293Z",
   "created_by": "marissabjones",
   "title": "Influencer Rhetorical Analysis",
-  "updated_at": "2026-09-27T16:07:26.108Z",
+  "updated_at": "2026-09-29T14:12:42.586Z",
   "updated_by": "marissabjones",
   "autogenerate": {
     "enabled": false,
