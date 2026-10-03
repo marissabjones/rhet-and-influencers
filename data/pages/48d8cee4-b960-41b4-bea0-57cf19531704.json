@@ -57,7 +57,11 @@
           "strikethrough": true
         },
         {
-          "text": " --- Rising to Fame"
+          "text": " --- "
+        },
+        {
+          "text": "Rising to Fame",
+          "strikethrough": true
         }
       ],
       "align": "center"
@@ -153,12 +157,15 @@
           "type": "column",
           "children": [
             {
-              "type": "paragraph",
+              "type": "image",
+              "url": "https://i.pinimg.com/736x/5a/27/27/5a2727c14bf2bfd5dac40b1d7b247e2a.jpg",
               "children": [
                 {
-                  "text": "Rising to Fame group "
+                  "text": ""
                 }
-              ]
+              ],
+              "scale": 92,
+              "align": "center"
             }
           ]
         }
@@ -301,7 +308,7 @@
   "created_at": "2026-07-14T20:41:13.293Z",
   "created_by": "marissabjones",
   "title": "Influencer Rhetorical Analysis",
-  "updated_at": "2026-10-03T20:35:41.574Z",
+  "updated_at": "2026-10-03T20:42:51.474Z",
   "updated_by": "marissabjones",
   "autogenerate": {
     "enabled": false,
