@@ -53,7 +53,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Old School Creators --- Rising to Fame"
+          "text": "Old School Creators",
+          "strikethrough": true
+        },
+        {
+          "text": " --- Rising to Fame"
         }
       ],
       "align": "center"
@@ -62,7 +66,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Medical Influencers --- Science & Education"
+          "text": "Medical Influencers",
+          "strikethrough": true
+        },
+        {
+          "text": " --- "
+        },
+        {
+          "text": "Science & Education",
+          "strikethrough": true
         }
       ],
       "align": "center"
@@ -71,7 +83,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Luxury Lifestyles --- Celebrity Influencers"
+          "text": "Luxury Lifestyles",
+          "strikethrough": true
+        },
+        {
+          "text": " --- Celebrity Influencers"
         }
       ],
       "align": "center"
@@ -189,10 +205,11 @@
           "type": "column",
           "children": [
             {
-              "type": "paragraph",
+              "type": "image",
+              "url": "https://i.pinimg.com/736x/de/db/d6/dedbd6662f2818eab2acef14aeb612db.jpg",
               "children": [
                 {
-                  "text": "Science & Education"
+                  "text": ""
                 }
               ]
             }
@@ -205,6 +222,50 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://i.pinimg.com/736x/1a/22/e2/1a22e2c8a5db2b1f626439df628fde42.jpg",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -240,7 +301,7 @@
   "created_at": "2026-07-14T20:41:13.293Z",
   "created_by": "marissabjones",
   "title": "Influencer Rhetorical Analysis",
-  "updated_at": "2026-09-29T14:12:42.586Z",
+  "updated_at": "2026-10-03T20:35:41.574Z",
   "updated_by": "marissabjones",
   "autogenerate": {
     "enabled": false,
