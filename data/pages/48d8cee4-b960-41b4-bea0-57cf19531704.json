@@ -100,7 +100,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Fitness & Health --- Ragebait"
+          "text": "Fitness & Health --- "
+        },
+        {
+          "text": "Ragebait",
+          "strikethrough": true
         }
       ],
       "align": "center"
@@ -109,7 +113,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Community Building"
+          "text": "Community Building",
+          "strikethrough": true
         }
       ],
       "align": "center"
@@ -268,7 +273,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "celebrity influencers"
                 }
               ]
             }
@@ -306,7 +311,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "fitness & health"
                 }
               ]
             }
@@ -322,6 +327,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://i.pinimg.com/736x/43/43/7a/43437a63d4fe3c5dbfbb39fde6453009.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "scale": 43,
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -355,7 +379,7 @@
   "created_at": "2026-07-14T20:41:13.293Z",
   "created_by": "marissabjones",
   "title": "Influencer Rhetorical Analysis",
-  "updated_at": "2026-10-04T19:33:39.618Z",
+  "updated_at": "2026-10-04T19:37:37.999Z",
   "updated_by": "marissabjones",
   "autogenerate": {
     "enabled": false,
